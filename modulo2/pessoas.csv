@@ -1,0 +1,2128 @@
+﻿cod_pessoa,data_coleta,genero,data_nascimento,animal_estimacao,clima,bebida_favorita,hobbies
+10141743,1/1/2020,Masculino,4/25/1981,peixe,frio,Cerveja,Praticar esporte
+10141860,1/1/2020,Feminino,1/19/1966,peixe,quente,Café,Assistir TV
+10142548,1/1/2020,Masculino,8/2/1973,tartaruga,frio,Café,Ler livros
+10142591,1/1/2020,Masculino,3/5/1997,gato,moderado,Cerveja,Aprender algo novo
+10142654,1/1/2020,Feminino,8/5/1969,tartaruga,moderado,Café,Assistir TV
+10141523,1/2/2020,Feminino,9/24/1998,gato,quente,Cerveja,Aprender algo novo
+10141996,1/2/2020,Feminino,3/13/1973,tartaruga,quente,refrigerante,Escrever
+10142089,1/2/2020,Feminino,3/23/1970,gato,moderado,Água,Pintar quadros
+10142145,1/2/2020,Masculino,8/1/1998,peixe,frio,refrigerante,Escrever
+10142520,1/2/2020,Masculino,5/9/1994,peixe,moderado,Café,Praticar esporte
+10143160,1/2/2020,Feminino,9/18/1967,tartaruga,moderado,Vinho,Dormir
+10141712,1/3/2020,Masculino,8/13/1951,peixe,moderado,Chá,Praticar esporte
+10141987,1/3/2020,Feminino,4/23/1978,cachorro,frio,Chá,Escrever
+10142093,1/3/2020,Masculino,9/3/1986,gato,frio,refrigerante,Pintar quadros
+10142325,1/3/2020,Masculino,10/18/1965,gato,quente,refrigerante,Dormir
+10142552,1/3/2020,Masculino,6/27/1982,tartaruga,quente,Café,Assistir TV
+10142598,1/3/2020,Masculino,9/27/1953,cachorro,moderado,Café,Ler livros
+10143013,1/3/2020,Masculino,4/1/1959,gato,frio,Água,Assistir TV
+10141570,1/4/2020,Feminino,11/9/1953,tartaruga,quente,Cerveja,Aprender algo novo
+10141851,1/4/2020,Feminino,10/24/1977,gato,moderado,Café,Ler livros
+10141938,1/4/2020,Feminino,3/5/1957,gato,moderado,Café,Escrever
+10142733,1/4/2020,Masculino,1/12/1978,tartaruga,quente,Cerveja,Pintar quadros
+10142851,1/4/2020,Masculino,12/22/1982,gato,frio,refrigerante,Dormir
+10142941,1/4/2020,Masculino,4/19/1966,gato,quente,Vinho,Praticar esporte
+10143484,1/4/2020,Masculino,5/31/1976,gato,moderado,Café,Dormir
+10141877,1/5/2020,Feminino,5/24/1963,tartaruga,moderado,refrigerante,Pintar quadros
+10142310,1/5/2020,Masculino,8/22/1978,peixe,quente,Cerveja,Aprender algo novo
+10142471,1/5/2020,Masculino,2/23/1979,cachorro,frio,Chá,Aprender algo novo
+10142597,1/5/2020,Masculino,7/18/1981,gato,frio,Chá,Ler livros
+10143070,1/5/2020,Masculino,9/24/1989,cachorro,frio,Chá,Ler livros
+10143526,1/5/2020,Feminino,5/10/1964,cachorro,frio,Vinho,Aprender algo novo
+10141671,1/6/2020,Feminino,12/28/1963,gato,quente,refrigerante,Aprender algo novo
+10142969,1/6/2020,Feminino,4/3/1956,gato,moderado,Vinho,Escutar música
+10143233,1/6/2020,Masculino,2/25/1987,tartaruga,quente,Cerveja,Pintar quadros
+10141745,1/7/2020,Masculino,10/19/1982,cachorro,quente,Cerveja,Dormir
+10141826,1/7/2020,Feminino,1/26/1973,peixe,moderado,refrigerante,Escrever
+10142330,1/7/2020,Masculino,3/16/1982,gato,moderado,refrigerante,Aprender algo novo
+10142711,1/7/2020,Masculino,6/19/1960,cachorro,moderado,Água,Aprender algo novo
+10143397,1/7/2020,Feminino,10/31/1972,peixe,frio,Café,Pintar quadros
+10141581,1/8/2020,Feminino,9/19/1978,tartaruga,frio,Chá,Assistir TV
+10141733,1/8/2020,Feminino,7/22/1976,peixe,frio,Água,Assistir TV
+10141836,1/8/2020,Feminino,4/16/1978,cachorro,quente,refrigerante,Escrever
+10141862,1/8/2020,Feminino,10/23/1985,tartaruga,quente,Café,Praticar esporte
+10143185,1/8/2020,Masculino,11/15/1958,gato,frio,Chá,Aprender algo novo
+10143284,1/8/2020,Masculino,12/25/1979,peixe,quente,Café,Escutar música
+10143286,1/8/2020,Masculino,10/23/1988,gato,quente,Café,Escrever
+10141861,1/9/2020,Feminino,3/27/1957,peixe,moderado,refrigerante,Ler livros
+10142291,1/9/2020,Masculino,6/14/1998,peixe,frio,refrigerante,Pintar quadros
+10142360,1/9/2020,Masculino,3/11/1974,gato,frio,Chá,Assistir TV
+10142498,1/9/2020,Masculino,4/12/1974,tartaruga,quente,Vinho,Praticar esporte
+10142687,1/9/2020,Masculino,8/23/1954,peixe,frio,Café,Aprender algo novo
+10142984,1/9/2020,Masculino,11/24/1958,peixe,frio,Vinho,Assistir TV
+10143351,1/9/2020,Masculino,6/15/1959,gato,moderado,Café,Aprender algo novo
+10143396,1/9/2020,Masculino,3/25/1973,peixe,frio,Café,Assistir TV
+10143608,1/9/2020,Feminino,12/29/1953,gato,frio,Café,Ler livros
+10141521,1/10/2020,Feminino,3/14/1984,gato,frio,Cerveja,Assistir TV
+10141653,1/10/2020,Feminino,11/24/1957,tartaruga,quente,Cerveja,Escrever
+10142206,1/10/2020,Masculino,9/29/1997,cachorro,quente,Cerveja,Aprender algo novo
+10142556,1/10/2020,Masculino,1/11/1967,gato,quente,Água,Ler livros
+10142828,1/10/2020,Masculino,12/12/1961,gato,quente,Café,Aprender algo novo
+10143119,1/10/2020,Feminino,11/13/1961,gato,frio,Café,Assistir TV
+10143472,1/10/2020,Feminino,1/3/1979,peixe,moderado,Vinho,Aprender algo novo
+10141942,1/11/2020,Feminino,3/4/1950,peixe,frio,Chá,Pintar quadros
+10142080,1/11/2020,Masculino,4/11/1960,cachorro,moderado,Vinho,Aprender algo novo
+10142218,1/11/2020,Masculino,3/11/1958,gato,frio,Água,Assistir TV
+10142782,1/11/2020,Feminino,2/6/1976,gato,frio,Água,Assistir TV
+10142939,1/11/2020,Masculino,11/5/1976,gato,quente,Café,Aprender algo novo
+10143031,1/11/2020,Masculino,12/10/1992,tartaruga,quente,Vinho,Pintar quadros
+10143579,1/11/2020,Masculino,6/14/1993,tartaruga,quente,Café,Escutar música
+10141504,1/12/2020,Masculino,9/9/1979,gato,moderado,Cerveja,Escrever
+10141607,1/12/2020,Feminino,10/24/1962,tartaruga,quente,refrigerante,Escrever
+10141999,1/12/2020,Feminino,9/14/1955,peixe,quente,Água,Escutar música
+10142201,1/12/2020,Masculino,7/23/1959,cachorro,quente,Água,Ler livros
+10142266,1/12/2020,Feminino,3/13/1952,tartaruga,quente,refrigerante,Assistir TV
+10142925,1/12/2020,Masculino,2/24/1977,cachorro,quente,Cerveja,Assistir TV
+10143169,1/12/2020,Feminino,8/10/1996,peixe,frio,Cerveja,Ler livros
+10141518,1/13/2020,Masculino,6/12/1959,tartaruga,frio,Água,Aprender algo novo
+10142083,1/13/2020,Masculino,2/22/1959,gato,moderado,Água,Dormir
+10142537,1/13/2020,Masculino,8/20/1994,cachorro,quente,Cerveja,Escrever
+10142628,1/13/2020,Feminino,4/20/1954,gato,moderado,Vinho,Aprender algo novo
+10142815,1/13/2020,Masculino,3/21/1962,cachorro,quente,Café,Dormir
+10142923,1/13/2020,Masculino,10/28/1980,cachorro,quente,Chá,Assistir TV
+10141822,1/14/2020,Feminino,9/11/1952,gato,quente,Vinho,Escutar música
+10142560,1/14/2020,Masculino,6/25/1983,peixe,frio,Cerveja,Ler livros
+10142562,1/14/2020,Masculino,3/6/1963,gato,quente,Água,Dormir
+10142773,1/14/2020,Masculino,9/15/1960,gato,quente,Café,Escutar música
+10142931,1/14/2020,Masculino,7/27/1967,tartaruga,frio,Vinho,Dormir
+10143028,1/14/2020,Masculino,5/28/1997,gato,frio,Café,Praticar esporte
+10143140,1/14/2020,Feminino,1/16/1997,gato,frio,Água,Assistir TV
+10143199,1/14/2020,Masculino,3/26/1983,gato,quente,refrigerante,Dormir
+10142171,1/15/2020,Masculino,9/25/1970,gato,moderado,Cerveja,Escrever
+10142179,1/15/2020,Masculino,1/31/1950,cachorro,quente,Cerveja,Assistir TV
+10142530,1/15/2020,Masculino,7/31/1982,gato,quente,Cerveja,Praticar esporte
+10143547,1/15/2020,Masculino,7/8/1978,gato,quente,Água,Dormir
+10143621,1/15/2020,Masculino,11/11/1999,gato,frio,Água,Escutar música
+10142036,1/16/2020,Feminino,4/19/1965,tartaruga,frio,Água,Escutar música
+10142053,1/16/2020,Feminino,10/21/1968,peixe,quente,refrigerante,Praticar esporte
+10141582,1/17/2020,Feminino,9/13/1998,gato,moderado,Café,Ler livros
+10142028,1/17/2020,Feminino,2/19/1967,gato,quente,Cerveja,Praticar esporte
+10142452,1/17/2020,Masculino,9/24/1984,tartaruga,frio,Chá,Dormir
+10143075,1/17/2020,Masculino,6/16/1974,gato,moderado,Água,Assistir TV
+10143273,1/17/2020,Feminino,1/4/1983,gato,quente,refrigerante,Dormir
+10143371,1/17/2020,Masculino,3/6/1995,gato,moderado,Vinho,Assistir TV
+10141615,1/18/2020,Feminino,11/25/1981,cachorro,frio,Café,Praticar esporte
+10141659,1/18/2020,Masculino,10/20/1956,gato,frio,Café,Aprender algo novo
+10141677,1/18/2020,Masculino,10/9/1982,cachorro,frio,Chá,Assistir TV
+10141835,1/18/2020,Feminino,1/8/1982,tartaruga,frio,Café,Pintar quadros
+10141926,1/18/2020,Feminino,6/26/1990,peixe,moderado,refrigerante,Dormir
+10141968,1/18/2020,Feminino,10/13/1999,tartaruga,quente,Vinho,Escutar música
+10142317,1/18/2020,Masculino,7/8/1954,cachorro,frio,Café,Escutar música
+10142641,1/18/2020,Feminino,2/23/1954,tartaruga,frio,Água,Pintar quadros
+10143080,1/18/2020,Masculino,7/6/1957,gato,frio,Café,Ler livros
+10143191,1/18/2020,Masculino,2/28/1959,cachorro,quente,Chá,Escutar música
+10143509,1/18/2020,Masculino,4/14/1963,gato,quente,Água,Dormir
+10143590,1/18/2020,Masculino,3/23/1956,tartaruga,moderado,Café,Escrever
+10141520,1/19/2020,Masculino,10/8/1984,tartaruga,quente,refrigerante,Praticar esporte
+10141747,1/19/2020,Masculino,9/30/1983,peixe,frio,Chá,Escutar música
+10142084,1/19/2020,Masculino,6/25/1953,gato,moderado,Vinho,Pintar quadros
+10142120,1/19/2020,Feminino,5/5/1976,peixe,moderado,Chá,Escutar música
+10142175,1/19/2020,Masculino,4/28/1999,gato,moderado,Vinho,Dormir
+10142816,1/19/2020,Masculino,9/8/1979,cachorro,quente,Vinho,Pintar quadros
+10143073,1/19/2020,Masculino,1/3/1986,tartaruga,moderado,Café,Escutar música
+10143079,1/19/2020,Masculino,12/29/1974,gato,moderado,Vinho,Escrever
+10141580,1/20/2020,Feminino,4/22/1969,gato,quente,Café,Escrever
+10142357,1/20/2020,Masculino,2/27/1987,cachorro,frio,Chá,Assistir TV
+10142737,1/20/2020,Masculino,2/15/1976,peixe,moderado,Água,Escutar música
+10142792,1/20/2020,Masculino,4/15/1998,tartaruga,quente,Vinho,Pintar quadros
+10143033,1/20/2020,Masculino,12/27/1950,peixe,moderado,Café,Pintar quadros
+10143228,1/20/2020,Masculino,7/26/1965,gato,moderado,Água,Aprender algo novo
+10143240,1/20/2020,Masculino,5/7/1964,tartaruga,moderado,Vinho,Escrever
+10141799,1/21/2020,Feminino,1/7/1984,gato,quente,refrigerante,Pintar quadros
+10142117,1/21/2020,Masculino,4/23/1988,cachorro,frio,refrigerante,Dormir
+10142380,1/21/2020,Masculino,12/30/1997,peixe,quente,Chá,Escrever
+10142559,1/21/2020,Masculino,11/3/1955,peixe,frio,Cerveja,Escutar música
+10142921,1/21/2020,Masculino,9/22/1999,gato,moderado,Cerveja,Dormir
+10143421,1/21/2020,Feminino,12/12/1967,tartaruga,frio,Água,Dormir
+10143553,1/21/2020,Masculino,2/22/1986,peixe,quente,Café,Praticar esporte
+10141650,1/22/2020,Feminino,5/20/1966,gato,quente,Água,Escutar música
+10142470,1/22/2020,Masculino,9/10/1963,gato,frio,Água,Ler livros
+10142508,1/22/2020,Masculino,8/21/1984,tartaruga,quente,Cerveja,Escrever
+10143046,1/22/2020,Masculino,2/7/1994,tartaruga,frio,Cerveja,Escrever
+10143133,1/22/2020,Feminino,12/23/1973,cachorro,quente,Cerveja,Praticar esporte
+10143543,1/22/2020,Masculino,6/25/1982,peixe,frio,Vinho,Escrever
+10141772,1/23/2020,Feminino,2/3/1980,tartaruga,moderado,refrigerante,Pintar quadros
+10141947,1/23/2020,Masculino,6/5/1951,peixe,moderado,Cerveja,Escrever
+10142106,1/23/2020,Masculino,1/15/1956,tartaruga,frio,Café,Escrever
+10142269,1/23/2020,Masculino,9/1/1969,cachorro,moderado,refrigerante,Praticar esporte
+10142525,1/23/2020,Masculino,1/17/1957,cachorro,moderado,Vinho,Escutar música
+10143277,1/23/2020,Feminino,11/19/1959,cachorro,quente,Vinho,Dormir
+10141945,1/24/2020,Feminino,10/30/1953,tartaruga,moderado,Café,Dormir
+10142043,1/24/2020,Masculino,5/30/1999,cachorro,moderado,Cerveja,Ler livros
+10142519,1/24/2020,Masculino,12/23/1992,tartaruga,moderado,Água,Ler livros
+10143475,1/24/2020,Feminino,12/28/1991,gato,quente,Vinho,Escutar música
+10143613,1/24/2020,Feminino,11/20/1982,gato,quente,Chá,Pintar quadros
+10141792,1/25/2020,Feminino,12/4/1988,cachorro,frio,Água,Praticar esporte
+10142112,1/25/2020,Masculino,7/7/1997,gato,quente,refrigerante,Ler livros
+10142388,1/25/2020,Masculino,9/9/1984,tartaruga,moderado,Cerveja,Dormir
+10142876,1/25/2020,Masculino,3/4/1983,gato,frio,Café,Praticar esporte
+10142990,1/25/2020,Masculino,4/23/1964,cachorro,quente,Cerveja,Dormir
+10143163,1/25/2020,Feminino,3/8/1970,tartaruga,quente,Cerveja,Aprender algo novo
+10141673,1/26/2020,Feminino,9/1/1966,tartaruga,moderado,Vinho,Pintar quadros
+10142268,1/26/2020,Masculino,2/16/1969,gato,moderado,Água,Pintar quadros
+10142756,1/26/2020,Masculino,5/22/1969,gato,frio,refrigerante,Escrever
+10142867,1/26/2020,Masculino,3/12/1963,peixe,moderado,refrigerante,Aprender algo novo
+10143045,1/26/2020,Masculino,1/22/1970,gato,frio,Vinho,Praticar esporte
+10143424,1/26/2020,Masculino,1/25/1993,tartaruga,moderado,Chá,Praticar esporte
+10142023,1/27/2020,Feminino,9/19/1995,gato,moderado,Água,Aprender algo novo
+10142061,1/27/2020,Masculino,7/22/1953,gato,moderado,Chá,Escutar música
+10142545,1/27/2020,Masculino,12/27/1960,cachorro,quente,Água,Escutar música
+10143092,1/27/2020,Masculino,7/15/1970,peixe,moderado,refrigerante,Escutar música
+10142051,1/28/2020,Feminino,9/24/1973,cachorro,quente,Chá,Ler livros
+10142540,1/28/2020,Masculino,6/12/1980,gato,frio,Cerveja,Praticar esporte
+10143157,1/28/2020,Masculino,3/2/1951,cachorro,frio,refrigerante,Assistir TV
+10143276,1/28/2020,Feminino,9/6/1969,peixe,frio,Chá,Aprender algo novo
+10142588,1/29/2020,Masculino,10/3/1993,gato,quente,Chá,Assistir TV
+10142976,1/29/2020,Masculino,2/19/1991,cachorro,quente,Cerveja,Escrever
+10143146,1/29/2020,Feminino,4/25/1979,cachorro,quente,Cerveja,Escrever
+10143154,1/29/2020,Feminino,3/16/1998,cachorro,quente,refrigerante,Ler livros
+10143323,1/29/2020,Masculino,7/31/1995,tartaruga,frio,Chá,Escutar música
+10142512,1/30/2020,Masculino,11/9/1979,gato,moderado,refrigerante,Assistir TV
+10142668,1/30/2020,Masculino,4/27/1998,gato,moderado,refrigerante,Pintar quadros
+10142685,1/30/2020,Masculino,3/21/1976,peixe,frio,Chá,Aprender algo novo
+10143086,1/30/2020,Masculino,5/11/1960,cachorro,frio,refrigerante,Escrever
+10143113,1/30/2020,Masculino,12/13/1958,gato,frio,Água,Ler livros
+10143253,1/30/2020,Masculino,3/21/1974,gato,moderado,refrigerante,Escrever
+10141565,1/31/2020,Feminino,2/22/1977,gato,frio,Vinho,Ler livros
+10142079,1/31/2020,Masculino,12/1/1982,gato,quente,refrigerante,Dormir
+10142232,1/31/2020,Masculino,1/9/1983,tartaruga,frio,Cerveja,Dormir
+10142572,1/31/2020,Masculino,2/8/1963,peixe,moderado,Cerveja,Assistir TV
+10142640,1/31/2020,Feminino,7/6/1987,tartaruga,moderado,Água,Escutar música
+10142750,1/31/2020,Masculino,5/31/1954,cachorro,frio,Café,Pintar quadros
+10142918,1/31/2020,Masculino,10/26/1961,gato,moderado,Água,Dormir
+10142987,1/31/2020,Masculino,10/26/1976,cachorro,frio,Chá,Aprender algo novo
+10143060,1/31/2020,Masculino,11/8/1997,gato,moderado,refrigerante,Praticar esporte
+10143120,1/31/2020,Feminino,8/11/1965,peixe,frio,Café,Dormir
+10142253,2/1/2020,Masculino,1/16/1997,gato,moderado,Café,Escutar música
+10142335,2/1/2020,Masculino,5/1/1951,gato,quente,Cerveja,Dormir
+10142369,2/1/2020,Masculino,11/1/1954,gato,frio,Cerveja,Escutar música
+10142511,2/1/2020,Masculino,11/1/1971,peixe,quente,Vinho,Escutar música
+10143436,2/1/2020,Feminino,10/1/1976,peixe,moderado,Café,Escrever
+10141679,2/2/2020,Masculino,10/23/1950,cachorro,quente,Café,Escrever
+10142041,2/2/2020,Masculino,7/27/1977,tartaruga,quente,refrigerante,Praticar esporte
+10142638,2/2/2020,Feminino,3/3/1982,peixe,quente,refrigerante,Dormir
+10143389,2/2/2020,Masculino,3/2/1965,tartaruga,moderado,refrigerante,Escrever
+10141710,2/3/2020,Masculino,4/1/1990,tartaruga,quente,Chá,Aprender algo novo
+10142160,2/3/2020,Masculino,3/13/1996,tartaruga,frio,Chá,Escrever
+10142172,2/3/2020,Masculino,5/10/1963,gato,frio,refrigerante,Assistir TV
+10142187,2/3/2020,Masculino,10/22/1956,gato,quente,Café,Praticar esporte
+10142290,2/3/2020,Masculino,12/25/1985,gato,quente,Vinho,Dormir
+10142983,2/3/2020,Masculino,4/3/1969,cachorro,moderado,Água,Escrever
+10143519,2/3/2020,Masculino,3/30/1980,gato,quente,Cerveja,Ler livros
+10143580,2/3/2020,Masculino,7/16/1995,peixe,frio,Café,Escrever
+10141554,2/4/2020,Feminino,5/3/1967,cachorro,frio,Água,Dormir
+10141715,2/4/2020,Feminino,5/8/1987,cachorro,quente,refrigerante,Escutar música
+10141863,2/4/2020,Feminino,2/8/1985,gato,moderado,Água,Ler livros
+10142247,2/4/2020,Masculino,1/23/1971,cachorro,quente,Vinho,Dormir
+10142391,2/4/2020,Masculino,10/5/1968,gato,quente,Chá,Escrever
+10143200,2/4/2020,Masculino,6/13/1972,cachorro,moderado,Vinho,Dormir
+10143250,2/4/2020,Masculino,3/3/1962,gato,frio,refrigerante,Dormir
+10141644,2/5/2020,Masculino,6/4/1977,gato,moderado,Cerveja,Escutar música
+10141705,2/5/2020,Feminino,11/9/1984,gato,moderado,refrigerante,Escrever
+10141966,2/5/2020,Feminino,2/27/1969,gato,moderado,Água,Dormir
+10142260,2/5/2020,Masculino,8/1/1985,gato,moderado,Café,Pintar quadros
+10142336,2/5/2020,Masculino,7/24/1987,gato,frio,Vinho,Praticar esporte
+10142610,2/5/2020,Feminino,8/26/1969,cachorro,moderado,refrigerante,Assistir TV
+10143294,2/5/2020,Masculino,12/15/1989,gato,quente,Água,Escrever
+10141528,2/6/2020,Masculino,5/9/1952,gato,moderado,refrigerante,Escutar música
+10141668,2/6/2020,Feminino,2/20/1993,gato,frio,Café,Dormir
+10141780,2/6/2020,Feminino,8/10/1999,gato,quente,Cerveja,Assistir TV
+10142620,2/6/2020,Feminino,3/10/1957,cachorro,moderado,Café,Aprender algo novo
+10143298,2/6/2020,Masculino,4/20/1964,cachorro,frio,Café,Escutar música
+10143365,2/6/2020,Feminino,7/29/1982,cachorro,quente,Cerveja,Escrever
+10141564,2/7/2020,Masculino,10/16/1956,gato,moderado,Chá,Aprender algo novo
+10142270,2/7/2020,Masculino,11/4/1957,peixe,quente,Vinho,Praticar esporte
+10143508,2/7/2020,Masculino,7/7/1978,gato,frio,Água,Dormir
+10143556,2/7/2020,Feminino,3/17/1997,gato,quente,Cerveja,Praticar esporte
+10142186,2/8/2020,Masculino,6/14/1999,gato,moderado,Café,Dormir
+10142497,2/8/2020,Masculino,5/14/1950,cachorro,moderado,Café,Aprender algo novo
+10142587,2/8/2020,Masculino,1/22/1987,peixe,frio,Chá,Assistir TV
+10142652,2/8/2020,Masculino,11/4/1966,cachorro,moderado,Cerveja,Aprender algo novo
+10142655,2/8/2020,Feminino,2/4/1964,tartaruga,quente,Chá,Pintar quadros
+10143056,2/8/2020,Masculino,12/9/1976,gato,frio,Cerveja,Aprender algo novo
+10141577,2/9/2020,Masculino,6/18/1951,cachorro,quente,Água,Assistir TV
+10141906,2/9/2020,Feminino,8/29/1972,gato,frio,Água,Escrever
+10141916,2/9/2020,Masculino,7/11/1974,cachorro,quente,Chá,Aprender algo novo
+10142009,2/9/2020,Feminino,11/6/1995,cachorro,quente,Cerveja,Pintar quadros
+10142241,2/9/2020,Masculino,5/27/1968,tartaruga,frio,Chá,Pintar quadros
+10142273,2/9/2020,Masculino,9/29/1953,peixe,frio,Café,Escutar música
+10142617,2/9/2020,Masculino,3/10/1974,gato,quente,Café,Escutar música
+10143040,2/9/2020,Masculino,4/27/1972,gato,frio,Cerveja,Escutar música
+10142557,2/10/2020,Masculino,1/6/1972,tartaruga,frio,Água,Pintar quadros
+10142820,2/10/2020,Masculino,7/5/1983,tartaruga,quente,refrigerante,Praticar esporte
+10143231,2/10/2020,Masculino,1/16/1982,gato,frio,Cerveja,Pintar quadros
+10143521,2/10/2020,Feminino,6/15/1976,gato,frio,Água,Ler livros
+10142109,2/11/2020,Masculino,5/24/1998,peixe,quente,Café,Assistir TV
+10142521,2/11/2020,Masculino,9/13/1973,cachorro,frio,Chá,Praticar esporte
+10143134,2/11/2020,Feminino,10/6/1963,peixe,quente,Vinho,Dormir
+10143180,2/11/2020,Masculino,9/30/1983,peixe,quente,Água,Dormir
+10143314,2/11/2020,Masculino,2/7/1981,gato,frio,Cerveja,Ler livros
+10143433,2/11/2020,Feminino,7/19/1977,peixe,moderado,Vinho,Escutar música
+10142462,2/12/2020,Masculino,10/12/1981,peixe,frio,Café,Escutar música
+10142272,2/13/2020,Masculino,4/23/1979,tartaruga,quente,Chá,Dormir
+10142698,2/13/2020,Masculino,8/29/1973,peixe,moderado,Água,Dormir
+10142935,2/13/2020,Masculino,7/19/1976,gato,frio,Vinho,Dormir
+10143182,2/13/2020,Masculino,1/19/1951,peixe,frio,Vinho,Dormir
+10143339,2/13/2020,Masculino,12/12/1983,peixe,frio,refrigerante,Pintar quadros
+10141750,2/14/2020,Masculino,7/12/1992,tartaruga,quente,refrigerante,Aprender algo novo
+10142305,2/14/2020,Masculino,2/6/1983,cachorro,moderado,Vinho,Escutar música
+10142788,2/14/2020,Masculino,12/2/1996,cachorro,moderado,Cerveja,Assistir TV
+10142890,2/14/2020,Masculino,10/5/1954,tartaruga,quente,Cerveja,Assistir TV
+10141549,2/15/2020,Feminino,11/10/1950,tartaruga,quente,Chá,Pintar quadros
+10141831,2/15/2020,Feminino,1/13/1966,cachorro,frio,refrigerante,Pintar quadros
+10142542,2/15/2020,Masculino,11/18/1976,peixe,frio,Chá,Assistir TV
+10142790,2/15/2020,Masculino,9/16/1963,gato,quente,refrigerante,Dormir
+10143019,2/15/2020,Masculino,12/19/1957,gato,quente,refrigerante,Escrever
+10141853,2/16/2020,Feminino,12/8/1993,tartaruga,moderado,Vinho,Ler livros
+10142140,2/16/2020,Feminino,6/18/1970,peixe,moderado,Café,Praticar esporte
+10142166,2/16/2020,Masculino,12/6/1998,peixe,moderado,Água,Assistir TV
+10142669,2/16/2020,Masculino,5/3/1954,tartaruga,frio,Café,Escrever
+10142765,2/16/2020,Masculino,4/11/1956,gato,frio,Chá,Praticar esporte
+10142936,2/16/2020,Masculino,9/12/1964,peixe,moderado,Cerveja,Praticar esporte
+10143226,2/16/2020,Masculino,1/15/1981,peixe,quente,refrigerante,Ler livros
+10141829,2/17/2020,Feminino,9/4/1974,gato,quente,Chá,Assistir TV
+10142605,2/17/2020,Feminino,5/26/1969,tartaruga,moderado,Café,Ler livros
+10143398,2/18/2020,Masculino,5/12/1995,cachorro,frio,Água,Pintar quadros
+10142006,2/19/2020,Feminino,1/8/1978,peixe,moderado,Vinho,Dormir
+10142151,2/19/2020,Masculino,12/12/1971,gato,frio,Vinho,Aprender algo novo
+10142354,2/19/2020,Masculino,7/16/1990,peixe,frio,Água,Pintar quadros
+10143274,2/19/2020,Feminino,3/8/1972,peixe,moderado,Vinho,Ler livros
+10141790,2/20/2020,Feminino,10/30/1997,tartaruga,frio,Café,Praticar esporte
+10142110,2/20/2020,Masculino,2/12/1974,gato,moderado,Vinho,Aprender algo novo
+10142554,2/20/2020,Masculino,3/11/1951,gato,quente,Café,Aprender algo novo
+10142688,2/20/2020,Masculino,2/5/1950,tartaruga,quente,Chá,Aprender algo novo
+10142768,2/20/2020,Masculino,8/3/1958,tartaruga,moderado,Água,Assistir TV
+10143037,2/20/2020,Masculino,6/16/1999,tartaruga,moderado,Chá,Assistir TV
+10143057,2/20/2020,Masculino,4/17/1954,tartaruga,frio,Água,Aprender algo novo
+10143104,2/20/2020,Masculino,8/6/1982,peixe,moderado,Vinho,Aprender algo novo
+10143131,2/20/2020,Feminino,1/8/1961,gato,moderado,Cerveja,Escrever
+10141587,2/21/2020,Feminino,11/9/1991,gato,frio,Chá,Praticar esporte
+10141630,2/21/2020,Feminino,5/22/1995,tartaruga,moderado,Chá,Escutar música
+10142002,2/21/2020,Feminino,1/23/1972,gato,moderado,Vinho,Ler livros
+10142503,2/21/2020,Masculino,10/11/1971,gato,moderado,Água,Pintar quadros
+10142625,2/21/2020,Feminino,10/1/1957,peixe,quente,Água,Pintar quadros
+10142961,2/21/2020,Masculino,11/15/1964,cachorro,frio,Cerveja,Dormir
+10143252,2/21/2020,Masculino,9/7/1953,gato,quente,Cerveja,Escutar música
+10143356,2/21/2020,Feminino,6/13/1999,tartaruga,moderado,Cerveja,Praticar esporte
+10143400,2/21/2020,Masculino,5/6/1960,cachorro,quente,Vinho,Aprender algo novo
+10143512,2/21/2020,Feminino,7/5/1967,tartaruga,frio,Cerveja,Aprender algo novo
+10141681,2/22/2020,Masculino,7/7/1954,tartaruga,frio,Vinho,Escutar música
+10142581,2/22/2020,Masculino,4/23/1966,gato,quente,Água,Aprender algo novo
+10142736,2/22/2020,Masculino,4/19/1999,gato,frio,Café,Pintar quadros
+10142839,2/22/2020,Masculino,2/8/1987,gato,moderado,Café,Praticar esporte
+10143027,2/22/2020,Masculino,8/23/1986,peixe,quente,refrigerante,Ler livros
+10143048,2/22/2020,Masculino,7/5/1977,cachorro,moderado,Café,Ler livros
+10141526,2/23/2020,Feminino,7/1/1994,gato,quente,Chá,Ler livros
+10141605,2/23/2020,Feminino,1/27/1981,cachorro,moderado,Café,Pintar quadros
+10141609,2/23/2020,Masculino,10/12/1976,gato,moderado,Cerveja,Escrever
+10142249,2/23/2020,Masculino,4/24/1992,tartaruga,frio,Vinho,Aprender algo novo
+10142282,2/23/2020,Masculino,4/22/1962,gato,moderado,Cerveja,Assistir TV
+10142602,2/23/2020,Masculino,5/22/1976,gato,frio,Água,Pintar quadros
+10143026,2/23/2020,Masculino,7/14/1988,cachorro,frio,Chá,Assistir TV
+10143292,2/23/2020,Masculino,6/15/1982,gato,quente,Vinho,Assistir TV
+10141875,2/24/2020,Feminino,10/28/1996,tartaruga,frio,Água,Escrever
+10142372,2/24/2020,Masculino,1/8/1966,cachorro,frio,Chá,Pintar quadros
+10143549,2/24/2020,Masculino,4/16/1977,peixe,frio,Café,Escutar música
+10141550,2/25/2020,Feminino,6/25/1966,gato,frio,Chá,Escutar música
+10141751,2/25/2020,Feminino,6/5/1955,gato,quente,Vinho,Assistir TV
+10141913,2/25/2020,Feminino,2/7/1996,gato,moderado,Vinho,Pintar quadros
+10142780,2/25/2020,Masculino,2/16/1985,cachorro,moderado,Vinho,Escutar música
+10142848,2/25/2020,Masculino,2/2/1957,gato,moderado,Cerveja,Ler livros
+10142874,2/25/2020,Masculino,7/12/1977,gato,moderado,Café,Ler livros
+10142958,2/25/2020,Masculino,6/7/1983,cachorro,frio,Chá,Praticar esporte
+10143176,2/25/2020,Masculino,9/14/1991,cachorro,frio,Cerveja,Dormir
+10143347,2/25/2020,Masculino,12/9/1974,cachorro,moderado,Café,Assistir TV
+10143025,2/26/2020,Masculino,7/23/1963,cachorro,quente,Água,Ler livros
+10143301,2/26/2020,Feminino,12/21/1977,peixe,moderado,Cerveja,Pintar quadros
+10142386,2/27/2020,Masculino,4/22/1974,cachorro,quente,Água,Assistir TV
+10142832,2/27/2020,Masculino,8/17/1967,gato,quente,Chá,Dormir
+10143316,2/27/2020,Masculino,5/29/1954,cachorro,frio,Vinho,Escutar música
+10143325,2/27/2020,Masculino,9/19/1985,peixe,frio,Vinho,Escutar música
+10142134,2/28/2020,Masculino,1/17/1994,cachorro,quente,Café,Aprender algo novo
+10143055,2/28/2020,Masculino,8/30/1973,cachorro,frio,Cerveja,Pintar quadros
+10143458,2/28/2020,Feminino,6/16/1953,gato,moderado,Água,Ler livros
+10143476,2/28/2020,Feminino,9/8/1973,peixe,frio,refrigerante,Pintar quadros
+10143482,2/28/2020,Masculino,6/19/1968,cachorro,moderado,Cerveja,Assistir TV
+10143507,2/28/2020,Feminino,8/30/1979,cachorro,quente,Chá,Pintar quadros
+10143586,2/28/2020,Feminino,4/10/1950,gato,quente,Cerveja,Dormir
+10141783,2/29/2020,Feminino,3/31/1963,gato,quente,refrigerante,Escrever
+10142284,2/29/2020,Masculino,5/2/1971,peixe,moderado,Cerveja,Aprender algo novo
+10142481,2/29/2020,Masculino,3/14/1980,cachorro,quente,Água,Escutar música
+10142683,2/29/2020,Masculino,7/15/1959,gato,frio,Café,Pintar quadros
+10142953,2/29/2020,Masculino,5/24/1970,cachorro,quente,Vinho,Praticar esporte
+10143249,2/29/2020,Masculino,1/21/1966,gato,moderado,Água,Assistir TV
+10143380,2/29/2020,Masculino,5/29/1983,gato,moderado,Água,Aprender algo novo
+10141556,3/1/2020,Feminino,11/28/1975,peixe,frio,Café,Pintar quadros
+10141593,3/1/2020,Feminino,11/4/1970,gato,quente,Chá,Assistir TV
+10143115,3/1/2020,Masculino,3/19/1986,tartaruga,quente,Água,Escutar música
+10141854,3/2/2020,Feminino,3/10/1968,tartaruga,quente,Cerveja,Pintar quadros
+10142243,3/2/2020,Masculino,4/20/1998,tartaruga,moderado,Chá,Ler livros
+10142454,3/2/2020,Masculino,5/19/1972,gato,frio,Vinho,Ler livros
+10142553,3/2/2020,Masculino,10/21/1974,gato,frio,Chá,Aprender algo novo
+10142194,3/3/2020,Masculino,9/24/1962,peixe,frio,refrigerante,Ler livros
+10142783,3/3/2020,Masculino,3/5/1980,gato,frio,refrigerante,Escrever
+10142932,3/3/2020,Masculino,4/19/1982,tartaruga,moderado,Café,Escrever
+10143340,3/3/2020,Feminino,2/21/1959,cachorro,frio,Café,Aprender algo novo
+10143430,3/3/2020,Masculino,8/6/1959,peixe,moderado,Café,Pintar quadros
+10143474,3/3/2020,Feminino,3/4/1956,tartaruga,moderado,Vinho,Escrever
+10143609,3/3/2020,Masculino,1/1/1988,gato,moderado,Cerveja,Praticar esporte
+10141620,3/4/2020,Feminino,1/31/1996,peixe,quente,Cerveja,Assistir TV
+10141917,3/4/2020,Feminino,7/23/1992,cachorro,quente,Café,Ler livros
+10142333,3/4/2020,Masculino,2/26/1951,gato,quente,Café,Ler livros
+10142460,3/4/2020,Masculino,10/17/1961,cachorro,frio,Água,Assistir TV
+10142506,3/4/2020,Masculino,3/25/1958,cachorro,moderado,Água,Pintar quadros
+10142998,3/4/2020,Masculino,7/11/1987,gato,moderado,Água,Aprender algo novo
+10143330,3/4/2020,Masculino,2/23/1982,cachorro,frio,refrigerante,Escutar música
+10141830,3/5/2020,Masculino,12/23/1952,cachorro,frio,refrigerante,Praticar esporte
+10142766,3/5/2020,Masculino,4/6/1974,tartaruga,frio,Chá,Pintar quadros
+10141720,3/6/2020,Feminino,12/28/1973,peixe,quente,Café,Escrever
+10142356,3/6/2020,Masculino,5/2/1996,peixe,frio,Chá,Aprender algo novo
+10142374,3/6/2020,Masculino,8/29/1970,tartaruga,moderado,Café,Pintar quadros
+10142383,3/6/2020,Masculino,1/16/1957,gato,moderado,refrigerante,Escutar música
+10142784,3/6/2020,Masculino,2/7/1983,tartaruga,moderado,Chá,Praticar esporte
+10143583,3/6/2020,Feminino,9/22/1990,gato,moderado,refrigerante,Aprender algo novo
+10142731,3/7/2020,Masculino,10/24/1972,cachorro,frio,Chá,Praticar esporte
+10142748,3/7/2020,Masculino,9/2/1951,tartaruga,frio,Chá,Assistir TV
+10143167,3/7/2020,Feminino,7/30/1996,gato,quente,Café,Aprender algo novo
+10143331,3/7/2020,Masculino,7/9/1976,cachorro,quente,refrigerante,Escrever
+10142397,3/8/2020,Masculino,8/18/1967,gato,quente,Café,Assistir TV
+10143179,3/8/2020,Masculino,10/6/1990,tartaruga,frio,Água,Escrever
+10141998,3/9/2020,Feminino,10/18/1994,gato,moderado,refrigerante,Aprender algo novo
+10142039,3/9/2020,Feminino,2/23/1956,gato,moderado,Café,Escutar música
+10142257,3/9/2020,Masculino,11/6/1951,cachorro,quente,Café,Pintar quadros
+10142264,3/9/2020,Masculino,8/20/1962,tartaruga,frio,Cerveja,Dormir
+10142682,3/9/2020,Masculino,11/25/1992,tartaruga,quente,Café,Escutar música
+10142985,3/9/2020,Masculino,4/5/1970,peixe,quente,Chá,Pintar quadros
+10143477,3/9/2020,Feminino,7/22/1996,peixe,quente,Vinho,Ler livros
+10141933,3/10/2020,Feminino,9/6/1962,gato,quente,Chá,Pintar quadros
+10141975,3/10/2020,Feminino,7/29/1990,tartaruga,moderado,Chá,Assistir TV
+10142050,3/10/2020,Masculino,11/20/1950,cachorro,frio,Chá,Dormir
+10142465,3/10/2020,Masculino,10/15/1998,peixe,frio,Cerveja,Escutar música
+10142594,3/10/2020,Masculino,10/7/1997,gato,quente,Cerveja,Pintar quadros
+10142781,3/10/2020,Masculino,3/29/1972,gato,moderado,Cerveja,Pintar quadros
+10142785,3/10/2020,Masculino,9/20/1996,tartaruga,quente,refrigerante,Dormir
+10143085,3/10/2020,Masculino,4/12/1974,gato,quente,Café,Escutar música
+10143416,3/10/2020,Masculino,12/10/1982,peixe,moderado,Chá,Assistir TV
+10143457,3/10/2020,Feminino,5/27/1963,cachorro,frio,Chá,Ler livros
+10142116,3/11/2020,Masculino,8/14/1961,cachorro,moderado,Cerveja,Dormir
+10142128,3/11/2020,Masculino,4/8/1983,tartaruga,moderado,Café,Pintar quadros
+10142424,3/11/2020,Masculino,5/28/1974,gato,frio,Vinho,Aprender algo novo
+10143415,3/11/2020,Masculino,12/8/1992,gato,quente,refrigerante,Pintar quadros
+10141529,3/12/2020,Feminino,8/18/1957,peixe,moderado,refrigerante,Dormir
+10142164,3/12/2020,Masculino,1/2/1982,gato,moderado,Chá,Aprender algo novo
+10143197,3/12/2020,Masculino,1/31/1970,gato,quente,Cerveja,Escrever
+10141730,3/13/2020,Feminino,12/12/1999,tartaruga,frio,refrigerante,Ler livros
+10141809,3/13/2020,Feminino,8/3/1957,peixe,quente,Cerveja,Pintar quadros
+10142523,3/13/2020,Masculino,10/19/1964,cachorro,quente,Água,Escutar música
+10142570,3/13/2020,Masculino,12/12/1966,tartaruga,moderado,refrigerante,Praticar esporte
+10142732,3/13/2020,Masculino,9/10/1971,gato,quente,Cerveja,Dormir
+10143100,3/13/2020,Masculino,3/13/1976,cachorro,quente,refrigerante,Aprender algo novo
+10143287,3/13/2020,Feminino,6/5/1990,cachorro,moderado,Chá,Dormir
+10143410,3/13/2020,Feminino,2/3/1988,cachorro,frio,Cerveja,Aprender algo novo
+10143485,3/13/2020,Masculino,2/19/1954,gato,moderado,Chá,Aprender algo novo
+10143510,3/13/2020,Masculino,2/9/1951,peixe,frio,Café,Assistir TV
+10143554,3/13/2020,Feminino,8/8/1979,peixe,quente,Cerveja,Aprender algo novo
+10141683,3/14/2020,Feminino,6/14/1987,gato,quente,Cerveja,Aprender algo novo
+10141850,3/14/2020,Feminino,1/4/1964,tartaruga,frio,Chá,Escutar música
+10142062,3/14/2020,Feminino,8/11/1971,gato,quente,Cerveja,Praticar esporte
+10142430,3/14/2020,Masculino,2/20/1954,tartaruga,quente,Vinho,Escrever
+10142484,3/14/2020,Masculino,9/26/1980,gato,frio,Café,Ler livros
+10142541,3/14/2020,Masculino,9/19/1958,cachorro,frio,Cerveja,Escrever
+10142680,3/14/2020,Masculino,9/22/1996,gato,moderado,Cerveja,Dormir
+10143523,3/14/2020,Feminino,2/24/1953,tartaruga,frio,refrigerante,Pintar quadros
+10141824,3/15/2020,Feminino,10/9/1995,peixe,quente,Cerveja,Praticar esporte
+10141910,3/15/2020,Feminino,12/15/1992,peixe,quente,Vinho,Assistir TV
+10141955,3/15/2020,Feminino,12/26/1973,peixe,quente,Vinho,Dormir
+10142143,3/15/2020,Masculino,12/19/1996,cachorro,quente,Cerveja,Pintar quadros
+10142661,3/15/2020,Masculino,12/24/1971,tartaruga,quente,Café,Pintar quadros
+10143290,3/15/2020,Masculino,4/14/1996,gato,quente,Chá,Ler livros
+10143451,3/15/2020,Feminino,9/9/1964,gato,frio,Água,Assistir TV
+10141713,3/16/2020,Feminino,9/27/1990,gato,quente,Vinho,Dormir
+10141786,3/16/2020,Feminino,4/21/1999,gato,moderado,Água,Dormir
+10141534,3/17/2020,Feminino,4/25/1952,tartaruga,frio,Vinho,Praticar esporte
+10141766,3/17/2020,Masculino,3/9/1992,gato,moderado,Vinho,Dormir
+10141885,3/17/2020,Feminino,10/25/1992,peixe,frio,Cerveja,Praticar esporte
+10142226,3/17/2020,Masculino,10/1/1957,gato,quente,refrigerante,Escrever
+10142813,3/17/2020,Masculino,8/28/1989,tartaruga,frio,Chá,Praticar esporte
+10141798,3/18/2020,Feminino,7/29/1955,gato,quente,Café,Assistir TV
+10141941,3/18/2020,Feminino,11/16/1966,peixe,moderado,Café,Ler livros
+10143372,3/18/2020,Masculino,3/10/1991,gato,moderado,Vinho,Escrever
+10143402,3/18/2020,Masculino,2/4/1954,peixe,quente,Cerveja,Pintar quadros
+10141574,3/19/2020,Feminino,1/13/1992,cachorro,moderado,Água,Praticar esporte
+10142670,3/19/2020,Masculino,9/28/1969,peixe,frio,Água,Escrever
+10143024,3/19/2020,Masculino,7/14/1966,peixe,frio,Água,Assistir TV
+10143478,3/19/2020,Feminino,9/16/1983,gato,quente,Vinho,Aprender algo novo
+10143538,3/19/2020,Masculino,2/16/1975,cachorro,frio,Cerveja,Ler livros
+10141869,3/20/2020,Feminino,7/10/1991,gato,quente,Vinho,Assistir TV
+10141959,3/20/2020,Feminino,3/8/1983,gato,quente,refrigerante,Praticar esporte
+10141967,3/20/2020,Feminino,6/9/1967,peixe,frio,Vinho,Escutar música
+10142136,3/20/2020,Masculino,8/29/1962,gato,moderado,Cerveja,Ler livros
+10142504,3/20/2020,Masculino,10/31/1993,gato,moderado,Café,Escrever
+10141643,3/21/2020,Masculino,11/11/1973,tartaruga,frio,Água,Aprender algo novo
+10141865,3/21/2020,Feminino,10/26/1960,peixe,quente,Café,Escutar música
+10141989,3/21/2020,Feminino,1/30/1993,gato,frio,Café,Praticar esporte
+10142013,3/21/2020,Feminino,3/23/1973,tartaruga,moderado,Água,Ler livros
+10142222,3/21/2020,Masculino,6/20/1996,gato,moderado,refrigerante,Assistir TV
+10142318,3/21/2020,Masculino,1/6/1992,tartaruga,moderado,Cerveja,Ler livros
+10142347,3/21/2020,Masculino,11/1/1956,tartaruga,frio,Vinho,Escutar música
+10142550,3/21/2020,Masculino,2/10/1972,tartaruga,frio,Vinho,Assistir TV
+10142864,3/21/2020,Masculino,3/25/1995,cachorro,frio,Vinho,Escutar música
+10142982,3/21/2020,Masculino,1/18/1960,gato,quente,Chá,Dormir
+10141856,3/22/2020,Feminino,2/11/1983,peixe,quente,Água,Aprender algo novo
+10141895,3/22/2020,Feminino,8/24/1954,cachorro,moderado,Água,Pintar quadros
+10143041,3/22/2020,Masculino,8/1/1959,gato,moderado,Café,Pintar quadros
+10143359,3/22/2020,Masculino,6/29/1969,peixe,frio,Cerveja,Ler livros
+10143432,3/22/2020,Masculino,5/27/1953,tartaruga,quente,Vinho,Dormir
+10141704,3/23/2020,Feminino,4/28/1975,gato,frio,Cerveja,Dormir
+10142015,3/23/2020,Masculino,5/18/1966,gato,frio,Café,Escrever
+10142033,3/23/2020,Feminino,8/4/1986,peixe,moderado,Vinho,Escrever
+10143051,3/23/2020,Masculino,10/22/1987,cachorro,frio,Chá,Aprender algo novo
+10143194,3/23/2020,Masculino,9/16/1992,gato,frio,Água,Escrever
+10143210,3/23/2020,Masculino,1/6/1989,gato,moderado,Vinho,Ler livros
+10143282,3/23/2020,Masculino,9/6/1989,peixe,frio,Vinho,Escrever
+10143438,3/23/2020,Feminino,10/27/1956,gato,quente,Cerveja,Pintar quadros
+10142018,3/24/2020,Feminino,1/17/1964,tartaruga,frio,Água,Escutar música
+10142225,3/24/2020,Masculino,11/3/1973,peixe,frio,Cerveja,Praticar esporte
+10142297,3/24/2020,Masculino,9/2/1988,gato,frio,refrigerante,Assistir TV
+10142726,3/24/2020,Masculino,8/5/1987,gato,moderado,Água,Escrever
+10143598,3/24/2020,Feminino,7/29/1951,gato,moderado,Chá,Dormir
+10142113,3/25/2020,Feminino,1/24/1989,tartaruga,frio,Chá,Aprender algo novo
+10142169,3/25/2020,Masculino,10/20/1992,gato,quente,Água,Praticar esporte
+10142261,3/25/2020,Masculino,7/27/1956,gato,frio,Cerveja,Assistir TV
+10142776,3/25/2020,Masculino,8/27/1967,gato,frio,Vinho,Aprender algo novo
+10141784,3/26/2020,Feminino,11/4/1995,gato,frio,Água,Praticar esporte
+10141961,3/26/2020,Feminino,12/2/1950,cachorro,frio,Cerveja,Dormir
+10142156,3/26/2020,Masculino,5/2/1989,peixe,frio,Café,Pintar quadros
+10142371,3/26/2020,Masculino,5/4/1950,tartaruga,moderado,Cerveja,Escrever
+10142414,3/26/2020,Feminino,7/8/1990,peixe,frio,Água,Pintar quadros
+10142666,3/26/2020,Masculino,10/13/1992,gato,frio,Café,Aprender algo novo
+10142700,3/26/2020,Masculino,8/18/1959,gato,moderado,Chá,Praticar esporte
+10142811,3/26/2020,Masculino,9/30/1986,gato,quente,Vinho,Assistir TV
+10143074,3/26/2020,Masculino,7/23/1969,tartaruga,frio,Café,Assistir TV
+10143081,3/26/2020,Masculino,3/2/1951,peixe,quente,Chá,Pintar quadros
+10141788,3/27/2020,Feminino,12/15/1954,peixe,moderado,refrigerante,Dormir
+10142432,3/27/2020,Masculino,1/28/1983,tartaruga,moderado,Chá,Escrever
+10142946,3/27/2020,Masculino,7/19/1971,tartaruga,moderado,refrigerante,Escrever
+10142970,3/27/2020,Masculino,5/8/1953,tartaruga,moderado,Água,Assistir TV
+10141510,3/28/2020,Masculino,11/29/1978,gato,frio,Água,Assistir TV
+10141519,3/28/2020,Feminino,5/18/1966,gato,frio,Chá,Escutar música
+10141858,3/28/2020,Feminino,5/26/1977,cachorro,quente,Cerveja,Praticar esporte
+10142362,3/28/2020,Masculino,2/27/1973,tartaruga,quente,Vinho,Aprender algo novo
+10142757,3/28/2020,Masculino,8/7/1981,cachorro,moderado,Café,Aprender algo novo
+10143429,3/28/2020,Masculino,1/31/1959,tartaruga,frio,Água,Assistir TV
+10143461,3/28/2020,Masculino,5/13/1968,tartaruga,moderado,Café,Ler livros
+10143481,3/28/2020,Masculino,4/11/1973,tartaruga,frio,Água,Assistir TV
+10143493,3/28/2020,Masculino,3/10/1992,gato,frio,Chá,Ler livros
+10143524,3/28/2020,Masculino,4/26/1989,gato,quente,Água,Aprender algo novo
+10143559,3/28/2020,Feminino,2/15/1996,gato,frio,Vinho,Dormir
+10142212,3/29/2020,Masculino,5/4/1995,gato,moderado,Chá,Escutar música
+10142399,3/29/2020,Masculino,10/20/1999,tartaruga,quente,Vinho,Aprender algo novo
+10142501,3/29/2020,Masculino,6/19/1977,tartaruga,quente,Cerveja,Ler livros
+10142980,3/29/2020,Masculino,8/9/1978,tartaruga,quente,Chá,Praticar esporte
+10143192,3/29/2020,Masculino,2/18/1971,gato,moderado,Vinho,Assistir TV
+10143207,3/29/2020,Masculino,10/30/1980,peixe,quente,Vinho,Dormir
+10142396,3/30/2020,Masculino,12/11/1977,gato,moderado,Chá,Pintar quadros
+10143052,3/30/2020,Masculino,6/22/1966,tartaruga,frio,refrigerante,Dormir
+10143153,3/30/2020,Feminino,4/20/1988,cachorro,moderado,Água,Aprender algo novo
+10143374,3/30/2020,Masculino,6/23/1993,tartaruga,frio,Vinho,Dormir
+10143446,3/30/2020,Feminino,8/2/1957,tartaruga,moderado,Chá,Praticar esporte
+10143560,3/30/2020,Masculino,8/31/1967,gato,frio,Vinho,Praticar esporte
+10141614,3/31/2020,Feminino,12/12/1971,cachorro,frio,Vinho,Escutar música
+10141690,3/31/2020,Feminino,4/9/1988,peixe,quente,Cerveja,Praticar esporte
+10142482,3/31/2020,Masculino,4/14/1961,tartaruga,frio,Vinho,Pintar quadros
+10143021,3/31/2020,Masculino,9/16/1951,gato,quente,Chá,Escrever
+10143155,3/31/2020,Masculino,10/28/1969,cachorro,frio,Cerveja,Assistir TV
+10143317,3/31/2020,Feminino,2/16/1997,gato,frio,refrigerante,Aprender algo novo
+10143404,3/31/2020,Feminino,1/18/1973,gato,quente,Café,Praticar esporte
+10143620,3/31/2020,Masculino,10/21/1965,peixe,moderado,refrigerante,Ler livros
+10141805,4/1/2020,Feminino,12/8/1990,gato,quente,Vinho,Escutar música
+10141957,4/1/2020,Feminino,5/13/1985,gato,moderado,refrigerante,Escrever
+10142493,4/1/2020,Masculino,12/21/1974,tartaruga,frio,Café,Aprender algo novo
+10141514,4/2/2020,Masculino,1/29/1999,tartaruga,moderado,Cerveja,Assistir TV
+10141661,4/2/2020,Feminino,2/16/1966,peixe,frio,Chá,Praticar esporte
+10142326,4/2/2020,Masculino,12/14/1999,gato,moderado,Vinho,Escrever
+10142648,4/2/2020,Feminino,5/12/1953,gato,moderado,Café,Escutar música
+10141744,4/3/2020,Masculino,8/23/1974,gato,moderado,Café,Assistir TV
+10141827,4/3/2020,Feminino,7/17/1959,gato,frio,Vinho,Escrever
+10142012,4/3/2020,Feminino,9/22/1973,gato,quente,Cerveja,Escrever
+10142777,4/3/2020,Masculino,8/25/1992,gato,frio,Café,Dormir
+10142844,4/3/2020,Masculino,3/21/1975,peixe,moderado,Cerveja,Praticar esporte
+10141631,4/4/2020,Feminino,11/13/1960,gato,moderado,refrigerante,Dormir
+10142090,4/4/2020,Masculino,9/5/1997,tartaruga,frio,Chá,Pintar quadros
+10142549,4/4/2020,Masculino,11/8/1951,gato,moderado,Cerveja,Pintar quadros
+10142667,4/4/2020,Masculino,12/31/1965,cachorro,frio,Água,Escrever
+10142704,4/4/2020,Masculino,5/22/1991,gato,quente,Chá,Assistir TV
+10142738,4/4/2020,Masculino,1/14/1967,tartaruga,moderado,Vinho,Escutar música
+10142933,4/4/2020,Masculino,3/27/1962,tartaruga,frio,Café,Pintar quadros
+10143010,4/4/2020,Masculino,5/19/1988,peixe,frio,Café,Praticar esporte
+10143088,4/4/2020,Masculino,12/14/1976,gato,moderado,refrigerante,Dormir
+10143189,4/4/2020,Masculino,5/23/1986,cachorro,quente,Chá,Dormir
+10143455,4/4/2020,Feminino,10/10/1956,peixe,moderado,Café,Escrever
+10141903,4/5/2020,Feminino,2/26/1978,peixe,moderado,Cerveja,Assistir TV
+10142496,4/5/2020,Masculino,11/7/1978,gato,moderado,Chá,Assistir TV
+10142633,4/5/2020,Feminino,3/22/1981,gato,quente,Vinho,Assistir TV
+10142662,4/5/2020,Masculino,9/24/1954,tartaruga,moderado,Água,Assistir TV
+10142841,4/5/2020,Masculino,11/30/1983,gato,quente,refrigerante,Pintar quadros
+10143076,4/5/2020,Masculino,9/18/1998,tartaruga,moderado,Café,Pintar quadros
+10143617,4/5/2020,Masculino,6/14/1962,gato,moderado,Vinho,Ler livros
+10141585,4/6/2020,Feminino,8/18/1979,tartaruga,frio,refrigerante,Pintar quadros
+10141825,4/7/2020,Feminino,8/5/1954,gato,quente,Café,Praticar esporte
+10142067,4/7/2020,Feminino,3/17/1974,gato,quente,refrigerante,Dormir
+10142797,4/7/2020,Masculino,1/22/1962,peixe,moderado,refrigerante,Praticar esporte
+10142920,4/7/2020,Masculino,7/28/1985,tartaruga,moderado,Cerveja,Escutar música
+10143090,4/7/2020,Masculino,4/5/1990,cachorro,quente,Vinho,Escrever
+10143385,4/7/2020,Feminino,5/26/1952,gato,quente,Cerveja,Aprender algo novo
+10143441,4/7/2020,Masculino,2/20/1956,tartaruga,moderado,Café,Escutar música
+10141723,4/8/2020,Feminino,8/16/1954,cachorro,moderado,Cerveja,Praticar esporte
+10141936,4/8/2020,Feminino,10/10/1956,cachorro,quente,Chá,Assistir TV
+10142075,4/8/2020,Masculino,4/30/1976,gato,moderado,refrigerante,Aprender algo novo
+10142086,4/8/2020,Feminino,12/24/1970,cachorro,moderado,Café,Assistir TV
+10142809,4/8/2020,Masculino,4/6/1986,gato,moderado,refrigerante,Aprender algo novo
+10141845,4/9/2020,Masculino,1/5/1952,peixe,frio,Cerveja,Praticar esporte
+10141952,4/9/2020,Feminino,5/17/1955,cachorro,moderado,Chá,Ler livros
+10142693,4/9/2020,Masculino,4/23/1987,gato,quente,Café,Assistir TV
+10141515,4/10/2020,Feminino,10/19/1988,cachorro,moderado,Água,Dormir
+10142323,4/10/2020,Masculino,6/26/1980,gato,quente,Cerveja,Escrever
+10142405,4/10/2020,Masculino,7/30/1982,cachorro,quente,Cerveja,Praticar esporte
+10143136,4/10/2020,Feminino,1/14/1969,gato,frio,refrigerante,Pintar quadros
+10141536,4/11/2020,Feminino,7/6/1978,cachorro,frio,Chá,Escrever
+10141654,4/11/2020,Feminino,12/27/1955,cachorro,frio,Cerveja,Aprender algo novo
+10141871,4/11/2020,Feminino,12/29/1955,peixe,moderado,Vinho,Escutar música
+10141997,4/11/2020,Feminino,11/4/1996,gato,quente,Chá,Assistir TV
+10142139,4/11/2020,Feminino,6/7/1951,cachorro,frio,Chá,Praticar esporte
+10142695,4/11/2020,Masculino,10/26/1990,cachorro,frio,refrigerante,Praticar esporte
+10142930,4/11/2020,Masculino,1/6/1965,tartaruga,quente,Chá,Pintar quadros
+10143257,4/11/2020,Masculino,8/29/1968,gato,frio,Cerveja,Pintar quadros
+10143567,4/11/2020,Feminino,4/25/1962,gato,moderado,Chá,Assistir TV
+10141734,4/12/2020,Feminino,6/25/1974,cachorro,moderado,Cerveja,Dormir
+10141900,4/12/2020,Feminino,12/3/1970,peixe,moderado,refrigerante,Ler livros
+10142348,4/12/2020,Masculino,6/10/1959,gato,quente,Cerveja,Praticar esporte
+10142860,4/12/2020,Masculino,8/9/1961,cachorro,frio,Café,Escutar música
+10143318,4/12/2020,Feminino,6/12/1990,cachorro,quente,Café,Dormir
+10141557,4/13/2020,Feminino,1/14/1980,cachorro,moderado,Café,Ler livros
+10142338,4/13/2020,Masculino,2/11/1983,cachorro,moderado,Chá,Escutar música
+10141818,4/14/2020,Feminino,4/4/1971,cachorro,quente,refrigerante,Ler livros
+10142054,4/14/2020,Feminino,11/16/1956,cachorro,moderado,Água,Praticar esporte
+10142671,4/14/2020,Masculino,8/13/1971,cachorro,quente,Chá,Aprender algo novo
+10143137,4/14/2020,Feminino,7/1/1987,gato,moderado,refrigerante,Aprender algo novo
+10143156,4/14/2020,Masculino,8/17/1996,tartaruga,frio,Vinho,Praticar esporte
+10143425,4/14/2020,Masculino,6/18/1976,peixe,quente,Cerveja,Escutar música
+10142049,4/15/2020,Masculino,7/22/1978,tartaruga,quente,Cerveja,Aprender algo novo
+10142196,4/15/2020,Masculino,8/16/1969,peixe,frio,Cerveja,Ler livros
+10142328,4/15/2020,Masculino,9/5/1978,gato,quente,refrigerante,Ler livros
+10142647,4/15/2020,Feminino,5/17/1989,cachorro,moderado,refrigerante,Escrever
+10142686,4/15/2020,Masculino,10/22/1956,peixe,quente,Café,Praticar esporte
+10143139,4/15/2020,Feminino,6/15/1957,gato,moderado,Café,Dormir
+10141512,4/16/2020,Masculino,4/11/1999,tartaruga,frio,refrigerante,Aprender algo novo
+10141589,4/16/2020,Feminino,6/6/1968,gato,moderado,Cerveja,Aprender algo novo
+10141637,4/16/2020,Feminino,3/25/1967,gato,quente,Chá,Assistir TV
+10142677,4/16/2020,Masculino,6/23/1968,tartaruga,quente,Água,Assistir TV
+10141612,4/17/2020,Feminino,9/5/1997,peixe,quente,Chá,Dormir
+10141844,4/17/2020,Masculino,11/8/1955,cachorro,quente,Café,Praticar esporte
+10142214,4/17/2020,Masculino,2/21/1974,peixe,moderado,Cerveja,Escutar música
+10142439,4/17/2020,Masculino,5/17/1970,peixe,frio,refrigerante,Escrever
+10142479,4/17/2020,Masculino,9/4/1966,gato,quente,Café,Aprender algo novo
+10142608,4/17/2020,Feminino,11/21/1995,gato,frio,Chá,Escutar música
+10143006,4/17/2020,Masculino,6/15/1991,gato,moderado,Água,Escutar música
+10143125,4/17/2020,Feminino,10/6/1995,gato,frio,Café,Pintar quadros
+10143186,4/17/2020,Masculino,12/17/1972,cachorro,moderado,Café,Ler livros
+10143545,4/17/2020,Masculino,9/23/1956,gato,moderado,refrigerante,Aprender algo novo
+10141777,4/18/2020,Masculino,1/22/1988,cachorro,moderado,Água,Praticar esporte
+10141893,4/18/2020,Feminino,7/7/1965,peixe,quente,Chá,Assistir TV
+10142703,4/18/2020,Masculino,3/2/1975,peixe,quente,Vinho,Ler livros
+10142794,4/18/2020,Masculino,3/9/1985,gato,moderado,Chá,Dormir
+10143017,4/18/2020,Masculino,10/20/1950,cachorro,quente,Vinho,Praticar esporte
+10143196,4/18/2020,Masculino,11/4/1969,tartaruga,moderado,Vinho,Ler livros
+10143204,4/18/2020,Masculino,1/14/1972,gato,frio,Chá,Escutar música
+10141503,4/19/2020,Masculino,2/18/1963,cachorro,frio,refrigerante,Praticar esporte
+10142433,4/19/2020,Masculino,2/4/1976,gato,moderado,refrigerante,Escutar música
+10142446,4/19/2020,Masculino,8/4/1973,peixe,moderado,refrigerante,Praticar esporte
+10142450,4/19/2020,Masculino,3/15/1986,gato,frio,Água,Dormir
+10142513,4/19/2020,Masculino,4/14/1976,peixe,frio,Café,Dormir
+10142714,4/19/2020,Masculino,2/13/1997,peixe,frio,Café,Pintar quadros
+10141596,4/20/2020,Feminino,3/24/1960,cachorro,frio,Água,Aprender algo novo
+10142021,4/20/2020,Feminino,1/28/1961,gato,quente,Café,Escutar música
+10142133,4/20/2020,Masculino,10/27/1971,gato,quente,Vinho,Assistir TV
+10142445,4/20/2020,Masculino,10/1/1976,gato,quente,Água,Ler livros
+10142635,4/20/2020,Feminino,4/5/1953,peixe,frio,Café,Dormir
+10142694,4/20/2020,Masculino,8/6/1993,gato,frio,Café,Pintar quadros
+10143166,4/20/2020,Feminino,12/14/1960,gato,quente,Água,Praticar esporte
+10141769,4/21/2020,Feminino,10/6/1953,gato,quente,refrigerante,Escutar música
+10142031,4/21/2020,Feminino,1/23/1961,cachorro,moderado,Cerveja,Escrever
+10142204,4/21/2020,Masculino,3/9/1980,gato,quente,Vinho,Dormir
+10142395,4/21/2020,Masculino,11/12/1983,cachorro,moderado,Vinho,Escrever
+10142632,4/21/2020,Feminino,2/24/1993,peixe,frio,refrigerante,Assistir TV
+10141625,4/22/2020,Feminino,10/13/1960,tartaruga,frio,refrigerante,Praticar esporte
+10142068,4/22/2020,Feminino,7/12/1993,gato,frio,Café,Aprender algo novo
+10143044,4/22/2020,Masculino,1/22/1958,tartaruga,moderado,Cerveja,Aprender algo novo
+10143541,4/22/2020,Feminino,10/18/1999,cachorro,quente,Vinho,Assistir TV
+10143596,4/22/2020,Masculino,5/20/1991,cachorro,moderado,Água,Praticar esporte
+10141583,4/23/2020,Feminino,10/1/1956,tartaruga,frio,Chá,Assistir TV
+10141657,4/23/2020,Feminino,8/8/1987,gato,frio,Cerveja,Escrever
+10141793,4/23/2020,Feminino,8/22/1953,tartaruga,quente,refrigerante,Escutar música
+10142364,4/23/2020,Masculino,12/22/1985,gato,moderado,Café,Assistir TV
+10142879,4/23/2020,Masculino,8/3/1998,cachorro,moderado,Café,Assistir TV
+10142892,4/23/2020,Masculino,3/18/1980,tartaruga,quente,Vinho,Dormir
+10143407,4/23/2020,Feminino,4/3/1975,gato,frio,Chá,Escrever
+10143591,4/23/2020,Feminino,4/21/1988,peixe,moderado,Chá,Ler livros
+10141635,4/25/2020,Feminino,8/8/1985,cachorro,quente,Cerveja,Pintar quadros
+10142131,4/25/2020,Masculino,7/3/1990,gato,quente,Cerveja,Aprender algo novo
+10143603,4/25/2020,Masculino,6/2/1964,cachorro,quente,Café,Escrever
+10141601,4/26/2020,Feminino,7/10/1998,gato,quente,Café,Escrever
+10141880,4/26/2020,Masculino,8/13/1997,gato,quente,Chá,Escutar música
+10141912,4/26/2020,Feminino,4/13/1954,gato,quente,Cerveja,Praticar esporte
+10141969,4/26/2020,Feminino,3/17/1985,peixe,frio,Vinho,Aprender algo novo
+10141980,4/26/2020,Feminino,10/10/1962,peixe,moderado,refrigerante,Praticar esporte
+10142568,4/26/2020,Masculino,12/17/1997,gato,moderado,Café,Dormir
+10142827,4/26/2020,Masculino,2/15/1970,gato,quente,refrigerante,Dormir
+10142974,4/26/2020,Masculino,2/27/1989,tartaruga,quente,Vinho,Dormir
+10141552,4/27/2020,Feminino,3/27/1989,tartaruga,quente,Vinho,Praticar esporte
+10141891,4/27/2020,Feminino,6/6/1998,gato,moderado,refrigerante,Assistir TV
+10142713,4/27/2020,Masculino,6/22/1952,tartaruga,moderado,refrigerante,Ler livros
+10143496,4/27/2020,Masculino,8/23/1983,cachorro,moderado,Cerveja,Aprender algo novo
+10141600,4/28/2020,Feminino,11/22/1969,gato,quente,Vinho,Praticar esporte
+10141660,4/28/2020,Masculino,11/13/1987,cachorro,moderado,Vinho,Aprender algo novo
+10141963,4/28/2020,Feminino,1/29/1968,gato,moderado,Vinho,Dormir
+10142469,4/28/2020,Masculino,9/23/1982,peixe,frio,Café,Assistir TV
+10142595,4/28/2020,Masculino,1/6/1956,gato,quente,Café,Aprender algo novo
+10142769,4/28/2020,Masculino,11/18/1979,peixe,moderado,Chá,Escutar música
+10143414,4/28/2020,Masculino,8/26/1967,peixe,quente,Água,Escrever
+10141701,4/29/2020,Masculino,8/9/1998,cachorro,quente,Café,Dormir
+10142104,4/29/2020,Feminino,9/22/1999,gato,moderado,Cerveja,Pintar quadros
+10142259,4/29/2020,Masculino,4/21/1984,cachorro,frio,Vinho,Assistir TV
+10142279,4/29/2020,Masculino,10/12/1950,gato,frio,Vinho,Dormir
+10143123,4/29/2020,Masculino,3/14/1973,gato,moderado,Café,Pintar quadros
+10141739,4/30/2020,Masculino,3/6/1952,cachorro,quente,refrigerante,Assistir TV
+10142419,4/30/2020,Masculino,3/11/1969,gato,quente,refrigerante,Ler livros
+10142660,4/30/2020,Masculino,6/14/1993,gato,quente,Água,Praticar esporte
+10142967,4/30/2020,Masculino,1/1/1972,peixe,quente,Chá,Pintar quadros
+10143305,4/30/2020,Masculino,11/29/1958,tartaruga,quente,Cerveja,Dormir
+10143542,4/30/2020,Masculino,10/29/1988,tartaruga,quente,Cerveja,Assistir TV
+10143587,4/30/2020,Masculino,8/2/1984,peixe,moderado,Café,Escutar música
+10141878,5/1/2020,Feminino,6/8/1975,cachorro,quente,Cerveja,Assistir TV
+10141958,5/1/2020,Feminino,11/25/1984,tartaruga,moderado,Cerveja,Ler livros
+10142427,5/1/2020,Masculino,5/12/1989,gato,frio,Água,Escrever
+10141770,5/2/2020,Feminino,4/20/1977,cachorro,frio,Café,Escutar música
+10142092,5/2/2020,Masculino,7/19/1989,gato,quente,Café,Ler livros
+10142600,5/2/2020,Masculino,8/30/1973,gato,moderado,Água,Praticar esporte
+10142159,5/3/2020,Masculino,4/8/1969,cachorro,moderado,Cerveja,Assistir TV
+10142889,5/3/2020,Masculino,6/15/1997,tartaruga,quente,refrigerante,Escutar música
+10143473,5/3/2020,Feminino,6/21/1987,peixe,moderado,Café,Dormir
+10143616,5/3/2020,Masculino,4/6/1999,gato,quente,Vinho,Assistir TV
+10142289,5/4/2020,Masculino,2/17/1990,gato,quente,Cerveja,Dormir
+10142373,5/4/2020,Masculino,4/22/1983,cachorro,quente,Chá,Assistir TV
+10142673,5/4/2020,Masculino,12/17/1999,peixe,quente,Cerveja,Escrever
+10143300,5/4/2020,Feminino,2/13/1994,tartaruga,quente,Vinho,Escrever
+10141767,5/5/2020,Masculino,11/14/1956,gato,frio,Água,Pintar quadros
+10141866,5/5/2020,Feminino,4/20/1978,tartaruga,moderado,Cerveja,Dormir
+10141937,5/5/2020,Feminino,6/29/1979,cachorro,frio,Água,Pintar quadros
+10142676,5/5/2020,Masculino,5/20/1951,gato,moderado,Água,Ler livros
+10142739,5/5/2020,Masculino,4/6/1971,gato,quente,Água,Pintar quadros
+10143291,5/5/2020,Masculino,1/7/1989,cachorro,frio,Vinho,Aprender algo novo
+10141807,5/6/2020,Feminino,1/6/1968,gato,moderado,Vinho,Aprender algo novo
+10141808,5/6/2020,Feminino,8/20/1964,cachorro,frio,Cerveja,Escutar música
+10141932,5/6/2020,Feminino,5/30/1959,cachorro,frio,Água,Praticar esporte
+10142312,5/6/2020,Masculino,4/19/1952,gato,quente,Chá,Praticar esporte
+10142322,5/6/2020,Masculino,5/30/1982,gato,frio,Cerveja,Ler livros
+10142535,5/6/2020,Masculino,11/5/1995,gato,moderado,Cerveja,Ler livros
+10142710,5/6/2020,Masculino,6/26/1968,tartaruga,frio,Água,Praticar esporte
+10142883,5/6/2020,Masculino,4/20/1955,gato,moderado,Cerveja,Ler livros
+10143193,5/6/2020,Masculino,1/4/1982,tartaruga,frio,refrigerante,Dormir
+10143315,5/6/2020,Feminino,10/12/1966,tartaruga,frio,Chá,Pintar quadros
+10143377,5/6/2020,Masculino,7/29/1995,cachorro,frio,Café,Pintar quadros
+10142489,5/7/2020,Masculino,10/27/1974,tartaruga,frio,Café,Assistir TV
+10143003,5/7/2020,Masculino,12/10/1985,peixe,quente,refrigerante,Dormir
+10143328,5/7/2020,Masculino,5/13/1998,gato,moderado,Cerveja,Praticar esporte
+10142184,5/8/2020,Masculino,2/4/1990,gato,moderado,Chá,Assistir TV
+10143258,5/8/2020,Masculino,7/3/1999,gato,frio,Chá,Ler livros
+10141616,5/9/2020,Feminino,7/20/1982,tartaruga,moderado,Vinho,Assistir TV
+10142384,5/9/2020,Masculino,10/24/1990,gato,quente,Água,Dormir
+10142646,5/9/2020,Feminino,5/27/1994,gato,quente,Cerveja,Ler livros
+10142882,5/9/2020,Masculino,11/4/1974,gato,frio,Café,Dormir
+10142898,5/9/2020,Masculino,12/27/1995,cachorro,moderado,Chá,Dormir
+10143349,5/9/2020,Feminino,9/24/1962,tartaruga,moderado,Vinho,Assistir TV
+10143435,5/9/2020,Feminino,5/20/1980,peixe,quente,Água,Praticar esporte
+10141516,5/10/2020,Feminino,3/2/1966,peixe,frio,Chá,Assistir TV
+10141828,5/10/2020,Feminino,12/30/1964,tartaruga,frio,Chá,Escrever
+10142102,5/10/2020,Feminino,7/14/1962,gato,quente,Chá,Praticar esporte
+10142637,5/10/2020,Feminino,9/9/1951,gato,frio,refrigerante,Praticar esporte
+10143242,5/10/2020,Masculino,5/30/1999,cachorro,frio,refrigerante,Ler livros
+10142561,5/11/2020,Masculino,1/12/1992,peixe,quente,Chá,Pintar quadros
+10142954,5/11/2020,Masculino,5/17/1999,gato,frio,Chá,Praticar esporte
+10143177,5/11/2020,Masculino,11/18/1972,cachorro,moderado,Chá,Pintar quadros
+10143525,5/11/2020,Feminino,3/19/1969,tartaruga,frio,Café,Aprender algo novo
+10141773,5/12/2020,Feminino,11/17/1999,tartaruga,frio,Cerveja,Escutar música
+10142073,5/12/2020,Masculino,3/2/1950,cachorro,frio,Água,Dormir
+10142381,5/12/2020,Masculino,4/21/1963,gato,frio,Vinho,Ler livros
+10142546,5/12/2020,Masculino,6/4/1971,gato,quente,Vinho,Escutar música
+10142742,5/12/2020,Masculino,3/22/1987,cachorro,quente,Café,Pintar quadros
+10143593,5/12/2020,Feminino,5/17/1954,peixe,moderado,Café,Assistir TV
+10142138,5/14/2020,Feminino,2/5/1950,gato,moderado,Chá,Escutar música
+10142168,5/14/2020,Masculino,7/20/1993,tartaruga,quente,Chá,Escutar música
+10142337,5/14/2020,Masculino,1/22/1969,cachorro,moderado,Água,Dormir
+10142370,5/14/2020,Masculino,1/22/1981,gato,moderado,Chá,Assistir TV
+10142415,5/14/2020,Masculino,6/30/1987,gato,quente,refrigerante,Dormir
+10142659,5/14/2020,Masculino,12/8/1979,gato,moderado,Café,Assistir TV
+10143224,5/14/2020,Masculino,2/1/1978,peixe,frio,Café,Escutar música
+10143375,5/14/2020,Feminino,6/27/1956,cachorro,quente,Cerveja,Dormir
+10142108,5/15/2020,Masculino,9/5/1954,gato,quente,refrigerante,Escrever
+10142332,5/15/2020,Masculino,6/23/1998,peixe,moderado,Vinho,Pintar quadros
+10142696,5/15/2020,Masculino,6/6/1994,gato,quente,refrigerante,Pintar quadros
+10142810,5/15/2020,Masculino,6/22/1960,gato,moderado,Cerveja,Assistir TV
+10143011,5/15/2020,Masculino,6/17/1982,cachorro,moderado,Vinho,Praticar esporte
+10143203,5/15/2020,Masculino,2/4/1951,cachorro,moderado,Café,Assistir TV
+10142115,5/16/2020,Masculino,10/17/1998,cachorro,moderado,Água,Ler livros
+10142749,5/16/2020,Masculino,1/1/1971,peixe,moderado,Café,Escrever
+10142972,5/16/2020,Masculino,12/20/1982,gato,frio,Chá,Aprender algo novo
+10143610,5/16/2020,Feminino,10/22/1989,gato,moderado,Café,Assistir TV
+10142296,5/17/2020,Masculino,10/29/1976,gato,moderado,Vinho,Escutar música
+10142709,5/17/2020,Masculino,10/11/1977,gato,moderado,Água,Ler livros
+10143578,5/17/2020,Masculino,12/16/1986,cachorro,moderado,Cerveja,Praticar esporte
+10142188,5/18/2020,Masculino,6/21/1990,gato,moderado,Cerveja,Assistir TV
+10142197,5/18/2020,Masculino,2/22/1966,gato,frio,Água,Escrever
+10142528,5/18/2020,Masculino,12/7/1983,peixe,frio,refrigerante,Praticar esporte
+10142566,5/18/2020,Masculino,12/14/1972,tartaruga,frio,refrigerante,Dormir
+10143335,5/18/2020,Feminino,1/11/1970,peixe,frio,Café,Ler livros
+10143392,5/18/2020,Masculino,10/22/1995,gato,frio,Cerveja,Praticar esporte
+10143471,5/18/2020,Feminino,6/13/1978,tartaruga,frio,Cerveja,Escrever
+10143563,5/18/2020,Masculino,1/30/1979,gato,moderado,refrigerante,Praticar esporte
+10141537,5/19/2020,Feminino,7/3/1973,gato,moderado,Vinho,Escutar música
+10142913,5/19/2020,Masculino,1/10/1955,peixe,quente,refrigerante,Escrever
+10143001,5/19/2020,Masculino,11/10/1996,gato,quente,refrigerante,Dormir
+10143061,5/19/2020,Masculino,12/13/1973,cachorro,quente,Água,Ler livros
+10143118,5/19/2020,Feminino,2/13/1989,tartaruga,moderado,refrigerante,Dormir
+10143130,5/19/2020,Feminino,1/21/1992,cachorro,frio,Café,Pintar quadros
+10141810,5/20/2020,Masculino,10/26/1953,cachorro,frio,Vinho,Dormir
+10142363,5/20/2020,Masculino,6/27/1978,gato,quente,Água,Dormir
+10142406,5/20/2020,Masculino,2/13/1956,cachorro,frio,Chá,Pintar quadros
+10143319,5/20/2020,Masculino,2/9/1994,gato,moderado,Chá,Dormir
+10142392,5/21/2020,Masculino,7/29/1971,peixe,moderado,Chá,Aprender algo novo
+10142650,5/21/2020,Feminino,7/26/1954,tartaruga,frio,refrigerante,Dormir
+10142706,5/21/2020,Masculino,12/19/1980,gato,frio,Vinho,Praticar esporte
+10142850,5/21/2020,Masculino,3/5/1981,peixe,frio,Chá,Dormir
+10142947,5/21/2020,Masculino,4/27/1953,gato,frio,Cerveja,Praticar esporte
+10143536,5/21/2020,Masculino,2/24/1966,cachorro,quente,Café,Dormir
+10141642,5/22/2020,Masculino,2/23/1986,gato,moderado,Vinho,Aprender algo novo
+10142474,5/22/2020,Masculino,9/21/1965,peixe,quente,Café,Aprender algo novo
+10142593,5/22/2020,Masculino,11/29/1994,gato,moderado,refrigerante,Ler livros
+10142919,5/22/2020,Masculino,2/11/1958,gato,quente,Cerveja,Dormir
+10142099,5/23/2020,Feminino,4/9/1968,tartaruga,moderado,Vinho,Aprender algo novo
+10142808,5/23/2020,Masculino,2/24/1967,cachorro,moderado,Café,Pintar quadros
+10142111,5/24/2020,Feminino,6/29/1981,peixe,moderado,Vinho,Dormir
+10141718,5/25/2020,Feminino,3/18/1967,cachorro,quente,refrigerante,Ler livros
+10142795,5/25/2020,Masculino,1/17/1971,gato,frio,refrigerante,Ler livros
+10143223,5/25/2020,Masculino,5/23/1950,gato,moderado,Vinho,Ler livros
+10141735,5/26/2020,Feminino,2/22/1993,gato,moderado,Cerveja,Praticar esporte
+10142155,5/26/2020,Masculino,9/9/1955,gato,quente,Café,Escrever
+10142455,5/26/2020,Masculino,6/3/1993,gato,frio,Vinho,Pintar quadros
+10142691,5/26/2020,Masculino,11/17/1964,tartaruga,moderado,Água,Praticar esporte
+10142751,5/26/2020,Masculino,8/12/1972,gato,quente,Água,Pintar quadros
+10141611,5/27/2020,Feminino,8/19/1998,peixe,moderado,Vinho,Pintar quadros
+10141636,5/27/2020,Feminino,12/17/1970,peixe,quente,Vinho,Escutar música
+10141837,5/27/2020,Feminino,9/30/1999,gato,quente,Cerveja,Ler livros
+10141859,5/27/2020,Feminino,8/17/1976,tartaruga,quente,refrigerante,Escrever
+10142494,5/27/2020,Masculino,7/1/1970,peixe,quente,Chá,Dormir
+10143152,5/27/2020,Feminino,6/16/1967,tartaruga,frio,Cerveja,Pintar quadros
+10142627,5/28/2020,Masculino,7/24/1979,peixe,quente,Vinho,Assistir TV
+10142975,5/28/2020,Masculino,11/10/1981,gato,frio,Café,Aprender algo novo
+10143014,5/28/2020,Masculino,9/5/1986,gato,frio,Café,Escrever
+10143050,5/28/2020,Masculino,11/11/1955,gato,frio,Vinho,Escutar música
+10143462,5/28/2020,Masculino,8/31/1970,peixe,quente,Chá,Escutar música
+10141695,5/29/2020,Feminino,4/13/1998,gato,quente,Chá,Praticar esporte
+10141724,5/29/2020,Feminino,10/12/1976,tartaruga,frio,refrigerante,Ler livros
+10141740,5/29/2020,Masculino,9/26/1985,gato,moderado,Chá,Aprender algo novo
+10141796,5/29/2020,Feminino,6/19/1980,cachorro,moderado,Água,Ler livros
+10141811,5/29/2020,Masculino,9/23/1965,peixe,quente,Vinho,Escrever
+10142891,5/29/2020,Masculino,1/17/1951,cachorro,moderado,Café,Aprender algo novo
+10142361,5/30/2020,Masculino,9/24/1950,gato,moderado,Cerveja,Assistir TV
+10142952,5/30/2020,Masculino,7/1/1992,peixe,moderado,Cerveja,Aprender algo novo
+10143426,5/30/2020,Masculino,8/8/1986,tartaruga,frio,Água,Praticar esporte
+10141721,5/31/2020,Feminino,8/8/1964,tartaruga,moderado,Chá,Ler livros
+10141848,6/1/2020,Masculino,10/31/1979,peixe,moderado,Água,Ler livros
+10141981,6/1/2020,Feminino,10/28/1983,gato,frio,Cerveja,Escutar música
+10142011,6/1/2020,Feminino,4/12/1979,cachorro,frio,Chá,Praticar esporte
+10142170,6/1/2020,Masculino,1/13/1953,gato,frio,Café,Ler livros
+10142300,6/1/2020,Masculino,3/17/1974,cachorro,frio,Cerveja,Escutar música
+10142728,6/1/2020,Masculino,8/24/1959,peixe,moderado,Chá,Escrever
+10142870,6/1/2020,Masculino,3/7/1970,cachorro,frio,Água,Aprender algo novo
+10141530,6/2/2020,Feminino,12/29/1980,peixe,quente,Chá,Escutar música
+10142589,6/2/2020,Masculino,3/9/1995,cachorro,frio,Cerveja,Assistir TV
+10142692,6/2/2020,Masculino,11/12/1970,gato,moderado,Cerveja,Pintar quadros
+10141699,6/3/2020,Feminino,2/20/1988,tartaruga,moderado,Café,Escrever
+10141771,6/3/2020,Feminino,1/30/1952,gato,frio,Vinho,Assistir TV
+10142758,6/3/2020,Masculino,10/27/1958,gato,moderado,Chá,Escutar música
+10142903,6/3/2020,Masculino,10/24/1979,peixe,frio,Chá,Assistir TV
+10143342,6/3/2020,Feminino,8/26/1965,gato,moderado,Café,Dormir
+10141532,6/4/2020,Feminino,8/10/1990,peixe,moderado,Água,Aprender algo novo
+10141563,6/4/2020,Feminino,11/28/1956,cachorro,frio,Chá,Praticar esporte
+10141658,6/4/2020,Feminino,3/4/1963,gato,moderado,Chá,Escrever
+10142121,6/4/2020,Feminino,5/9/1986,gato,frio,Café,Escutar música
+10142491,6/4/2020,Masculino,6/10/1954,cachorro,quente,Água,Pintar quadros
+10142639,6/4/2020,Feminino,12/25/1964,cachorro,moderado,refrigerante,Escrever
+10142716,6/4/2020,Masculino,3/22/1953,gato,quente,Água,Aprender algo novo
+10142887,6/4/2020,Masculino,7/3/1951,gato,moderado,Café,Dormir
+10142926,6/4/2020,Masculino,4/4/1993,gato,quente,refrigerante,Assistir TV
+10143321,6/4/2020,Masculino,5/1/1990,gato,quente,Chá,Assistir TV
+10143403,6/4/2020,Masculino,7/22/1990,peixe,quente,Chá,Pintar quadros
+10143491,6/4/2020,Masculino,2/1/1965,peixe,frio,refrigerante,Escutar música
+10141641,6/5/2020,Feminino,6/4/1968,gato,frio,Água,Aprender algo novo
+10141787,6/5/2020,Feminino,4/10/1998,gato,frio,Vinho,Pintar quadros
+10142697,6/5/2020,Masculino,3/14/1953,peixe,moderado,Café,Escrever
+10142866,6/5/2020,Masculino,7/18/1990,gato,frio,Cerveja,Ler livros
+10143174,6/5/2020,Masculino,2/11/1967,peixe,quente,Vinho,Pintar quadros
+10143386,6/5/2020,Masculino,2/6/1971,gato,moderado,Água,Escutar música
+10142149,6/6/2020,Masculino,12/8/1954,peixe,frio,refrigerante,Dormir
+10142730,6/6/2020,Masculino,8/6/1981,tartaruga,frio,Água,Pintar quadros
+10143248,6/6/2020,Masculino,11/29/1972,peixe,quente,Café,Assistir TV
+10142472,6/7/2020,Masculino,11/21/1977,tartaruga,quente,Chá,Ler livros
+10142509,6/7/2020,Masculino,9/2/1977,peixe,quente,Água,Ler livros
+10142778,6/7/2020,Masculino,9/26/1970,gato,frio,Água,Pintar quadros
+10143486,6/7/2020,Masculino,4/6/1979,cachorro,moderado,Café,Dormir
+10141586,6/8/2020,Feminino,12/25/1957,gato,frio,Chá,Praticar esporte
+10141703,6/8/2020,Feminino,1/29/1982,cachorro,quente,Água,Escutar música
+10141939,6/8/2020,Feminino,9/12/1999,tartaruga,quente,Cerveja,Aprender algo novo
+10141990,6/8/2020,Feminino,12/5/1982,gato,moderado,Água,Praticar esporte
+10142199,6/8/2020,Masculino,10/24/1958,gato,quente,Chá,Escutar música
+10143369,6/8/2020,Masculino,10/30/1952,tartaruga,quente,Café,Dormir
+10143487,6/8/2020,Masculino,9/15/1953,peixe,frio,Cerveja,Praticar esporte
+10142125,6/9/2020,Feminino,8/13/1981,peixe,moderado,Água,Escutar música
+10142378,6/9/2020,Masculino,12/2/1958,cachorro,moderado,Vinho,Dormir
+10142495,6/9/2020,Masculino,12/15/1965,gato,quente,Vinho,Praticar esporte
+10142543,6/9/2020,Masculino,5/27/1974,tartaruga,moderado,Água,Assistir TV
+10143468,6/9/2020,Masculino,6/26/1976,cachorro,frio,Cerveja,Ler livros
+10141573,6/10/2020,Feminino,1/14/1973,peixe,moderado,Café,Praticar esporte
+10142135,6/10/2020,Feminino,12/9/1985,gato,frio,Cerveja,Ler livros
+10142163,6/10/2020,Masculino,2/19/1983,tartaruga,moderado,Vinho,Ler livros
+10142502,6/10/2020,Masculino,10/11/1972,peixe,quente,Vinho,Ler livros
+10142674,6/10/2020,Masculino,4/21/1951,gato,moderado,Vinho,Assistir TV
+10143234,6/10/2020,Masculino,1/31/1958,gato,quente,Água,Dormir
+10142636,6/11/2020,Feminino,10/12/1968,cachorro,frio,Água,Escutar música
+10142804,6/11/2020,Masculino,11/26/1977,gato,quente,Água,Escrever
+10143008,6/11/2020,Masculino,10/14/1973,cachorro,moderado,Cerveja,Praticar esporte
+10143265,6/11/2020,Masculino,8/6/1978,tartaruga,frio,Vinho,Dormir
+10142420,6/12/2020,Masculino,4/8/1952,gato,moderado,Chá,Dormir
+10143175,6/12/2020,Masculino,6/2/1964,gato,frio,Cerveja,Dormir
+10141886,6/13/2020,Feminino,10/9/1996,peixe,frio,Cerveja,Pintar quadros
+10142532,6/13/2020,Masculino,8/19/1950,gato,quente,Água,Escrever
+10142564,6/13/2020,Masculino,2/11/1979,peixe,moderado,Cerveja,Aprender algo novo
+10142753,6/13/2020,Masculino,12/13/1959,tartaruga,moderado,refrigerante,Dormir
+10143334,6/13/2020,Feminino,3/9/1989,cachorro,quente,Vinho,Pintar quadros
+10141531,6/14/2020,Feminino,11/1/1950,tartaruga,quente,Chá,Dormir
+10141746,6/14/2020,Masculino,12/14/1965,cachorro,quente,refrigerante,Escrever
+10142316,6/14/2020,Masculino,5/29/1971,tartaruga,quente,refrigerante,Escutar música
+10142349,6/14/2020,Masculino,12/18/1971,peixe,frio,Café,Pintar quadros
+10142806,6/14/2020,Masculino,1/28/1990,peixe,frio,refrigerante,Pintar quadros
+10142875,6/14/2020,Masculino,7/31/1989,gato,frio,Água,Escutar música
+10143362,6/14/2020,Feminino,9/1/1979,peixe,quente,Café,Assistir TV
+10141983,6/15/2020,Masculino,7/28/1957,gato,frio,Água,Dormir
+10142070,6/15/2020,Masculino,1/15/1989,gato,frio,refrigerante,Escrever
+10142538,6/15/2020,Masculino,9/12/1977,peixe,quente,Vinho,Escrever
+10142793,6/15/2020,Masculino,3/23/1991,cachorro,quente,Cerveja,Dormir
+10143035,6/15/2020,Masculino,7/15/1967,peixe,moderado,Cerveja,Aprender algo novo
+10143236,6/15/2020,Masculino,9/4/1997,peixe,frio,refrigerante,Escrever
+10143352,6/15/2020,Masculino,3/17/1969,gato,frio,Vinho,Ler livros
+10143355,6/15/2020,Feminino,7/16/1999,gato,frio,refrigerante,Escutar música
+10141608,6/16/2020,Feminino,5/23/1967,gato,quente,refrigerante,Escrever
+10141815,6/16/2020,Feminino,5/27/1987,tartaruga,moderado,refrigerante,Dormir
+10141962,6/16/2020,Feminino,2/4/1955,cachorro,quente,Água,Aprender algo novo
+10142137,6/16/2020,Masculino,4/4/1971,cachorro,frio,Café,Assistir TV
+10142275,6/16/2020,Masculino,3/17/1981,cachorro,moderado,Café,Escutar música
+10142315,6/16/2020,Masculino,10/20/1999,gato,quente,Vinho,Assistir TV
+10142818,6/16/2020,Masculino,7/7/1986,peixe,moderado,Cerveja,Aprender algo novo
+10142993,6/16/2020,Masculino,11/12/1968,gato,frio,Café,Assistir TV
+10143454,6/16/2020,Feminino,12/17/1955,tartaruga,quente,Vinho,Pintar quadros
+10142398,6/17/2020,Masculino,12/1/1998,gato,moderado,Cerveja,Escutar música
+10142896,6/17/2020,Masculino,3/10/1966,gato,moderado,Cerveja,Assistir TV
+10143412,6/17/2020,Masculino,8/30/1988,gato,quente,Água,Escrever
+10143428,6/17/2020,Masculino,1/7/1995,cachorro,quente,Vinho,Ler livros
+10141663,6/18/2020,Masculino,3/23/1950,gato,frio,Café,Escrever
+10142359,6/18/2020,Masculino,11/14/1990,peixe,frio,Água,Escrever
+10142366,6/18/2020,Masculino,4/26/1967,gato,moderado,Chá,Praticar esporte
+10142865,6/18/2020,Masculino,6/11/1957,gato,quente,Cerveja,Aprender algo novo
+10142057,6/19/2020,Masculino,5/11/1989,peixe,frio,Água,Praticar esporte
+10142101,6/19/2020,Feminino,7/17/1955,tartaruga,quente,Café,Pintar quadros
+10142629,6/19/2020,Feminino,8/25/1953,cachorro,quente,Chá,Dormir
+10142849,6/19/2020,Masculino,3/9/1951,cachorro,quente,refrigerante,Dormir
+10142973,6/19/2020,Masculino,1/2/1960,tartaruga,frio,Café,Ler livros
+10143111,6/19/2020,Masculino,5/22/1959,gato,frio,refrigerante,Praticar esporte
+10143614,6/19/2020,Feminino,5/24/1972,cachorro,quente,Cerveja,Dormir
+10141923,6/20/2020,Feminino,3/26/1978,peixe,frio,Água,Escutar música
+10142292,6/20/2020,Masculino,1/18/1979,cachorro,frio,Vinho,Aprender algo novo
+10142616,6/20/2020,Masculino,3/22/1994,gato,moderado,Café,Ler livros
+10142705,6/20/2020,Masculino,12/9/1989,cachorro,frio,Vinho,Dormir
+10142796,6/20/2020,Masculino,9/17/1976,gato,quente,Chá,Escrever
+10141595,6/21/2020,Feminino,2/24/1969,gato,quente,Chá,Ler livros
+10142574,6/21/2020,Masculino,5/3/1999,gato,frio,Café,Assistir TV
+10142679,6/21/2020,Masculino,3/25/1966,gato,moderado,Chá,Escrever
+10142945,6/21/2020,Masculino,5/15/1951,gato,quente,Vinho,Aprender algo novo
+10143020,6/21/2020,Masculino,6/3/1984,gato,quente,Chá,Escrever
+10143069,6/21/2020,Masculino,4/23/1965,gato,frio,Chá,Ler livros
+10143107,6/21/2020,Masculino,8/1/1952,gato,quente,Cerveja,Dormir
+10143393,6/21/2020,Masculino,8/9/1996,peixe,frio,Café,Dormir
+10142035,6/22/2020,Feminino,10/17/1976,gato,quente,Cerveja,Dormir
+10142774,6/22/2020,Masculino,3/17/1964,cachorro,moderado,Café,Assistir TV
+10143401,6/22/2020,Feminino,1/27/1966,gato,frio,Chá,Escrever
+10143550,6/22/2020,Feminino,10/28/1980,gato,quente,refrigerante,Dormir
+10143601,6/22/2020,Feminino,4/12/1977,tartaruga,frio,Cerveja,Escutar música
+10143622,6/22/2020,Masculino,12/7/1982,gato,frio,Cerveja,Pintar quadros
+10143625,6/22/2020,Masculino,5/13/1994,gato,quente,Café,Dormir
+10141758,6/23/2020,Masculino,10/3/1992,gato,frio,Chá,Ler livros
+10141901,6/23/2020,Feminino,1/15/1998,gato,quente,Cerveja,Escrever
+10142280,6/23/2020,Masculino,8/6/1963,peixe,moderado,Chá,Dormir
+10143209,6/23/2020,Masculino,11/29/1982,gato,quente,Chá,Aprender algo novo
+10141669,6/24/2020,Feminino,3/22/1964,gato,frio,Chá,Praticar esporte
+10141960,6/24/2020,Feminino,8/9/1976,gato,frio,refrigerante,Escrever
+10142182,6/24/2020,Masculino,7/19/1978,tartaruga,quente,Café,Assistir TV
+10142248,6/24/2020,Masculino,2/5/1954,cachorro,quente,refrigerante,Pintar quadros
+10142880,6/24/2020,Masculino,3/6/1979,gato,moderado,Cerveja,Escutar música
+10142949,6/24/2020,Masculino,4/18/1983,peixe,moderado,Café,Escrever
+10143243,6/24/2020,Masculino,1/22/1998,gato,frio,Café,Escrever
+10143332,6/24/2020,Feminino,12/26/1984,gato,frio,refrigerante,Praticar esporte
+10143540,6/24/2020,Masculino,6/15/1977,peixe,moderado,Água,Assistir TV
+10143576,6/24/2020,Masculino,1/12/1994,tartaruga,frio,Vinho,Ler livros
+10141507,6/25/2020,Masculino,5/22/1961,tartaruga,quente,refrigerante,Pintar quadros
+10142152,6/25/2020,Masculino,1/14/1956,gato,quente,Café,Dormir
+10142288,6/25/2020,Masculino,3/31/1979,peixe,moderado,Chá,Pintar quadros
+10142943,6/25/2020,Masculino,3/12/1963,peixe,quente,Vinho,Escrever
+10143259,6/25/2020,Masculino,10/4/1959,peixe,frio,Chá,Aprender algo novo
+10143408,6/25/2020,Masculino,1/24/1980,tartaruga,moderado,Vinho,Pintar quadros
+10142144,6/26/2020,Masculino,5/20/1961,peixe,quente,refrigerante,Aprender algo novo
+10142624,6/26/2020,Feminino,7/20/1956,tartaruga,frio,Chá,Aprender algo novo
+10142942,6/26/2020,Masculino,8/16/1994,tartaruga,quente,refrigerante,Escrever
+10143263,6/26/2020,Masculino,9/3/1970,peixe,frio,Chá,Dormir
+10142016,6/27/2020,Masculino,9/25/1988,gato,moderado,refrigerante,Pintar quadros
+10142351,6/27/2020,Masculino,11/14/1965,peixe,frio,Cerveja,Praticar esporte
+10142634,6/27/2020,Feminino,4/30/1967,gato,moderado,Vinho,Dormir
+10143238,6/27/2020,Masculino,1/29/1976,tartaruga,frio,Cerveja,Dormir
+10141797,6/28/2020,Feminino,5/9/1955,tartaruga,frio,refrigerante,Praticar esporte
+10142066,6/28/2020,Feminino,6/17/1978,gato,moderado,Água,Escutar música
+10142091,6/28/2020,Masculino,7/29/1976,peixe,moderado,Chá,Assistir TV
+10142340,6/28/2020,Masculino,4/7/1951,cachorro,quente,refrigerante,Ler livros
+10142461,6/28/2020,Masculino,1/27/1957,tartaruga,moderado,Cerveja,Ler livros
+10143348,6/28/2020,Masculino,12/23/1998,tartaruga,quente,refrigerante,Ler livros
+10143391,6/28/2020,Feminino,7/27/1953,gato,frio,Cerveja,Praticar esporte
+10141846,6/29/2020,Masculino,12/5/1970,tartaruga,moderado,Cerveja,Praticar esporte
+10141934,6/29/2020,Feminino,9/2/1954,cachorro,frio,Vinho,Assistir TV
+10141985,6/29/2020,Feminino,5/26/1978,peixe,quente,Chá,Pintar quadros
+10142684,6/29/2020,Masculino,6/12/1968,tartaruga,frio,refrigerante,Aprender algo novo
+10142822,6/29/2020,Masculino,12/3/1980,gato,moderado,Chá,Ler livros
+10142886,6/29/2020,Masculino,12/7/1972,gato,frio,Cerveja,Assistir TV
+10143213,6/29/2020,Masculino,12/28/1983,tartaruga,moderado,Vinho,Aprender algo novo
+10141892,6/30/2020,Masculino,7/13/1965,tartaruga,frio,Cerveja,Pintar quadros
+10142729,6/30/2020,Masculino,10/13/1991,tartaruga,frio,Vinho,Dormir
+10143132,6/30/2020,Feminino,7/10/1987,gato,frio,Chá,Ler livros
+10143278,6/30/2020,Feminino,7/26/1952,gato,frio,Água,Praticar esporte
+10143489,6/30/2020,Masculino,9/15/1962,gato,quente,Chá,Assistir TV
+10142024,7/1/2020,Feminino,4/11/1955,tartaruga,quente,Café,Escrever
+10142064,7/1/2020,Feminino,11/7/1999,tartaruga,frio,refrigerante,Assistir TV
+10142368,7/1/2020,Masculino,5/23/1964,cachorro,frio,Água,Ler livros
+10142885,7/1/2020,Masculino,7/31/1967,cachorro,frio,Café,Aprender algo novo
+10143208,7/1/2020,Masculino,2/20/1966,cachorro,frio,Chá,Aprender algo novo
+10143296,7/1/2020,Masculino,12/7/1966,tartaruga,quente,refrigerante,Escutar música
+10141732,7/2/2020,Feminino,10/5/1961,peixe,frio,Cerveja,Escutar música
+10143220,7/2/2020,Masculino,6/29/1992,peixe,frio,Água,Pintar quadros
+10143506,7/2/2020,Masculino,4/30/1960,tartaruga,frio,Vinho,Assistir TV
+10141884,7/3/2020,Feminino,1/30/1991,peixe,frio,Cerveja,Dormir
+10141920,7/3/2020,Feminino,10/5/1956,gato,frio,Café,Assistir TV
+10142076,7/3/2020,Masculino,8/24/1998,peixe,quente,Chá,Assistir TV
+10141646,7/4/2020,Feminino,5/9/1950,tartaruga,frio,Água,Escrever
+10141794,7/4/2020,Feminino,4/16/1996,tartaruga,frio,Café,Assistir TV
+10141954,7/4/2020,Feminino,2/17/1961,tartaruga,quente,refrigerante,Aprender algo novo
+10142100,7/4/2020,Feminino,5/6/1951,tartaruga,quente,Café,Escrever
+10142129,7/4/2020,Feminino,11/10/1982,peixe,frio,Café,Aprender algo novo
+10142800,7/4/2020,Masculino,2/8/1993,cachorro,moderado,Vinho,Aprender algo novo
+10143147,7/4/2020,Feminino,1/26/1950,cachorro,quente,Cerveja,Pintar quadros
+10143574,7/4/2020,Masculino,12/1/1966,gato,frio,Água,Aprender algo novo
+10141738,7/5/2020,Feminino,8/17/1991,gato,quente,Cerveja,Praticar esporte
+10142478,7/5/2020,Masculino,12/24/1966,tartaruga,frio,refrigerante,Escrever
+10143310,7/5/2020,Feminino,8/13/1991,peixe,frio,Vinho,Ler livros
+10143448,7/5/2020,Feminino,10/15/1979,gato,quente,Cerveja,Pintar quadros
+10141755,7/6/2020,Masculino,11/3/1985,peixe,moderado,Cerveja,Ler livros
+10142805,7/6/2020,Masculino,3/4/1957,gato,moderado,Cerveja,Dormir
+10141543,7/7/2020,Masculino,10/7/1977,peixe,frio,Café,Praticar esporte
+10141591,7/7/2020,Feminino,10/13/1970,cachorro,quente,Cerveja,Ler livros
+10141873,7/7/2020,Feminino,10/10/1956,tartaruga,frio,Café,Aprender algo novo
+10142141,7/7/2020,Masculino,7/12/1958,peixe,frio,Chá,Praticar esporte
+10142626,7/7/2020,Feminino,11/11/1957,gato,quente,refrigerante,Ler livros
+10142979,7/7/2020,Masculino,3/25/1952,gato,quente,Café,Dormir
+10141539,7/8/2020,Feminino,3/16/1973,cachorro,quente,Chá,Ler livros
+10141571,7/8/2020,Feminino,5/13/1992,gato,frio,Chá,Aprender algo novo
+10141922,7/8/2020,Masculino,7/24/1973,peixe,quente,refrigerante,Pintar quadros
+10142183,7/8/2020,Masculino,2/3/1977,tartaruga,quente,Café,Praticar esporte
+10142242,7/8/2020,Feminino,7/3/1994,gato,moderado,Chá,Dormir
+10142575,7/8/2020,Masculino,6/17/1953,gato,moderado,Cerveja,Pintar quadros
+10143038,7/8/2020,Masculino,12/1/1967,peixe,frio,Chá,Praticar esporte
+10143164,7/8/2020,Masculino,6/20/1997,tartaruga,frio,Vinho,Ler livros
+10141897,7/9/2020,Feminino,12/10/1978,gato,frio,Vinho,Escutar música
+10142026,7/9/2020,Feminino,2/10/1976,peixe,quente,Chá,Aprender algo novo
+10142854,7/9/2020,Masculino,1/24/1981,peixe,moderado,Chá,Dormir
+10143009,7/9/2020,Masculino,3/28/1968,tartaruga,quente,Café,Escutar música
+10143516,7/9/2020,Feminino,7/13/1957,cachorro,quente,Vinho,Praticar esporte
+10141843,7/10/2020,Masculino,2/14/1957,peixe,frio,refrigerante,Dormir
+10141864,7/10/2020,Feminino,7/11/1994,gato,quente,refrigerante,Pintar quadros
+10142477,7/10/2020,Masculino,11/2/1992,cachorro,frio,refrigerante,Aprender algo novo
+10142656,7/10/2020,Feminino,12/19/1980,gato,frio,Água,Pintar quadros
+10142978,7/10/2020,Masculino,3/5/1981,gato,moderado,Café,Escutar música
+10143229,7/10/2020,Masculino,11/12/1960,cachorro,quente,Vinho,Ler livros
+10143466,7/10/2020,Feminino,9/19/1970,gato,moderado,refrigerante,Escutar música
+10143589,7/10/2020,Feminino,3/25/1963,cachorro,frio,Café,Escutar música
+10141527,7/11/2020,Masculino,12/5/1988,peixe,moderado,Água,Ler livros
+10142256,7/11/2020,Masculino,3/23/1964,gato,moderado,Água,Escrever
+10142817,7/11/2020,Masculino,7/19/1967,gato,quente,refrigerante,Escrever
+10143268,7/11/2020,Masculino,3/17/1966,gato,moderado,Café,Escutar música
+10141943,7/12/2020,Feminino,1/27/1966,gato,moderado,Água,Aprender algo novo
+10142584,7/12/2020,Masculino,12/24/1985,gato,moderado,refrigerante,Ler livros
+10142721,7/12/2020,Masculino,2/1/1959,gato,quente,Cerveja,Assistir TV
+10142873,7/12/2020,Masculino,3/25/1982,cachorro,quente,Café,Dormir
+10142962,7/12/2020,Masculino,4/29/1954,tartaruga,quente,refrigerante,Dormir
+10143032,7/12/2020,Masculino,7/1/1988,peixe,moderado,Chá,Assistir TV
+10143327,7/12/2020,Masculino,11/18/1976,peixe,moderado,refrigerante,Escrever
+10143422,7/12/2020,Feminino,9/3/1958,cachorro,moderado,Cerveja,Ler livros
+10142303,7/13/2020,Masculino,11/17/1996,tartaruga,moderado,Cerveja,Dormir
+10142453,7/13/2020,Masculino,3/22/1981,tartaruga,moderado,Água,Assistir TV
+10142825,7/13/2020,Masculino,4/30/1989,peixe,frio,Cerveja,Escutar música
+10143018,7/13/2020,Masculino,3/9/1987,gato,moderado,Chá,Dormir
+10143198,7/13/2020,Masculino,12/30/1977,peixe,quente,Café,Dormir
+10143418,7/13/2020,Feminino,10/30/1995,tartaruga,quente,Água,Escutar música
+10143488,7/13/2020,Masculino,5/1/1974,peixe,moderado,Cerveja,Dormir
+10141676,7/14/2020,Masculino,6/25/1962,tartaruga,quente,Água,Pintar quadros
+10141697,7/14/2020,Feminino,1/8/1995,gato,frio,refrigerante,Dormir
+10141729,7/14/2020,Feminino,2/20/1957,cachorro,moderado,refrigerante,Praticar esporte
+10142567,7/14/2020,Masculino,1/24/1972,peixe,frio,Cerveja,Ler livros
+10142720,7/14/2020,Masculino,9/25/1965,gato,moderado,refrigerante,Aprender algo novo
+10142826,7/14/2020,Masculino,12/27/1990,cachorro,quente,Vinho,Assistir TV
+10143445,7/14/2020,Feminino,10/21/1972,peixe,quente,Chá,Aprender algo novo
+10143565,7/14/2020,Feminino,4/18/1963,tartaruga,moderado,Cerveja,Pintar quadros
+10141651,7/15/2020,Feminino,5/16/1977,tartaruga,moderado,Água,Escutar música
+10142846,7/15/2020,Masculino,9/6/1996,peixe,quente,Cerveja,Pintar quadros
+10142857,7/15/2020,Masculino,9/8/1964,peixe,frio,Cerveja,Assistir TV
+10143505,7/15/2020,Masculino,4/30/1971,peixe,frio,Água,Aprender algo novo
+10142278,7/16/2020,Masculino,3/8/1994,peixe,frio,Chá,Assistir TV
+10142411,7/16/2020,Masculino,2/4/1958,gato,moderado,Água,Aprender algo novo
+10141522,7/17/2020,Masculino,4/18/1972,peixe,frio,Chá,Dormir
+10141566,7/17/2020,Feminino,11/28/1976,gato,moderado,Vinho,Dormir
+10141627,7/17/2020,Feminino,10/29/1987,peixe,quente,Café,Pintar quadros
+10141670,7/17/2020,Feminino,3/29/1975,peixe,quente,Chá,Escrever
+10141841,7/17/2020,Feminino,2/27/1973,tartaruga,quente,Cerveja,Aprender algo novo
+10141855,7/17/2020,Feminino,5/5/1976,gato,frio,Cerveja,Aprender algo novo
+10141867,7/17/2020,Feminino,7/5/1963,gato,quente,Cerveja,Dormir
+10142146,7/17/2020,Masculino,4/8/1991,peixe,moderado,Cerveja,Dormir
+10142486,7/17/2020,Masculino,10/6/1950,gato,quente,Vinho,Ler livros
+10142905,7/17/2020,Masculino,10/2/1983,gato,quente,Chá,Escutar música
+10142927,7/17/2020,Masculino,5/11/1970,peixe,quente,refrigerante,Escutar música
+10143058,7/17/2020,Masculino,7/16/1960,peixe,moderado,Água,Escrever
+10143102,7/17/2020,Masculino,6/29/1984,cachorro,quente,Café,Aprender algo novo
+10141979,7/18/2020,Feminino,3/13/1977,gato,quente,refrigerante,Dormir
+10142000,7/18/2020,Feminino,6/28/1980,tartaruga,frio,Vinho,Escrever
+10142017,7/18/2020,Masculino,4/28/1966,cachorro,frio,Água,Escutar música
+10142276,7/18/2020,Masculino,10/28/1955,tartaruga,frio,Cerveja,Escrever
+10142413,7/18/2020,Masculino,8/1/1980,cachorro,frio,Cerveja,Assistir TV
+10142476,7/18/2020,Masculino,11/15/1974,gato,frio,Cerveja,Escrever
+10142518,7/18/2020,Masculino,12/21/1966,gato,moderado,refrigerante,Escutar música
+10142563,7/18/2020,Masculino,11/24/1962,cachorro,quente,Cerveja,Aprender algo novo
+10143093,7/18/2020,Masculino,1/17/1991,gato,moderado,Café,Assistir TV
+10143469,7/18/2020,Feminino,4/27/1989,gato,quente,Água,Pintar quadros
+10143561,7/18/2020,Masculino,10/23/1969,gato,frio,Chá,Escrever
+10141548,7/19/2020,Feminino,12/15/1961,cachorro,quente,Chá,Dormir
+10141924,7/19/2020,Feminino,2/6/1971,gato,moderado,Chá,Escrever
+10142081,7/19/2020,Masculino,3/6/1985,cachorro,quente,Chá,Escutar música
+10142438,7/19/2020,Masculino,8/4/1968,cachorro,frio,Café,Escutar música
+10142613,7/19/2020,Feminino,1/11/1985,gato,moderado,Cerveja,Ler livros
+10143212,7/19/2020,Masculino,2/21/1980,peixe,moderado,Água,Pintar quadros
+10143605,7/19/2020,Feminino,12/8/1978,gato,moderado,Vinho,Aprender algo novo
+10142365,7/20/2020,Masculino,12/18/1991,gato,frio,Água,Praticar esporte
+10142464,7/20/2020,Masculino,12/26/1967,cachorro,quente,Cerveja,Ler livros
+10142527,7/20/2020,Masculino,8/11/1968,tartaruga,moderado,refrigerante,Ler livros
+10142835,7/20/2020,Masculino,7/31/1997,gato,moderado,Vinho,Escutar música
+10143570,7/20/2020,Feminino,1/7/1986,tartaruga,quente,Chá,Assistir TV
+10142618,7/21/2020,Masculino,9/5/1997,cachorro,moderado,Água,Escutar música
+10143004,7/21/2020,Masculino,7/8/1985,gato,frio,Vinho,Praticar esporte
+10141513,7/22/2020,Masculino,8/9/1957,peixe,moderado,Água,Pintar quadros
+10141579,7/22/2020,Feminino,11/28/1998,cachorro,quente,Vinho,Escrever
+10141801,7/22/2020,Feminino,10/15/1968,cachorro,quente,Cerveja,Praticar esporte
+10141940,7/22/2020,Feminino,10/13/1998,peixe,quente,refrigerante,Ler livros
+10143108,7/22/2020,Masculino,4/13/1953,cachorro,frio,Café,Escrever
+10143247,7/22/2020,Masculino,4/18/1993,cachorro,quente,Café,Ler livros
+10143539,7/22/2020,Masculino,2/23/1998,tartaruga,frio,Café,Escutar música
+10141814,7/23/2020,Feminino,9/26/1969,tartaruga,quente,refrigerante,Aprender algo novo
+10142342,7/23/2020,Masculino,2/28/1950,tartaruga,moderado,refrigerante,Escutar música
+10142862,7/23/2020,Masculino,5/1/1957,cachorro,moderado,Chá,Ler livros
+10143329,7/23/2020,Masculino,4/28/1994,gato,quente,Vinho,Pintar quadros
+10143394,7/23/2020,Masculino,4/30/1971,gato,quente,refrigerante,Pintar quadros
+10141693,7/24/2020,Feminino,3/28/1991,tartaruga,quente,Vinho,Escutar música
+10142263,7/24/2020,Masculino,11/27/1962,gato,frio,Vinho,Praticar esporte
+10142343,7/24/2020,Masculino,8/16/1954,gato,moderado,Café,Ler livros
+10143023,7/24/2020,Masculino,10/29/1991,peixe,frio,Cerveja,Aprender algo novo
+10143244,7/24/2020,Masculino,3/14/1961,gato,frio,Chá,Escrever
+10143341,7/24/2020,Feminino,10/22/1957,peixe,frio,Água,Escrever
+10143502,7/24/2020,Masculino,7/9/1977,tartaruga,quente,Cerveja,Escrever
+10141907,7/25/2020,Feminino,11/1/1969,gato,frio,Cerveja,Escrever
+10142008,7/25/2020,Feminino,2/16/1961,peixe,moderado,Café,Escrever
+10142177,7/25/2020,Masculino,10/21/1963,cachorro,moderado,Cerveja,Escrever
+10142295,7/25/2020,Masculino,5/26/1978,gato,frio,Chá,Aprender algo novo
+10142341,7/25/2020,Masculino,7/19/1998,tartaruga,quente,refrigerante,Praticar esporte
+10142443,7/25/2020,Masculino,7/10/1952,tartaruga,frio,Água,Pintar quadros
+10142734,7/25/2020,Masculino,4/18/1957,cachorro,moderado,Água,Escutar música
+10142902,7/25/2020,Masculino,7/15/1988,tartaruga,quente,Água,Escrever
+10143245,7/25/2020,Masculino,5/31/1965,cachorro,quente,refrigerante,Praticar esporte
+10141561,7/26/2020,Feminino,11/6/1959,tartaruga,quente,Cerveja,Escrever
+10141655,7/26/2020,Feminino,5/4/1950,peixe,quente,Cerveja,Aprender algo novo
+10142103,7/26/2020,Feminino,1/28/1999,cachorro,moderado,refrigerante,Escutar música
+10142298,7/26/2020,Masculino,4/18/1988,gato,quente,Café,Ler livros
+10142707,7/26/2020,Masculino,9/11/1950,tartaruga,moderado,Café,Escrever
+10142798,7/26/2020,Masculino,12/14/1984,gato,moderado,refrigerante,Pintar quadros
+10142966,7/26/2020,Masculino,8/21/1978,tartaruga,frio,Cerveja,Assistir TV
+10143144,7/26/2020,Feminino,9/4/1993,cachorro,quente,Água,Aprender algo novo
+10141505,7/27/2020,Masculino,10/4/1958,cachorro,quente,refrigerante,Escutar música
+10141640,7/27/2020,Feminino,1/12/1970,gato,moderado,Café,Aprender algo novo
+10142580,7/27/2020,Masculino,4/22/1994,cachorro,moderado,Café,Escrever
+10142603,7/27/2020,Feminino,6/10/1998,gato,quente,Cerveja,Escutar música
+10142915,7/27/2020,Masculino,10/7/1986,cachorro,quente,refrigerante,Praticar esporte
+10141517,7/28/2020,Feminino,1/27/1973,gato,quente,Café,Escutar música
+10141559,7/28/2020,Feminino,7/30/1950,cachorro,frio,Vinho,Escutar música
+10141648,7/28/2020,Feminino,2/7/1976,gato,quente,Chá,Assistir TV
+10141741,7/28/2020,Masculino,7/17/1958,gato,moderado,Cerveja,Escrever
+10142019,7/28/2020,Feminino,2/3/1996,cachorro,frio,Chá,Praticar esporte
+10142059,7/28/2020,Masculino,2/13/1969,gato,moderado,Chá,Praticar esporte
+10142236,7/28/2020,Masculino,4/29/1957,tartaruga,quente,Água,Assistir TV
+10142306,7/28/2020,Masculino,3/18/1959,cachorro,quente,Vinho,Praticar esporte
+10142309,7/28/2020,Masculino,9/4/1983,gato,frio,refrigerante,Ler livros
+10143343,7/28/2020,Masculino,6/24/1991,tartaruga,frio,Vinho,Dormir
+10143514,7/28/2020,Masculino,11/26/1968,gato,moderado,Café,Aprender algo novo
+10141956,7/29/2020,Feminino,4/3/1975,peixe,frio,Água,Pintar quadros
+10142173,7/29/2020,Masculino,7/27/1980,gato,moderado,refrigerante,Pintar quadros
+10142238,7/29/2020,Masculino,4/11/1977,peixe,moderado,refrigerante,Pintar quadros
+10142551,7/29/2020,Masculino,7/5/1953,tartaruga,quente,Café,Ler livros
+10142779,7/29/2020,Masculino,1/19/1967,cachorro,quente,Cerveja,Assistir TV
+10143261,7/29/2020,Masculino,9/9/1978,peixe,quente,Chá,Aprender algo novo
+10141896,7/30/2020,Feminino,4/12/1970,tartaruga,moderado,Vinho,Ler livros
+10141905,7/30/2020,Feminino,11/9/1977,tartaruga,moderado,Cerveja,Praticar esporte
+10142142,7/30/2020,Masculino,5/30/1984,cachorro,moderado,Cerveja,Escrever
+10142216,7/30/2020,Masculino,10/22/1996,gato,moderado,Cerveja,Escutar música
+10142423,7/30/2020,Masculino,1/11/1982,cachorro,moderado,Chá,Ler livros
+10142611,7/30/2020,Feminino,1/22/1956,peixe,frio,refrigerante,Pintar quadros
+10143338,7/30/2020,Feminino,5/29/1968,peixe,frio,Cerveja,Escrever
+10143548,7/30/2020,Masculino,12/7/1958,tartaruga,quente,Água,Dormir
+10141584,7/31/2020,Feminino,11/27/1963,cachorro,quente,refrigerante,Praticar esporte
+10141628,7/31/2020,Feminino,3/23/1976,cachorro,quente,Cerveja,Escutar música
+10141781,7/31/2020,Feminino,3/17/1956,gato,moderado,Café,Praticar esporte
+10142555,7/31/2020,Masculino,9/5/1954,gato,moderado,Vinho,Praticar esporte
+10142833,7/31/2020,Masculino,10/23/1978,gato,moderado,Cerveja,Dormir
+10142988,7/31/2020,Masculino,1/23/1951,tartaruga,moderado,Café,Assistir TV
+10143071,7/31/2020,Masculino,1/26/1984,gato,moderado,Chá,Assistir TV
+10143124,7/31/2020,Feminino,11/22/1990,gato,frio,Chá,Assistir TV
+10141592,8/1/2020,Feminino,1/4/1964,gato,moderado,refrigerante,Praticar esporte
+10141675,8/1/2020,Feminino,9/12/1999,peixe,frio,refrigerante,Pintar quadros
+10142394,8/1/2020,Masculino,9/21/1980,peixe,moderado,Vinho,Aprender algo novo
+10142571,8/1/2020,Masculino,2/18/1970,cachorro,frio,Café,Escrever
+10142761,8/1/2020,Masculino,12/16/1964,cachorro,moderado,Café,Ler livros
+10142964,8/1/2020,Masculino,12/1/1972,gato,frio,Vinho,Aprender algo novo
+10143313,8/1/2020,Feminino,12/29/1976,gato,frio,Água,Dormir
+10143490,8/1/2020,Masculino,5/3/1958,gato,moderado,Água,Praticar esporte
+10142421,8/2/2020,Masculino,9/5/1976,peixe,moderado,refrigerante,Aprender algo novo
+10142871,8/2/2020,Masculino,8/1/1980,cachorro,moderado,Cerveja,Dormir
+10143002,8/2/2020,Masculino,8/27/1964,gato,moderado,Vinho,Escutar música
+10143095,8/2/2020,Masculino,2/6/1978,cachorro,frio,Chá,Praticar esporte
+10143237,8/2/2020,Masculino,12/15/1955,gato,quente,Chá,Pintar quadros
+10142209,8/3/2020,Masculino,5/11/1981,cachorro,quente,Cerveja,Praticar esporte
+10142569,8/3/2020,Masculino,5/5/1953,peixe,quente,Café,Pintar quadros
+10142702,8/3/2020,Masculino,7/18/1984,gato,moderado,refrigerante,Aprender algo novo
+10143267,8/3/2020,Masculino,1/9/1971,cachorro,quente,Chá,Aprender algo novo
+10143302,8/3/2020,Feminino,12/28/1974,gato,moderado,refrigerante,Pintar quadros
+10141533,8/4/2020,Feminino,7/11/1956,gato,frio,Chá,Escrever
+10141687,8/4/2020,Masculino,1/14/1964,gato,frio,Café,Assistir TV
+10142657,8/4/2020,Masculino,1/27/1989,tartaruga,quente,Água,Dormir
+10141541,8/5/2020,Masculino,12/2/1987,cachorro,frio,Água,Dormir
+10141754,8/5/2020,Masculino,1/25/1956,gato,moderado,refrigerante,Escrever
+10142250,8/5/2020,Masculino,4/11/1989,cachorro,quente,Café,Escutar música
+10142672,8/5/2020,Masculino,3/7/1961,gato,moderado,refrigerante,Escrever
+10143187,8/5/2020,Masculino,8/31/1952,peixe,quente,refrigerante,Escrever
+10143293,8/5/2020,Masculino,5/18/1984,tartaruga,frio,Chá,Assistir TV
+10141709,8/6/2020,Feminino,8/14/1987,tartaruga,moderado,Cerveja,Dormir
+10142193,8/6/2020,Masculino,4/22/1988,gato,moderado,refrigerante,Escutar música
+10142717,8/6/2020,Masculino,1/26/1977,gato,quente,Cerveja,Praticar esporte
+10143283,8/6/2020,Feminino,12/13/1978,gato,frio,Chá,Assistir TV
+10143497,8/6/2020,Masculino,12/11/1954,gato,quente,Café,Dormir
+10143612,8/6/2020,Masculino,1/14/1961,gato,frio,Água,Praticar esporte
+10141702,8/7/2020,Feminino,5/23/1982,tartaruga,frio,Chá,Escrever
+10141753,8/7/2020,Masculino,1/10/1978,gato,moderado,Café,Praticar esporte
+10142123,8/7/2020,Feminino,5/27/1988,gato,quente,refrigerante,Praticar esporte
+10142202,8/7/2020,Masculino,10/22/1999,peixe,quente,Chá,Dormir
+10142607,8/7/2020,Feminino,10/10/1963,tartaruga,frio,Água,Escutar música
+10141555,8/8/2020,Feminino,11/13/1966,peixe,moderado,Cerveja,Ler livros
+10141689,8/8/2020,Feminino,8/28/1961,gato,frio,Água,Dormir
+10141722,8/8/2020,Feminino,4/24/1961,tartaruga,frio,Cerveja,Aprender algo novo
+10142274,8/8/2020,Masculino,10/30/1988,peixe,frio,Vinho,Ler livros
+10142287,8/8/2020,Masculino,4/8/1958,cachorro,moderado,Vinho,Pintar quadros
+10142358,8/8/2020,Masculino,4/11/1980,gato,moderado,refrigerante,Praticar esporte
+10142760,8/8/2020,Masculino,9/14/1952,gato,moderado,Café,Assistir TV
+10143280,8/8/2020,Feminino,1/22/1991,gato,quente,Chá,Praticar esporte
+10143358,8/8/2020,Feminino,7/30/1994,peixe,quente,Cerveja,Dormir
+10143390,8/8/2020,Masculino,11/2/1981,gato,quente,Café,Aprender algo novo
+10143555,8/8/2020,Feminino,3/4/1950,peixe,quente,Água,Dormir
+10143557,8/8/2020,Feminino,8/13/1960,tartaruga,frio,Vinho,Praticar esporte
+10143623,8/8/2020,Masculino,7/16/1975,gato,moderado,refrigerante,Praticar esporte
+10141508,8/9/2020,Masculino,9/23/1957,peixe,moderado,Chá,Assistir TV
+10141817,8/9/2020,Feminino,1/1/1956,tartaruga,frio,Café,Escutar música
+10142030,8/9/2020,Feminino,11/29/1997,gato,frio,Água,Escrever
+10142178,8/9/2020,Masculino,3/9/1997,cachorro,frio,Água,Escutar música
+10143005,8/9/2020,Masculino,8/17/1974,tartaruga,quente,Água,Ler livros
+10143564,8/9/2020,Feminino,4/20/1996,gato,frio,Cerveja,Escrever
+10142037,8/10/2020,Feminino,8/18/1977,gato,moderado,Cerveja,Ler livros
+10142592,8/10/2020,Masculino,9/5/1964,tartaruga,quente,Água,Aprender algo novo
+10143378,8/10/2020,Masculino,4/26/1970,cachorro,moderado,Água,Escrever
+10143442,8/10/2020,Feminino,11/18/1970,cachorro,quente,Vinho,Dormir
+10142097,8/11/2020,Feminino,12/29/1962,cachorro,quente,Café,Praticar esporte
+10142701,8/11/2020,Masculino,11/3/1954,gato,quente,Vinho,Ler livros
+10142823,8/11/2020,Masculino,10/18/1981,cachorro,moderado,Café,Pintar quadros
+10143360,8/11/2020,Masculino,1/21/1957,gato,frio,Cerveja,Dormir
+10143364,8/11/2020,Masculino,2/7/1997,tartaruga,moderado,Café,Praticar esporte
+10143434,8/11/2020,Feminino,3/2/1994,gato,quente,Cerveja,Escutar música
+10141624,8/12/2020,Feminino,3/20/1966,cachorro,frio,Chá,Escutar música
+10141638,8/12/2020,Feminino,7/3/1993,gato,frio,Café,Pintar quadros
+10141706,8/12/2020,Feminino,6/17/1989,tartaruga,moderado,Cerveja,Pintar quadros
+10141795,8/12/2020,Feminino,9/25/1998,peixe,quente,Água,Escutar música
+10141838,8/12/2020,Feminino,10/5/1981,gato,frio,refrigerante,Assistir TV
+10142189,8/12/2020,Masculino,6/2/1963,gato,quente,Café,Praticar esporte
+10143065,8/12/2020,Masculino,2/19/1989,gato,frio,refrigerante,Dormir
+10143205,8/12/2020,Masculino,1/11/1968,tartaruga,frio,Café,Escrever
+10141857,8/13/2020,Feminino,12/29/1989,cachorro,moderado,Vinho,Aprender algo novo
+10141930,8/13/2020,Feminino,7/7/1986,gato,moderado,Café,Assistir TV
+10142285,8/13/2020,Feminino,9/28/1958,gato,moderado,Vinho,Escrever
+10143222,8/13/2020,Masculino,4/20/1962,gato,frio,Café,Aprender algo novo
+10142148,8/14/2020,Feminino,4/2/1975,cachorro,moderado,Água,Aprender algo novo
+10142539,8/14/2020,Masculino,9/7/1962,gato,frio,Cerveja,Escrever
+10142847,8/14/2020,Masculino,10/25/1957,tartaruga,frio,Cerveja,Pintar quadros
+10141823,8/15/2020,Feminino,8/22/1993,peixe,frio,Água,Escutar música
+10141953,8/15/2020,Feminino,6/1/1966,peixe,moderado,Chá,Ler livros
+10141988,8/15/2020,Feminino,7/6/1998,tartaruga,moderado,Cerveja,Praticar esporte
+10142221,8/15/2020,Masculino,12/10/1954,tartaruga,quente,Água,Escrever
+10142830,8/15/2020,Masculino,1/11/1957,gato,frio,refrigerante,Escutar música
+10143494,8/15/2020,Masculino,6/29/1996,tartaruga,frio,Café,Pintar quadros
+10143607,8/15/2020,Feminino,3/15/1999,gato,frio,Água,Aprender algo novo
+10141599,8/16/2020,Feminino,5/9/1989,gato,frio,Vinho,Praticar esporte
+10142255,8/16/2020,Masculino,5/25/1998,gato,frio,Água,Praticar esporte
+10142467,8/16/2020,Masculino,4/29/1971,cachorro,frio,Água,Aprender algo novo
+10142582,8/16/2020,Masculino,5/27/1972,cachorro,quente,Água,Praticar esporte
+10142675,8/16/2020,Masculino,9/11/1977,tartaruga,quente,Vinho,Aprender algo novo
+10143453,8/16/2020,Feminino,2/4/1973,peixe,moderado,Água,Pintar quadros
+10141511,8/17/2020,Masculino,12/19/1995,gato,quente,Café,Assistir TV
+10142034,8/17/2020,Feminino,11/14/1968,cachorro,moderado,Vinho,Dormir
+10142909,8/17/2020,Masculino,8/22/1977,gato,frio,Vinho,Aprender algo novo
+10142118,8/18/2020,Feminino,3/14/1954,tartaruga,moderado,Cerveja,Escutar música
+10142724,8/18/2020,Masculino,10/13/1968,cachorro,frio,Vinho,Aprender algo novo
+10142803,8/18/2020,Masculino,4/21/1956,gato,quente,Vinho,Ler livros
+10142834,8/18/2020,Masculino,12/11/1998,gato,quente,Vinho,Pintar quadros
+10143214,8/18/2020,Masculino,6/13/1989,gato,moderado,refrigerante,Escrever
+10143588,8/18/2020,Feminino,3/15/1966,tartaruga,frio,Água,Praticar esporte
+10141711,8/19/2020,Masculino,8/27/1952,gato,quente,Vinho,Aprender algo novo
+10142038,8/19/2020,Feminino,1/29/1956,peixe,moderado,Cerveja,Escutar música
+10142217,8/19/2020,Masculino,6/4/1956,gato,frio,Cerveja,Dormir
+10142251,8/19/2020,Masculino,11/21/1951,gato,moderado,Café,Escrever
+10142436,8/19/2020,Masculino,3/5/1971,tartaruga,moderado,Vinho,Assistir TV
+10142719,8/19/2020,Masculino,6/20/1962,cachorro,moderado,Chá,Escrever
+10142764,8/19/2020,Masculino,11/11/1994,gato,moderado,refrigerante,Pintar quadros
+10141684,8/20/2020,Masculino,1/20/1980,tartaruga,quente,Chá,Escrever
+10143053,8/20/2020,Masculino,7/2/1966,cachorro,moderado,Cerveja,Escrever
+10141525,8/21/2020,Feminino,1/2/1984,peixe,moderado,Chá,Assistir TV
+10141603,8/21/2020,Feminino,6/27/1994,gato,quente,Cerveja,Escutar música
+10141619,8/21/2020,Feminino,1/26/1964,tartaruga,frio,Chá,Assistir TV
+10142157,8/21/2020,Masculino,6/13/1957,gato,quente,Água,Praticar esporte
+10142174,8/21/2020,Masculino,6/7/1979,gato,moderado,refrigerante,Assistir TV
+10143099,8/21/2020,Masculino,8/20/1993,tartaruga,quente,Cerveja,Ler livros
+10143162,8/21/2020,Feminino,7/6/1960,tartaruga,frio,Água,Praticar esporte
+10143513,8/21/2020,Masculino,1/24/1989,gato,frio,Água,Ler livros
+10141535,8/22/2020,Feminino,7/25/1957,cachorro,quente,refrigerante,Assistir TV
+10142449,8/22/2020,Masculino,12/9/1969,cachorro,moderado,Cerveja,Aprender algo novo
+10142735,8/22/2020,Masculino,11/15/1978,peixe,moderado,Café,Ler livros
+10143016,8/22/2020,Masculino,12/20/1988,tartaruga,moderado,Chá,Praticar esporte
+10143094,8/22/2020,Masculino,5/22/1980,tartaruga,quente,Chá,Escrever
+10143232,8/22/2020,Masculino,1/13/1960,tartaruga,quente,refrigerante,Ler livros
+10141639,8/23/2020,Feminino,8/7/1992,gato,frio,Água,Assistir TV
+10141736,8/23/2020,Feminino,11/29/1973,cachorro,quente,Água,Dormir
+10142718,8/23/2020,Masculino,12/11/1987,cachorro,moderado,refrigerante,Escrever
+10143387,8/23/2020,Masculino,10/21/1956,tartaruga,frio,refrigerante,Pintar quadros
+10143443,8/23/2020,Feminino,10/20/1992,cachorro,quente,Cerveja,Pintar quadros
+10141524,8/24/2020,Masculino,10/31/1994,gato,frio,refrigerante,Praticar esporte
+10141633,8/24/2020,Feminino,3/23/1991,cachorro,quente,refrigerante,Dormir
+10142293,8/24/2020,Masculino,2/7/1970,cachorro,quente,Vinho,Escrever
+10143602,8/24/2020,Feminino,8/15/1969,tartaruga,frio,Café,Assistir TV
+10141645,8/25/2020,Feminino,12/2/1978,gato,frio,Café,Dormir
+10141785,8/25/2020,Feminino,7/21/1967,gato,frio,Chá,Escrever
+10142153,8/25/2020,Masculino,7/7/1966,peixe,moderado,refrigerante,Aprender algo novo
+10142853,8/25/2020,Masculino,9/28/1970,gato,frio,Cerveja,Assistir TV
+10143459,8/25/2020,Feminino,12/8/1987,gato,frio,Café,Ler livros
+10141779,8/26/2020,Feminino,11/19/1960,peixe,moderado,Água,Escrever
+10141874,8/26/2020,Feminino,5/15/1979,peixe,moderado,refrigerante,Assistir TV
+10141935,8/26/2020,Feminino,3/24/1970,gato,moderado,Café,Dormir
+10142301,8/26/2020,Masculino,10/11/1989,cachorro,moderado,Vinho,Assistir TV
+10143097,8/26/2020,Masculino,6/28/1960,tartaruga,frio,Café,Pintar quadros
+10143098,8/26/2020,Masculino,5/3/1968,gato,moderado,Água,Escutar música
+10143320,8/26/2020,Masculino,9/17/1961,tartaruga,quente,Café,Praticar esporte
+10143450,8/26/2020,Feminino,7/23/1976,gato,quente,Água,Assistir TV
+10141761,8/27/2020,Masculino,2/22/1956,gato,quente,Café,Escrever
+10142314,8/27/2020,Masculino,3/7/1961,peixe,frio,refrigerante,Pintar quadros
+10142507,8/27/2020,Masculino,3/24/1980,peixe,quente,Água,Escutar música
+10143270,8/27/2020,Feminino,3/24/1995,tartaruga,frio,Vinho,Assistir TV
+10143533,8/27/2020,Feminino,4/29/1992,peixe,quente,Café,Ler livros
+10143537,8/27/2020,Masculino,1/30/1957,gato,moderado,Água,Escutar música
+10141927,8/28/2020,Feminino,4/23/1996,tartaruga,frio,Cerveja,Pintar quadros
+10142948,8/28/2020,Masculino,7/12/1968,gato,moderado,Café,Praticar esporte
+10143239,8/28/2020,Masculino,8/23/1990,peixe,quente,Água,Praticar esporte
+10141964,8/29/2020,Feminino,3/4/1963,tartaruga,frio,Cerveja,Assistir TV
+10142207,8/29/2020,Masculino,1/31/1999,cachorro,quente,refrigerante,Assistir TV
+10142262,8/29/2020,Masculino,12/9/1988,cachorro,quente,Água,Dormir
+10142304,8/29/2020,Masculino,6/23/1984,tartaruga,quente,Água,Aprender algo novo
+10142473,8/29/2020,Masculino,7/21/1959,peixe,frio,Vinho,Aprender algo novo
+10142531,8/29/2020,Masculino,2/11/1973,gato,quente,refrigerante,Praticar esporte
+10142573,8/29/2020,Masculino,5/24/1990,gato,frio,Água,Dormir
+10143077,8/29/2020,Masculino,7/19/1973,cachorro,frio,Cerveja,Aprender algo novo
+10143381,8/29/2020,Feminino,11/4/1962,peixe,moderado,Café,Assistir TV
+10143594,8/29/2020,Masculino,1/6/1981,gato,frio,Café,Aprender algo novo
+10141802,8/30/2020,Feminino,8/8/1979,cachorro,quente,Café,Praticar esporte
+10141995,8/31/2020,Feminino,8/27/1985,peixe,frio,refrigerante,Assistir TV
+10142434,8/31/2020,Masculino,11/28/1979,tartaruga,quente,Água,Dormir
+10142651,8/31/2020,Masculino,2/27/1956,gato,moderado,refrigerante,Pintar quadros
+10142725,8/31/2020,Masculino,3/27/1991,tartaruga,quente,refrigerante,Praticar esporte
+10142754,8/31/2020,Masculino,6/21/1982,gato,moderado,Chá,Pintar quadros
+10143368,8/31/2020,Feminino,7/27/1993,gato,quente,Cerveja,Escrever
+10141911,9/1/2020,Feminino,8/2/1982,gato,frio,Cerveja,Escutar música
+10142082,9/1/2020,Masculino,6/8/1985,peixe,frio,Chá,Escrever
+10142425,9/1/2020,Masculino,12/5/1976,gato,quente,Cerveja,Escrever
+10142615,9/1/2020,Masculino,8/19/1987,gato,quente,Vinho,Pintar quadros
+10142678,9/1/2020,Masculino,9/10/1971,gato,moderado,Café,Dormir
+10142951,9/1/2020,Masculino,4/27/1954,cachorro,moderado,Vinho,Dormir
+10143501,9/1/2020,Feminino,12/20/1980,gato,frio,Café,Assistir TV
+10141887,9/2/2020,Feminino,12/23/1979,tartaruga,quente,Chá,Assistir TV
+10142001,9/2/2020,Feminino,5/7/1997,gato,moderado,Chá,Assistir TV
+10142063,9/2/2020,Masculino,11/18/1967,cachorro,moderado,refrigerante,Dormir
+10142114,9/2/2020,Feminino,2/11/1992,gato,moderado,refrigerante,Escrever
+10143615,9/2/2020,Feminino,6/2/1961,cachorro,frio,Água,Praticar esporte
+10141621,9/3/2020,Feminino,4/12/1989,tartaruga,quente,Café,Praticar esporte
+10141634,9/3/2020,Feminino,3/15/1970,gato,frio,Água,Praticar esporte
+10141821,9/3/2020,Feminino,7/1/1963,gato,frio,Café,Escrever
+10142094,9/3/2020,Masculino,8/16/1971,cachorro,frio,Chá,Escrever
+10143034,9/3/2020,Masculino,9/9/1993,tartaruga,frio,Água,Aprender algo novo
+10143141,9/3/2020,Feminino,2/28/1995,gato,moderado,Água,Assistir TV
+10143409,9/3/2020,Feminino,3/5/1954,tartaruga,quente,Água,Escrever
+10141662,9/4/2020,Masculino,6/14/1996,peixe,frio,Cerveja,Dormir
+10141834,9/4/2020,Feminino,3/29/1980,peixe,quente,Chá,Escutar música
+10141965,9/4/2020,Feminino,6/21/1984,cachorro,frio,Cerveja,Pintar quadros
+10142377,9/4/2020,Masculino,7/4/1990,peixe,frio,Café,Escrever
+10142458,9/4/2020,Masculino,3/28/1954,peixe,frio,Cerveja,Dormir
+10142991,9/4/2020,Masculino,2/27/1974,cachorro,quente,Vinho,Dormir
+10143251,9/4/2020,Masculino,7/7/1992,gato,moderado,Café,Aprender algo novo
+10141547,9/5/2020,Feminino,5/24/1950,tartaruga,quente,Vinho,Escrever
+10141931,9/5/2020,Feminino,8/11/1965,cachorro,frio,Chá,Assistir TV
+10143264,9/5/2020,Masculino,7/14/1977,tartaruga,moderado,Cerveja,Escrever
+10141544,9/6/2020,Masculino,2/11/1978,gato,moderado,refrigerante,Escrever
+10141694,9/6/2020,Feminino,7/24/1952,gato,moderado,Café,Praticar esporte
+10142162,9/6/2020,Masculino,7/12/1965,gato,frio,Água,Praticar esporte
+10142855,9/6/2020,Masculino,12/21/1994,gato,quente,Vinho,Pintar quadros
+10141748,9/7/2020,Feminino,4/16/1969,peixe,quente,Café,Praticar esporte
+10141951,9/7/2020,Feminino,1/29/1988,peixe,frio,Café,Dormir
+10142327,9/7/2020,Masculino,11/5/1959,peixe,frio,Chá,Pintar quadros
+10142900,9/7/2020,Masculino,12/21/1963,peixe,moderado,Chá,Pintar quadros
+10143043,9/7/2020,Masculino,10/11/1974,peixe,moderado,refrigerante,Assistir TV
+10143275,9/7/2020,Feminino,7/17/1970,cachorro,frio,refrigerante,Escrever
+10143411,9/7/2020,Feminino,5/3/1995,gato,quente,Vinho,Escrever
+10143499,9/7/2020,Feminino,9/19/1997,tartaruga,moderado,Chá,Escrever
+10143515,9/7/2020,Masculino,9/2/1957,gato,frio,Vinho,Praticar esporte
+10141576,9/8/2020,Masculino,12/17/1983,gato,frio,refrigerante,Aprender algo novo
+10141803,9/8/2020,Feminino,5/19/1977,gato,frio,Café,Escutar música
+10142010,9/8/2020,Feminino,8/3/1981,gato,moderado,Água,Assistir TV
+10142014,9/8/2020,Feminino,8/8/1989,tartaruga,moderado,Cerveja,Aprender algo novo
+10142767,9/8/2020,Masculino,9/30/1992,peixe,quente,Vinho,Dormir
+10141602,9/9/2020,Feminino,4/20/1996,peixe,frio,Água,Ler livros
+10141664,9/9/2020,Masculino,9/27/1970,gato,quente,Vinho,Praticar esporte
+10141666,9/9/2020,Feminino,2/2/1974,cachorro,moderado,Água,Ler livros
+10142246,9/9/2020,Masculino,7/14/1998,tartaruga,frio,Cerveja,Praticar esporte
+10142938,9/9/2020,Masculino,8/19/1989,cachorro,frio,Chá,Pintar quadros
+10143151,9/9/2020,Feminino,7/23/1981,cachorro,moderado,Café,Escrever
+10143289,9/9/2020,Masculino,11/27/1985,gato,moderado,Café,Dormir
+10141613,9/10/2020,Feminino,7/30/1952,gato,moderado,Cerveja,Ler livros
+10141919,9/10/2020,Feminino,6/22/1993,gato,moderado,Cerveja,Aprender algo novo
+10141925,9/10/2020,Feminino,1/3/1998,peixe,moderado,Água,Assistir TV
+10141970,9/10/2020,Feminino,2/25/1982,cachorro,frio,Vinho,Assistir TV
+10142167,9/10/2020,Masculino,4/20/1953,gato,moderado,Cerveja,Dormir
+10142191,9/10/2020,Masculino,8/13/1990,peixe,moderado,refrigerante,Ler livros
+10142441,9/10/2020,Masculino,10/24/1995,gato,moderado,Vinho,Escrever
+10142514,9/10/2020,Masculino,11/10/1968,cachorro,frio,Café,Aprender algo novo
+10143201,9/10/2020,Masculino,6/7/1985,cachorro,quente,Chá,Escrever
+10143552,9/10/2020,Feminino,5/17/1959,gato,moderado,Água,Dormir
+10141728,9/11/2020,Feminino,8/16/1990,gato,moderado,Café,Praticar esporte
+10142960,9/11/2020,Masculino,9/4/1962,cachorro,frio,refrigerante,Assistir TV
+10143039,9/11/2020,Masculino,9/21/1988,peixe,frio,Café,Escutar música
+10142052,9/12/2020,Feminino,2/14/1960,cachorro,quente,Cerveja,Escutar música
+10142339,9/12/2020,Masculino,2/13/1987,cachorro,frio,Café,Praticar esporte
+10142426,9/12/2020,Masculino,5/7/1957,cachorro,moderado,refrigerante,Assistir TV
+10142894,9/12/2020,Masculino,8/29/1951,gato,moderado,Cerveja,Escutar música
+10143172,9/12/2020,Masculino,6/13/1984,gato,moderado,Café,Dormir
+10143256,9/12/2020,Masculino,4/15/1960,gato,moderado,Água,Dormir
+10143336,9/12/2020,Feminino,5/28/1988,peixe,moderado,Água,Dormir
+10141774,9/13/2020,Feminino,11/21/1977,gato,frio,Cerveja,Ler livros
+10142130,9/13/2020,Feminino,6/25/1995,gato,moderado,Vinho,Aprender algo novo
+10142422,9/13/2020,Masculino,4/9/1993,cachorro,moderado,Vinho,Escutar música
+10142604,9/13/2020,Feminino,1/28/1952,gato,frio,Chá,Pintar quadros
+10142609,9/13/2020,Feminino,11/2/1979,gato,frio,refrigerante,Assistir TV
+10142744,9/13/2020,Masculino,4/18/1982,cachorro,moderado,Cerveja,Praticar esporte
+10142872,9/13/2020,Masculino,8/14/1977,tartaruga,frio,Chá,Escutar música
+10142917,9/13/2020,Masculino,9/24/1954,peixe,moderado,Vinho,Escrever
+10142950,9/13/2020,Masculino,4/6/1979,cachorro,frio,Vinho,Pintar quadros
+10141775,9/14/2020,Feminino,2/14/1984,tartaruga,moderado,Chá,Escrever
+10141789,9/14/2020,Feminino,11/15/1982,gato,frio,Café,Escrever
+10141984,9/14/2020,Masculino,9/16/1963,gato,moderado,refrigerante,Assistir TV
+10142195,9/14/2020,Masculino,1/26/1958,cachorro,moderado,Chá,Ler livros
+10143089,9/14/2020,Masculino,11/19/1981,gato,frio,Cerveja,Praticar esporte
+10141894,9/15/2020,Feminino,8/11/1990,tartaruga,moderado,Cerveja,Praticar esporte
+10141991,9/15/2020,Feminino,9/22/1976,cachorro,quente,refrigerante,Praticar esporte
+10142085,9/15/2020,Masculino,1/7/1959,gato,frio,Cerveja,Ler livros
+10142389,9/15/2020,Masculino,8/16/1995,gato,quente,Chá,Escutar música
+10142752,9/15/2020,Masculino,3/7/1953,gato,quente,Vinho,Escrever
+10143022,9/15/2020,Masculino,7/23/1973,gato,frio,Café,Assistir TV
+10143117,9/15/2020,Feminino,6/27/1990,tartaruga,frio,Vinho,Pintar quadros
+10143456,9/15/2020,Feminino,8/27/1998,peixe,moderado,refrigerante,Escutar música
+10143544,9/15/2020,Masculino,4/16/1963,peixe,moderado,Água,Praticar esporte
+10142529,9/16/2020,Masculino,7/4/1986,peixe,frio,Água,Dormir
+10142799,9/16/2020,Masculino,3/21/1967,gato,quente,Café,Dormir
+10143015,9/16/2020,Masculino,6/13/1984,gato,frio,Vinho,Praticar esporte
+10143447,9/16/2020,Feminino,9/11/1963,peixe,quente,Cerveja,Aprender algo novo
+10143495,9/16/2020,Masculino,10/1/1976,gato,quente,Vinho,Ler livros
+10141782,9/17/2020,Feminino,6/4/1995,gato,frio,Vinho,Assistir TV
+10141946,9/17/2020,Feminino,3/22/1979,gato,moderado,Chá,Assistir TV
+10142517,9/17/2020,Masculino,7/19/1960,gato,frio,Vinho,Dormir
+10142895,9/17/2020,Masculino,5/7/1992,tartaruga,frio,Vinho,Praticar esporte
+10143379,9/17/2020,Masculino,2/4/1979,tartaruga,moderado,refrigerante,Praticar esporte
+10143618,9/17/2020,Masculino,3/14/1989,peixe,frio,refrigerante,Ler livros
+10141717,9/18/2020,Feminino,3/1/1973,gato,frio,Vinho,Dormir
+10141918,9/18/2020,Feminino,5/10/1985,gato,frio,refrigerante,Escutar música
+10142237,9/18/2020,Masculino,8/15/1951,tartaruga,quente,Vinho,Aprender algo novo
+10142320,9/18/2020,Masculino,10/4/1994,gato,quente,Chá,Dormir
+10142500,9/18/2020,Masculino,12/24/1984,cachorro,moderado,refrigerante,Praticar esporte
+10142585,9/18/2020,Masculino,11/24/1982,peixe,quente,Chá,Pintar quadros
+10142914,9/18/2020,Masculino,7/7/1983,gato,quente,Vinho,Pintar quadros
+10142929,9/18/2020,Masculino,10/18/1974,peixe,moderado,Vinho,Assistir TV
+10143337,9/18/2020,Feminino,11/18/1968,peixe,moderado,Chá,Aprender algo novo
+10143413,9/18/2020,Feminino,12/2/1988,cachorro,moderado,Vinho,Dormir
+10141575,9/19/2020,Masculino,5/7/1958,cachorro,frio,Água,Praticar esporte
+10141714,9/19/2020,Feminino,5/27/1989,peixe,quente,refrigerante,Ler livros
+10141890,9/19/2020,Feminino,9/9/1989,gato,frio,Chá,Escrever
+10142516,9/19/2020,Masculino,8/4/1978,gato,moderado,Café,Ler livros
+10143546,9/19/2020,Masculino,12/28/1978,gato,frio,Chá,Dormir
+10141819,9/20/2020,Feminino,8/6/1968,peixe,quente,refrigerante,Assistir TV
+10142596,9/20/2020,Masculino,9/13/1973,gato,moderado,Água,Assistir TV
+10143112,9/20/2020,Masculino,11/22/1951,gato,moderado,Cerveja,Aprender algo novo
+10143427,9/20/2020,Masculino,3/27/1952,tartaruga,quente,Água,Pintar quadros
+10143467,9/20/2020,Feminino,1/23/1975,gato,quente,Chá,Aprender algo novo
+10141594,9/21/2020,Feminino,2/20/1953,gato,moderado,Vinho,Escutar música
+10142431,9/21/2020,Masculino,4/11/1994,peixe,quente,Cerveja,Ler livros
+10142837,9/21/2020,Masculino,5/30/1950,gato,moderado,Vinho,Escrever
+10143255,9/21/2020,Masculino,5/9/1984,cachorro,moderado,refrigerante,Ler livros
+10143326,9/21/2020,Masculino,6/25/1988,tartaruga,moderado,Vinho,Escrever
+10143366,9/21/2020,Masculino,1/13/1991,peixe,frio,refrigerante,Pintar quadros
+10143384,9/21/2020,Feminino,3/28/1978,peixe,moderado,refrigerante,Pintar quadros
+10143405,9/21/2020,Feminino,11/25/1970,gato,quente,Vinho,Dormir
+10143452,9/21/2020,Feminino,3/12/1954,peixe,moderado,refrigerante,Escutar música
+10143592,9/21/2020,Masculino,2/26/1980,gato,frio,refrigerante,Ler livros
+10141696,9/22/2020,Masculino,6/16/1990,tartaruga,quente,Cerveja,Ler livros
+10142281,9/22/2020,Masculino,1/21/1992,gato,frio,Vinho,Praticar esporte
+10142963,9/22/2020,Masculino,1/16/1955,peixe,moderado,Cerveja,Escutar música
+10141882,9/23/2020,Feminino,1/22/1971,cachorro,quente,Chá,Dormir
+10142150,9/23/2020,Masculino,5/29/1967,gato,frio,Café,Assistir TV
+10142812,9/23/2020,Masculino,10/11/1961,peixe,moderado,Água,Assistir TV
+10142845,9/23/2020,Masculino,6/10/1957,cachorro,quente,Chá,Assistir TV
+10142912,9/23/2020,Masculino,6/7/1960,tartaruga,frio,refrigerante,Assistir TV
+10142992,9/23/2020,Masculino,9/5/1973,gato,quente,Vinho,Ler livros
+10143007,9/23/2020,Masculino,3/31/1951,cachorro,moderado,Água,Assistir TV
+10143206,9/23/2020,Masculino,7/11/1992,tartaruga,quente,Chá,Aprender algo novo
+10143272,9/23/2020,Masculino,5/21/1988,tartaruga,moderado,Vinho,Pintar quadros
+10143361,9/23/2020,Masculino,9/14/1983,peixe,quente,Cerveja,Escrever
+10141597,9/24/2020,Feminino,3/9/1985,peixe,moderado,Chá,Escrever
+10141977,9/24/2020,Feminino,10/31/1980,tartaruga,frio,refrigerante,Escutar música
+10142499,9/24/2020,Masculino,12/31/1973,peixe,frio,refrigerante,Pintar quadros
+10142723,9/24/2020,Masculino,4/7/1980,gato,moderado,Cerveja,Praticar esporte
+10142899,9/24/2020,Masculino,6/3/1954,cachorro,quente,Café,Dormir
+10143168,9/24/2020,Feminino,6/22/1959,gato,quente,Cerveja,Dormir
+10141598,9/25/2020,Feminino,11/1/1959,gato,frio,Chá,Dormir
+10141678,9/25/2020,Masculino,10/28/1991,tartaruga,moderado,Chá,Escrever
+10142055,9/25/2020,Masculino,7/2/1985,cachorro,moderado,Água,Aprender algo novo
+10142192,9/25/2020,Masculino,3/15/1960,tartaruga,moderado,Café,Escutar música
+10142345,9/25/2020,Masculino,8/16/1974,gato,frio,Chá,Ler livros
+10142547,9/26/2020,Masculino,12/7/1985,cachorro,quente,refrigerante,Escutar música
+10142645,9/26/2020,Feminino,8/10/1989,gato,quente,Chá,Escrever
+10143269,9/26/2020,Feminino,5/24/1991,gato,frio,Chá,Praticar esporte
+10143297,9/26/2020,Masculino,5/23/1953,peixe,quente,Vinho,Dormir
+10143406,9/26/2020,Feminino,12/26/1998,peixe,moderado,refrigerante,Escrever
+10143431,9/26/2020,Masculino,8/10/1955,tartaruga,moderado,Água,Dormir
+10141610,9/27/2020,Masculino,8/23/1966,cachorro,frio,refrigerante,Pintar quadros
+10141776,9/27/2020,Masculino,7/14/1956,cachorro,frio,Chá,Escrever
+10141929,9/27/2020,Feminino,12/11/1995,tartaruga,moderado,Cerveja,Escutar música
+10142308,9/27/2020,Masculino,9/19/1970,gato,frio,Vinho,Dormir
+10142404,9/27/2020,Masculino,6/7/1997,tartaruga,moderado,Café,Dormir
+10142483,9/27/2020,Masculino,11/3/1974,gato,moderado,Cerveja,Dormir
+10143091,9/27/2020,Masculino,6/14/1980,cachorro,frio,Vinho,Aprender algo novo
+10143285,9/27/2020,Feminino,7/10/1991,cachorro,moderado,Café,Assistir TV
+10141716,9/28/2020,Feminino,10/6/1971,tartaruga,quente,Vinho,Praticar esporte
+10142353,9/28/2020,Masculino,10/19/1978,gato,frio,Água,Ler livros
+10142376,9/28/2020,Masculino,4/15/1950,gato,quente,Chá,Assistir TV
+10142740,9/28/2020,Masculino,4/4/1956,gato,moderado,Cerveja,Pintar quadros
+10142878,9/28/2020,Masculino,12/14/1952,cachorro,frio,Café,Escutar música
+10142897,9/28/2020,Masculino,6/10/1995,gato,quente,Café,Ler livros
+10142107,9/29/2020,Masculino,11/23/1985,tartaruga,frio,Vinho,Pintar quadros
+10141948,9/30/2020,Masculino,12/15/1963,tartaruga,frio,Café,Escrever
+10142048,9/30/2020,Masculino,12/24/1956,gato,frio,Água,Ler livros
+10142065,9/30/2020,Masculino,5/26/1974,gato,quente,Café,Ler livros
+10142229,9/30/2020,Masculino,6/7/1991,tartaruga,quente,refrigerante,Pintar quadros
+10143566,9/30/2020,Feminino,10/13/1968,cachorro,quente,refrigerante,Escrever
+10143600,9/30/2020,Feminino,6/29/1978,peixe,frio,Chá,Aprender algo novo
+10141973,10/2/2020,Feminino,10/23/1955,gato,frio,Água,Aprender algo novo
+10142346,10/2/2020,Masculino,1/29/1996,peixe,frio,refrigerante,Assistir TV
+10142401,10/2/2020,Masculino,6/13/1954,gato,moderado,Cerveja,Praticar esporte
+10142534,10/2/2020,Masculino,9/26/1980,peixe,frio,Café,Escutar música
+10142746,10/2/2020,Masculino,8/12/1963,tartaruga,moderado,Chá,Escrever
+10142911,10/2/2020,Masculino,2/16/1956,gato,quente,Água,Praticar esporte
+10143299,10/2/2020,Feminino,1/20/1969,peixe,quente,Chá,Escutar música
+10143382,10/2/2020,Feminino,2/14/1998,gato,frio,Cerveja,Aprender algo novo
+10141881,10/3/2020,Masculino,1/6/1974,peixe,frio,Vinho,Pintar quadros
+10142231,10/3/2020,Masculino,12/30/1992,cachorro,quente,Café,Pintar quadros
+10142770,10/3/2020,Masculino,12/25/1982,peixe,quente,Vinho,Pintar quadros
+10143423,10/3/2020,Masculino,12/8/1982,gato,quente,refrigerante,Escrever
+10143531,10/3/2020,Feminino,1/8/1956,tartaruga,frio,Chá,Escrever
+10143597,10/3/2020,Feminino,6/25/1983,peixe,quente,refrigerante,Aprender algo novo
+10141812,10/4/2020,Masculino,3/22/1963,peixe,moderado,Água,Aprender algo novo
+10142836,10/4/2020,Masculino,10/24/1988,tartaruga,frio,Vinho,Ler livros
+10142906,10/4/2020,Masculino,12/23/1996,cachorro,moderado,Chá,Assistir TV
+10143129,10/4/2020,Feminino,4/19/1988,gato,moderado,Água,Escutar música
+10141950,10/5/2020,Feminino,5/20/1956,gato,moderado,Chá,Aprender algo novo
+10142385,10/5/2020,Masculino,8/18/1968,cachorro,frio,Água,Assistir TV
+10142868,10/5/2020,Masculino,1/25/1972,peixe,frio,Vinho,Ler livros
+10142908,10/5/2020,Masculino,11/5/1999,gato,frio,Vinho,Dormir
+10142842,10/6/2020,Masculino,6/1/1993,peixe,moderado,Cerveja,Assistir TV
+10143128,10/6/2020,Masculino,2/24/1970,gato,frio,refrigerante,Dormir
+10143611,10/6/2020,Masculino,3/30/1994,peixe,frio,Vinho,Assistir TV
+10141545,10/7/2020,Feminino,2/8/1960,peixe,frio,Água,Pintar quadros
+10141569,10/7/2020,Feminino,6/15/1964,cachorro,moderado,Vinho,Escrever
+10141842,10/7/2020,Feminino,12/7/1953,peixe,moderado,Chá,Aprender algo novo
+10142451,10/7/2020,Masculino,9/28/1957,gato,moderado,Vinho,Praticar esporte
+10142763,10/7/2020,Masculino,10/11/1985,gato,moderado,Chá,Escutar música
+10142986,10/7/2020,Masculino,9/28/1991,gato,quente,Café,Pintar quadros
+10143148,10/7/2020,Masculino,5/3/1958,tartaruga,frio,refrigerante,Ler livros
+10141944,10/8/2020,Feminino,8/16/1969,gato,quente,Água,Aprender algo novo
+10142042,10/8/2020,Masculino,5/5/1976,cachorro,quente,Cerveja,Praticar esporte
+10142488,10/8/2020,Masculino,3/11/1984,peixe,moderado,Cerveja,Assistir TV
+10143534,10/8/2020,Masculino,2/13/1972,gato,quente,Vinho,Escutar música
+10143572,10/8/2020,Feminino,8/23/1980,tartaruga,moderado,Cerveja,Assistir TV
+10141606,10/9/2020,Feminino,12/1/1993,peixe,frio,Chá,Pintar quadros
+10141691,10/9/2020,Feminino,7/10/1963,gato,moderado,refrigerante,Escrever
+10141902,10/9/2020,Feminino,10/27/1955,cachorro,moderado,Café,Escutar música
+10142228,10/9/2020,Masculino,2/23/1969,tartaruga,frio,Café,Escrever
+10142619,10/9/2020,Masculino,8/15/1962,gato,moderado,Cerveja,Dormir
+10142916,10/9/2020,Masculino,6/25/1952,peixe,frio,refrigerante,Escrever
+10143295,10/9/2020,Masculino,7/2/1978,gato,moderado,Chá,Ler livros
+10143346,10/9/2020,Masculino,4/13/1978,peixe,moderado,Cerveja,Pintar quadros
+10143619,10/9/2020,Masculino,7/9/1991,cachorro,moderado,Cerveja,Praticar esporte
+10142230,10/10/2020,Masculino,12/15/1989,tartaruga,moderado,Cerveja,Escutar música
+10143202,10/10/2020,Masculino,3/27/1963,gato,moderado,Café,Aprender algo novo
+10142321,10/11/2020,Masculino,4/21/1961,gato,moderado,refrigerante,Pintar quadros
+10142599,10/11/2020,Masculino,4/12/1984,tartaruga,frio,Café,Praticar esporte
+10142940,10/11/2020,Masculino,8/6/1960,cachorro,quente,refrigerante,Escrever
+10143504,10/11/2020,Feminino,11/16/1954,cachorro,frio,Café,Assistir TV
+10142071,10/12/2020,Masculino,3/10/1989,gato,moderado,Água,Aprender algo novo
+10143000,10/12/2020,Masculino,6/28/1976,cachorro,moderado,Chá,Praticar esporte
+10143304,10/12/2020,Feminino,12/21/1979,tartaruga,frio,Cerveja,Aprender algo novo
+10142180,10/13/2020,Masculino,2/24/1967,peixe,quente,refrigerante,Aprender algo novo
+10142437,10/13/2020,Masculino,1/5/1951,peixe,frio,Chá,Ler livros
+10142937,10/13/2020,Masculino,9/18/1954,gato,quente,Chá,Escrever
+10142959,10/13/2020,Masculino,10/15/1993,peixe,frio,refrigerante,Dormir
+10142996,10/13/2020,Masculino,6/14/1956,gato,quente,Cerveja,Praticar esporte
+10143127,10/13/2020,Feminino,12/16/1993,cachorro,quente,Água,Pintar quadros
+10143135,10/13/2020,Feminino,10/11/1997,tartaruga,frio,Água,Escrever
+10143216,10/13/2020,Masculino,2/22/1970,tartaruga,moderado,refrigerante,Praticar esporte
+10143470,10/13/2020,Feminino,6/9/1966,peixe,moderado,Vinho,Assistir TV
+10141568,10/14/2020,Feminino,8/16/1997,cachorro,frio,refrigerante,Assistir TV
+10141686,10/14/2020,Feminino,9/24/1986,peixe,frio,Chá,Praticar esporte
+10141791,10/14/2020,Feminino,1/13/1964,gato,moderado,Vinho,Assistir TV
+10142074,10/14/2020,Masculino,12/26/1976,tartaruga,moderado,Água,Assistir TV
+10142665,10/14/2020,Masculino,12/18/1960,peixe,frio,Cerveja,Dormir
+10143049,10/14/2020,Masculino,8/26/1989,peixe,frio,Café,Assistir TV
+10143178,10/14/2020,Masculino,9/18/1988,gato,frio,Chá,Escrever
+10142044,10/15/2020,Feminino,8/10/1999,tartaruga,moderado,Vinho,Pintar quadros
+10142311,10/15/2020,Masculino,11/26/1993,tartaruga,quente,Café,Aprender algo novo
+10142533,10/15/2020,Masculino,3/6/1958,peixe,moderado,Chá,Dormir
+10142642,10/15/2020,Masculino,5/25/1981,tartaruga,moderado,Cerveja,Ler livros
+10143503,10/15/2020,Masculino,5/20/1973,tartaruga,frio,Cerveja,Pintar quadros
+10143551,10/15/2020,Masculino,5/2/1985,gato,quente,Vinho,Ler livros
+10142644,10/16/2020,Feminino,9/22/1999,gato,frio,refrigerante,Ler livros
+10142843,10/16/2020,Masculino,2/10/1992,peixe,quente,Chá,Aprender algo novo
+10141847,10/17/2020,Masculino,6/13/1987,cachorro,frio,Cerveja,Escutar música
+10142224,10/17/2020,Masculino,10/18/1975,cachorro,moderado,Café,Ler livros
+10142824,10/17/2020,Masculino,1/4/1963,tartaruga,quente,Vinho,Assistir TV
+10143183,10/17/2020,Masculino,3/17/1989,cachorro,quente,Água,Assistir TV
+10143571,10/17/2020,Masculino,8/2/1988,peixe,moderado,Café,Escutar música
+10142027,10/18/2020,Feminino,1/7/1957,gato,frio,refrigerante,Escrever
+10142190,10/18/2020,Masculino,4/1/1965,cachorro,quente,Café,Pintar quadros
+10142350,10/18/2020,Masculino,8/21/1968,gato,moderado,Cerveja,Pintar quadros
+10142755,10/18/2020,Masculino,3/5/1981,gato,quente,Cerveja,Escutar música
+10143105,10/18/2020,Masculino,7/1/1953,gato,frio,refrigerante,Dormir
+10143116,10/18/2020,Masculino,6/7/1956,tartaruga,frio,Água,Assistir TV
+10143584,10/18/2020,Feminino,9/4/1992,gato,frio,Café,Escutar música
+10141506,10/19/2020,Masculino,12/19/1982,cachorro,frio,Vinho,Praticar esporte
+10142387,10/19/2020,Masculino,7/12/1996,peixe,frio,refrigerante,Praticar esporte
+10142390,10/19/2020,Masculino,3/22/1998,gato,quente,Água,Praticar esporte
+10142487,10/19/2020,Masculino,6/28/1996,peixe,moderado,Vinho,Escrever
+10143235,10/19/2020,Masculino,3/20/1975,gato,quente,refrigerante,Escutar música
+10143303,10/19/2020,Masculino,6/16/1956,gato,moderado,Café,Assistir TV
+10143417,10/19/2020,Masculino,11/25/1976,peixe,quente,Chá,Ler livros
+10143604,10/19/2020,Masculino,2/13/1962,peixe,moderado,Água,Ler livros
+10142047,10/20/2020,Feminino,11/8/1996,tartaruga,moderado,refrigerante,Pintar quadros
+10142239,10/20/2020,Masculino,4/13/1995,cachorro,quente,Vinho,Praticar esporte
+10142583,10/20/2020,Masculino,9/9/1983,gato,moderado,Café,Dormir
+10142838,10/20/2020,Masculino,8/6/1982,gato,frio,Vinho,Ler livros
+10143101,10/20/2020,Masculino,2/21/1999,gato,quente,refrigerante,Ler livros
+10143344,10/20/2020,Masculino,6/27/1967,cachorro,frio,Café,Assistir TV
+10141682,10/21/2020,Feminino,7/27/1953,tartaruga,quente,Cerveja,Ler livros
+10142234,10/21/2020,Masculino,10/21/1953,cachorro,frio,Água,Escrever
+10142355,10/21/2020,Masculino,6/11/1999,peixe,frio,Água,Aprender algo novo
+10142510,10/21/2020,Masculino,8/19/1995,gato,quente,Cerveja,Ler livros
+10143068,10/21/2020,Masculino,3/15/1968,gato,moderado,Chá,Ler livros
+10143170,10/21/2020,Feminino,6/10/1966,cachorro,frio,Café,Ler livros
+10143517,10/21/2020,Masculino,7/8/1978,tartaruga,frio,Café,Praticar esporte
+10141623,10/22/2020,Feminino,3/6/1986,gato,quente,refrigerante,Escrever
+10141974,10/22/2020,Feminino,11/4/1970,gato,moderado,Cerveja,Praticar esporte
+10142213,10/22/2020,Masculino,8/15/1963,peixe,frio,refrigerante,Assistir TV
+10142457,10/22/2020,Masculino,11/26/1978,tartaruga,quente,Água,Escutar música
+10142490,10/22/2020,Masculino,2/12/1977,tartaruga,moderado,Vinho,Pintar quadros
+10143083,10/22/2020,Masculino,3/24/1957,tartaruga,moderado,Vinho,Escutar música
+10143254,10/22/2020,Masculino,3/14/1963,gato,moderado,Café,Pintar quadros
+10143479,10/22/2020,Masculino,12/6/1960,tartaruga,quente,refrigerante,Escrever
+10141725,10/23/2020,Feminino,11/18/1986,peixe,moderado,Café,Aprender algo novo
+10141731,10/23/2020,Feminino,9/11/1995,peixe,moderado,Chá,Escutar música
+10141800,10/23/2020,Feminino,6/6/1951,gato,frio,Café,Escutar música
+10141852,10/23/2020,Feminino,7/4/1950,gato,quente,Cerveja,Pintar quadros
+10142045,10/23/2020,Feminino,6/2/1959,peixe,quente,Cerveja,Dormir
+10142147,10/23/2020,Masculino,4/16/1956,gato,quente,Chá,Dormir
+10142244,10/23/2020,Masculino,4/3/1972,gato,frio,Café,Dormir
+10142331,10/23/2020,Masculino,8/16/1990,gato,frio,refrigerante,Dormir
+10143042,10/23/2020,Masculino,7/28/1973,peixe,moderado,Vinho,Aprender algo novo
+10143215,10/23/2020,Masculino,10/1/1966,gato,frio,Café,Escrever
+10141719,10/24/2020,Feminino,9/17/1986,peixe,moderado,Água,Dormir
+10141868,10/24/2020,Feminino,5/22/1977,gato,moderado,Cerveja,Dormir
+10141883,10/24/2020,Feminino,3/22/1981,peixe,moderado,refrigerante,Escutar música
+10142375,10/24/2020,Masculino,5/4/1972,cachorro,moderado,Vinho,Escutar música
+10142957,10/24/2020,Masculino,1/5/1975,gato,moderado,refrigerante,Aprender algo novo
+10143528,10/24/2020,Masculino,4/6/1975,gato,quente,Cerveja,Escrever
+10143573,10/24/2020,Masculino,10/13/1975,peixe,quente,Cerveja,Ler livros
+10141590,10/25/2020,Feminino,12/2/1953,tartaruga,moderado,Chá,Escutar música
+10141649,10/25/2020,Feminino,8/3/1970,cachorro,moderado,Café,Dormir
+10141914,10/25/2020,Masculino,10/21/1980,peixe,quente,Água,Praticar esporte
+10142200,10/25/2020,Masculino,6/9/1950,peixe,quente,refrigerante,Dormir
+10142245,10/25/2020,Masculino,9/4/1997,gato,moderado,refrigerante,Escrever
+10142400,10/25/2020,Masculino,8/23/1974,gato,moderado,Água,Aprender algo novo
+10142485,10/25/2020,Masculino,10/28/1993,tartaruga,moderado,Café,Escrever
+10142802,10/25/2020,Masculino,9/24/1992,tartaruga,frio,Vinho,Aprender algo novo
+10143096,10/25/2020,Masculino,11/22/1960,gato,frio,Vinho,Praticar esporte
+10143218,10/25/2020,Masculino,9/29/1992,cachorro,frio,refrigerante,Assistir TV
+10143225,10/25/2020,Masculino,11/10/1958,gato,frio,Chá,Aprender algo novo
+10143230,10/25/2020,Masculino,11/19/1989,gato,quente,Cerveja,Praticar esporte
+10141904,10/26/2020,Feminino,11/11/1971,gato,frio,Vinho,Escutar música
+10142747,10/26/2020,Masculino,7/28/1961,gato,quente,Cerveja,Assistir TV
+10143029,10/26/2020,Masculino,4/27/1956,gato,frio,refrigerante,Dormir
+10143357,10/26/2020,Feminino,1/7/1953,tartaruga,moderado,Vinho,Praticar esporte
+10141756,10/27/2020,Masculino,4/17/1992,cachorro,frio,Chá,Assistir TV
+10142283,10/27/2020,Masculino,1/14/1997,gato,quente,Chá,Ler livros
+10142524,10/27/2020,Masculino,8/25/1962,tartaruga,quente,Café,Ler livros
+10142743,10/27/2020,Masculino,7/21/1988,gato,frio,Água,Dormir
+10142910,10/27/2020,Masculino,7/29/1994,gato,quente,Cerveja,Ler livros
+10143054,10/27/2020,Masculino,3/26/1981,gato,frio,Café,Praticar esporte
+10141692,10/28/2020,Masculino,2/25/1992,peixe,moderado,Chá,Escutar música
+10141872,10/28/2020,Feminino,12/11/1961,tartaruga,moderado,Vinho,Escutar música
+10142022,10/28/2020,Feminino,2/13/1989,cachorro,moderado,Chá,Ler livros
+10142407,10/28/2020,Masculino,4/7/1976,peixe,frio,Água,Escrever
+10142622,10/28/2020,Feminino,8/10/1957,tartaruga,frio,Cerveja,Dormir
+10142904,10/28/2020,Masculino,4/20/1967,gato,moderado,Cerveja,Escrever
+10143500,10/28/2020,Masculino,12/6/1987,gato,quente,Cerveja,Ler livros
+10141618,10/29/2020,Feminino,5/18/1978,peixe,frio,Chá,Ler livros
+10141889,10/29/2020,Feminino,7/10/1975,peixe,quente,refrigerante,Ler livros
+10142235,10/29/2020,Masculino,4/2/1988,peixe,quente,Vinho,Aprender algo novo
+10142807,10/29/2020,Masculino,7/28/1989,tartaruga,frio,Água,Ler livros
+10143036,10/29/2020,Masculino,2/10/1990,cachorro,quente,Vinho,Aprender algo novo
+10143575,10/29/2020,Masculino,5/26/1984,gato,quente,Água,Escutar música
+10142789,10/30/2020,Masculino,1/16/1962,gato,moderado,refrigerante,Pintar quadros
+10143449,10/30/2020,Feminino,5/21/1964,peixe,moderado,Café,Aprender algo novo
+10142203,10/31/2020,Masculino,5/8/1990,gato,frio,Café,Praticar esporte
+10142205,10/31/2020,Masculino,7/20/1987,tartaruga,moderado,Cerveja,Escutar música
+10142220,10/31/2020,Masculino,4/22/1950,tartaruga,quente,Cerveja,Escrever
+10142367,10/31/2020,Masculino,1/21/1973,gato,quente,Cerveja,Escrever
+10142444,10/31/2020,Masculino,7/21/1953,cachorro,moderado,Água,Dormir
+10142459,10/31/2020,Masculino,1/3/1952,gato,moderado,Cerveja,Escutar música
+10142526,10/31/2020,Masculino,2/4/1992,peixe,frio,Vinho,Escutar música
+10142689,10/31/2020,Masculino,5/9/1980,cachorro,quente,Café,Praticar esporte
+10143063,10/31/2020,Masculino,1/1/1985,peixe,moderado,Chá,Assistir TV
+10141816,11/1/2020,Feminino,4/28/1965,gato,moderado,Cerveja,Escutar música
+10142198,11/1/2020,Masculino,10/6/1980,cachorro,quente,Água,Dormir
+10143498,11/1/2020,Feminino,1/3/1953,tartaruga,quente,Água,Pintar quadros
+10141849,11/2/2020,Feminino,10/13/1999,tartaruga,frio,Chá,Aprender algo novo
+10142096,11/2/2020,Feminino,6/28/1974,cachorro,quente,Chá,Assistir TV
+10142258,11/2/2020,Masculino,1/17/1971,cachorro,quente,Cerveja,Escrever
+10142771,11/2/2020,Masculino,6/15/1971,tartaruga,frio,Chá,Ler livros
+10142934,11/2/2020,Masculino,11/5/1967,gato,quente,Cerveja,Aprender algo novo
+10143354,11/2/2020,Masculino,4/23/1996,gato,frio,refrigerante,Escutar música
+10143444,11/2/2020,Feminino,1/10/1961,cachorro,moderado,Café,Dormir
+10143518,11/2/2020,Masculino,4/20/1993,tartaruga,moderado,Vinho,Escutar música
+10141674,11/3/2020,Feminino,3/14/1963,gato,quente,Cerveja,Aprender algo novo
+10141994,11/3/2020,Feminino,12/1/1958,gato,moderado,refrigerante,Dormir
+10143190,11/3/2020,Masculino,9/3/1966,peixe,quente,Vinho,Escutar música
+10143322,11/3/2020,Masculino,11/19/1997,tartaruga,moderado,Cerveja,Escrever
+10142025,11/4/2020,Feminino,4/22/1968,cachorro,frio,Vinho,Assistir TV
+10142456,11/4/2020,Masculino,5/4/1951,tartaruga,frio,Café,Ler livros
+10143465,11/4/2020,Feminino,3/23/1971,gato,quente,Café,Assistir TV
+10141501,11/5/2020,Feminino,5/22/1984,tartaruga,frio,refrigerante,Assistir TV
+10142417,11/5/2020,Masculino,3/25/1983,gato,frio,Chá,Ler livros
+10142861,11/5/2020,Masculino,6/12/1964,gato,moderado,Café,Escrever
+10143122,11/5/2020,Masculino,8/23/1981,peixe,frio,refrigerante,Escutar música
+10143522,11/5/2020,Masculino,11/12/1965,cachorro,quente,Chá,Escutar música
+10142382,11/6/2020,Masculino,12/12/1971,tartaruga,quente,Cerveja,Pintar quadros
+10142429,11/6/2020,Masculino,9/18/1969,gato,moderado,Café,Escutar música
+10142447,11/6/2020,Masculino,9/9/1998,gato,quente,refrigerante,Escrever
+10142944,11/6/2020,Masculino,9/29/1969,peixe,quente,Chá,Ler livros
+10142956,11/6/2020,Masculino,8/15/1997,tartaruga,frio,Café,Assistir TV
+10143103,11/6/2020,Masculino,3/15/1960,gato,moderado,Café,Praticar esporte
+10143221,11/6/2020,Masculino,7/21/1972,tartaruga,frio,Água,Escutar música
+10143279,11/6/2020,Feminino,8/20/1982,gato,moderado,Café,Pintar quadros
+10143373,11/6/2020,Feminino,2/17/1968,tartaruga,frio,Café,Assistir TV
+10143581,11/6/2020,Feminino,7/14/1969,gato,moderado,Cerveja,Ler livros
+10141622,11/7/2020,Feminino,4/1/1991,peixe,moderado,Café,Pintar quadros
+10141680,11/7/2020,Feminino,1/6/1988,cachorro,quente,Vinho,Aprender algo novo
+10141813,11/7/2020,Feminino,4/6/1964,peixe,moderado,Café,Escutar música
+10142271,11/7/2020,Masculino,5/23/1965,gato,quente,Vinho,Aprender algo novo
+10142409,11/7/2020,Masculino,10/26/1953,tartaruga,quente,Café,Escutar música
+10142558,11/7/2020,Masculino,1/6/1952,cachorro,frio,Chá,Dormir
+10143376,11/7/2020,Feminino,1/8/1954,peixe,quente,Vinho,Dormir
+10143492,11/7/2020,Feminino,10/11/1978,gato,quente,Água,Ler livros
+10141509,11/8/2020,Masculino,9/24/1979,peixe,quente,Água,Aprender algo novo
+10142233,11/8/2020,Masculino,5/15/1993,peixe,frio,Água,Praticar esporte
+10142448,11/8/2020,Masculino,8/31/1965,peixe,frio,Café,Escutar música
+10142741,11/8/2020,Masculino,3/14/1957,gato,frio,Café,Escutar música
+10142786,11/8/2020,Masculino,2/19/1960,gato,moderado,Chá,Escutar música
+10142791,11/8/2020,Masculino,4/16/1984,peixe,frio,refrigerante,Aprender algo novo
+10142968,11/8/2020,Masculino,8/4/1971,tartaruga,quente,Chá,Escrever
+10141546,11/9/2020,Feminino,2/8/1959,gato,frio,refrigerante,Escrever
+10141647,11/9/2020,Feminino,5/17/1973,gato,quente,Vinho,Dormir
+10141840,11/9/2020,Feminino,1/6/1978,peixe,quente,Café,Escutar música
+10142176,11/9/2020,Masculino,2/21/1981,gato,quente,Água,Ler livros
+10142631,11/9/2020,Feminino,6/8/1977,peixe,frio,Chá,Assistir TV
+10143059,11/9/2020,Masculino,12/26/1958,gato,quente,Água,Praticar esporte
+10142403,11/10/2020,Masculino,6/2/1989,peixe,moderado,Chá,Ler livros
+10142577,11/10/2020,Masculino,10/6/1971,gato,moderado,Água,Ler livros
+10142814,11/10/2020,Masculino,8/10/1998,peixe,quente,Vinho,Aprender algo novo
+10142884,11/10/2020,Masculino,12/1/1958,peixe,quente,refrigerante,Assistir TV
+10143150,11/10/2020,Masculino,1/4/1982,cachorro,frio,Cerveja,Pintar quadros
+10143483,11/10/2020,Masculino,11/24/1972,gato,quente,Vinho,Escrever
+10141551,11/11/2020,Feminino,5/5/1957,cachorro,frio,Água,Assistir TV
+10141629,11/11/2020,Feminino,1/18/1967,cachorro,frio,Chá,Escutar música
+10141707,11/11/2020,Feminino,6/21/1968,peixe,quente,Água,Dormir
+10142132,11/11/2020,Feminino,9/9/1981,gato,frio,refrigerante,Assistir TV
+10142307,11/11/2020,Masculino,12/6/1954,gato,moderado,Café,Pintar quadros
+10142612,11/11/2020,Feminino,5/11/1952,peixe,frio,Chá,Ler livros
+10143109,11/11/2020,Masculino,6/10/1993,gato,moderado,Chá,Escutar música
+10143143,11/11/2020,Feminino,1/15/1952,tartaruga,quente,refrigerante,Escrever
+10143262,11/11/2020,Masculino,4/5/1966,gato,frio,Cerveja,Escutar música
+10141540,11/12/2020,Feminino,8/10/1990,peixe,frio,Café,Praticar esporte
+10141667,11/12/2020,Feminino,6/14/1952,tartaruga,moderado,Cerveja,Escutar música
+10142410,11/12/2020,Masculino,9/29/1997,cachorro,quente,Chá,Praticar esporte
+10142468,11/12/2020,Masculino,9/23/1994,gato,quente,Cerveja,Escutar música
+10142858,11/12/2020,Masculino,4/6/1963,gato,quente,refrigerante,Dormir
+10142995,11/12/2020,Masculino,10/5/1969,gato,moderado,Chá,Assistir TV
+10143260,11/12/2020,Masculino,5/19/1962,gato,moderado,Cerveja,Pintar quadros
+10143399,11/12/2020,Feminino,4/17/1988,peixe,moderado,Vinho,Praticar esporte
+10142087,11/13/2020,Masculino,7/24/1950,gato,moderado,Cerveja,Ler livros
+10142095,11/13/2020,Masculino,7/25/1951,cachorro,frio,Cerveja,Dormir
+10142901,11/13/2020,Masculino,7/7/1990,gato,quente,Vinho,Escrever
+10143211,11/13/2020,Masculino,4/26/1996,tartaruga,frio,Café,Aprender algo novo
+10142653,11/14/2020,Masculino,9/23/1979,gato,frio,Café,Praticar esporte
+10143126,11/14/2020,Masculino,7/13/1967,gato,moderado,Água,Praticar esporte
+10141700,11/15/2020,Masculino,10/23/1971,cachorro,quente,Cerveja,Assistir TV
+10141757,11/15/2020,Masculino,12/4/1966,tartaruga,moderado,Água,Praticar esporte
+10141972,11/15/2020,Masculino,8/10/1998,gato,frio,Chá,Aprender algo novo
+10142060,11/15/2020,Feminino,12/5/1995,gato,quente,Cerveja,Ler livros
+10142623,11/15/2020,Feminino,6/28/1970,cachorro,frio,Água,Aprender algo novo
+10142831,11/15/2020,Masculino,11/12/1995,cachorro,moderado,Água,Ler livros
+10142852,11/15/2020,Masculino,11/20/1990,gato,moderado,Café,Pintar quadros
+10143072,11/15/2020,Masculino,1/29/1977,gato,quente,Vinho,Pintar quadros
+10143219,11/15/2020,Masculino,2/20/1966,gato,frio,Café,Praticar esporte
+10143350,11/15/2020,Masculino,1/11/1972,gato,moderado,refrigerante,Pintar quadros
+10143562,11/15/2020,Masculino,10/4/1961,peixe,quente,Café,Praticar esporte
+10141572,11/16/2020,Feminino,6/24/1978,tartaruga,moderado,refrigerante,Pintar quadros
+10142004,11/16/2020,Feminino,4/14/1983,gato,moderado,Cerveja,Aprender algo novo
+10142069,11/16/2020,Feminino,8/13/1968,cachorro,moderado,Café,Ler livros
+10142219,11/16/2020,Masculino,8/1/1971,cachorro,quente,Chá,Dormir
+10142324,11/16/2020,Masculino,6/25/1989,gato,quente,Chá,Escrever
+10142515,11/16/2020,Masculino,10/15/1980,gato,frio,Vinho,Escutar música
+10142565,11/16/2020,Masculino,6/9/1974,gato,quente,refrigerante,Aprender algo novo
+10142712,11/16/2020,Masculino,1/18/1983,cachorro,frio,Cerveja,Ler livros
+10143324,11/16/2020,Masculino,5/9/1988,tartaruga,frio,Chá,Ler livros
+10142029,11/17/2020,Feminino,9/16/1977,tartaruga,moderado,refrigerante,Escrever
+10142105,11/17/2020,Masculino,9/5/1950,tartaruga,frio,Cerveja,Dormir
+10142302,11/17/2020,Masculino,4/18/1969,gato,quente,Chá,Ler livros
+10142334,11/17/2020,Masculino,9/2/1973,gato,frio,Cerveja,Escrever
+10142606,11/17/2020,Feminino,7/29/1950,gato,frio,Vinho,Praticar esporte
+10142888,11/17/2020,Masculino,2/7/1985,gato,moderado,Água,Aprender algo novo
+10142994,11/17/2020,Masculino,9/29/1975,gato,quente,Cerveja,Aprender algo novo
+10141632,11/18/2020,Feminino,1/30/1960,gato,quente,Cerveja,Escutar música
+10141688,11/18/2020,Feminino,6/14/1961,tartaruga,quente,Chá,Ler livros
+10141727,11/18/2020,Feminino,12/26/1975,tartaruga,moderado,refrigerante,Pintar quadros
+10141982,11/18/2020,Masculino,7/16/1994,gato,moderado,Água,Ler livros
+10142078,11/18/2020,Feminino,8/21/1991,gato,quente,Café,Dormir
+10142579,11/18/2020,Masculino,7/23/1994,gato,quente,Chá,Ler livros
+10142829,11/18/2020,Masculino,12/25/1979,cachorro,moderado,Cerveja,Pintar quadros
+10141832,11/19/2020,Feminino,1/24/1954,tartaruga,quente,Cerveja,Ler livros
+10141870,11/19/2020,Feminino,11/5/1950,cachorro,frio,refrigerante,Praticar esporte
+10141908,11/19/2020,Feminino,10/14/1982,gato,frio,Café,Aprender algo novo
+10142379,11/19/2020,Masculino,2/27/1978,tartaruga,frio,Água,Pintar quadros
+10142877,11/19/2020,Masculino,5/21/1997,gato,frio,Água,Escrever
+10143149,11/19/2020,Feminino,12/17/1984,tartaruga,quente,Água,Escrever
+10143582,11/19/2020,Masculino,5/1/1974,cachorro,frio,refrigerante,Escutar música
+10141909,11/20/2020,Feminino,8/8/1960,peixe,frio,Chá,Escutar música
+10141971,11/20/2020,Feminino,4/19/1965,cachorro,frio,refrigerante,Dormir
+10142007,11/20/2020,Feminino,2/11/1980,peixe,moderado,Café,Aprender algo novo
+10142056,11/20/2020,Feminino,6/12/1973,cachorro,quente,refrigerante,Praticar esporte
+10142722,11/20/2020,Masculino,5/31/1972,peixe,frio,Cerveja,Aprender algo novo
+10142924,11/20/2020,Masculino,9/24/1971,gato,frio,Cerveja,Praticar esporte
+10143383,11/20/2020,Feminino,7/14/1957,gato,frio,Vinho,Ler livros
+10141993,11/21/2020,Feminino,6/23/1990,peixe,frio,Chá,Escrever
+10142586,11/21/2020,Masculino,7/13/1989,cachorro,moderado,Vinho,Assistir TV
+10142681,11/21/2020,Masculino,5/9/1978,peixe,quente,Cerveja,Aprender algo novo
+10142787,11/21/2020,Masculino,10/17/1986,tartaruga,frio,Café,Aprender algo novo
+10143309,11/21/2020,Masculino,12/13/1961,peixe,frio,Cerveja,Ler livros
+10142005,11/22/2020,Feminino,10/29/1963,cachorro,quente,Vinho,Pintar quadros
+10142480,11/22/2020,Masculino,7/25/1984,peixe,frio,Café,Ler livros
+10142955,11/22/2020,Masculino,6/8/1960,tartaruga,moderado,Chá,Escrever
+10143281,11/22/2020,Feminino,8/9/1953,gato,moderado,Chá,Ler livros
+10143585,11/22/2020,Feminino,7/8/1965,cachorro,moderado,Chá,Ler livros
+10141502,11/23/2020,Masculino,6/27/1998,gato,quente,Café,Aprender algo novo
+10142536,11/23/2020,Masculino,11/3/1996,gato,quente,Água,Praticar esporte
+10142859,11/23/2020,Masculino,9/5/1987,peixe,quente,Café,Praticar esporte
+10143308,11/23/2020,Feminino,2/22/1973,peixe,quente,Vinho,Escrever
+10143480,11/23/2020,Masculino,3/25/1981,gato,moderado,Água,Escrever
+10143520,11/23/2020,Masculino,9/13/1964,tartaruga,moderado,Café,Praticar esporte
+10143606,11/23/2020,Feminino,5/26/1951,peixe,frio,Vinho,Pintar quadros
+10141562,11/24/2020,Feminino,5/17/1979,tartaruga,quente,Vinho,Aprender algo novo
+10141879,11/24/2020,Feminino,5/18/1991,tartaruga,moderado,Vinho,Aprender algo novo
+10141915,11/24/2020,Masculino,2/10/1986,peixe,moderado,refrigerante,Pintar quadros
+10141992,11/24/2020,Feminino,9/17/1981,gato,moderado,Água,Escutar música
+10142240,11/24/2020,Masculino,8/6/1951,tartaruga,moderado,Água,Ler livros
+10142821,11/24/2020,Masculino,6/22/1958,gato,moderado,Café,Aprender algo novo
+10142840,11/24/2020,Masculino,8/19/1989,peixe,frio,Chá,Escrever
+10142965,11/24/2020,Masculino,8/26/1991,gato,quente,Café,Assistir TV
+10143527,11/24/2020,Masculino,9/26/1969,tartaruga,moderado,Café,Aprender algo novo
+10143568,11/24/2020,Feminino,7/14/1998,peixe,frio,refrigerante,Ler livros
+10143599,11/24/2020,Feminino,3/16/1993,cachorro,frio,Chá,Escutar música
+10141708,11/25/2020,Feminino,3/17/1977,gato,moderado,refrigerante,Pintar quadros
+10141804,11/25/2020,Feminino,1/2/1965,peixe,quente,Cerveja,Praticar esporte
+10141978,11/25/2020,Feminino,11/10/1991,cachorro,quente,Vinho,Escutar música
+10142122,11/25/2020,Feminino,1/16/1981,gato,quente,Vinho,Escrever
+10142590,11/25/2020,Masculino,5/20/1959,tartaruga,moderado,Chá,Aprender algo novo
+10142643,11/25/2020,Feminino,1/20/1993,cachorro,quente,Café,Pintar quadros
+10143066,11/25/2020,Masculino,2/15/1962,gato,quente,Água,Dormir
+10142402,11/26/2020,Masculino,7/5/1995,gato,moderado,Água,Praticar esporte
+10142440,11/26/2020,Masculino,11/24/1977,tartaruga,quente,Chá,Assistir TV
+10142775,11/26/2020,Masculino,9/20/1975,tartaruga,quente,Café,Pintar quadros
+10142801,11/26/2020,Masculino,8/19/1950,cachorro,moderado,Cerveja,Pintar quadros
+10143165,11/26/2020,Feminino,7/9/1991,gato,quente,Cerveja,Aprender algo novo
+10141986,11/27/2020,Feminino,7/7/1986,gato,frio,Vinho,Pintar quadros
+10142442,11/27/2020,Masculino,4/18/1967,gato,frio,Cerveja,Ler livros
+10142922,11/27/2020,Masculino,7/16/1994,gato,moderado,Café,Aprender algo novo
+10143030,11/27/2020,Masculino,11/16/1987,peixe,frio,Vinho,Ler livros
+10143138,11/27/2020,Masculino,6/2/1986,cachorro,moderado,Café,Escutar música
+10143217,11/27/2020,Masculino,12/20/1993,tartaruga,moderado,refrigerante,Pintar quadros
+10143311,11/27/2020,Feminino,10/9/1955,peixe,frio,Chá,Praticar esporte
+10143419,11/27/2020,Masculino,7/2/1987,peixe,moderado,Café,Escrever
+10141558,11/28/2020,Feminino,5/24/1958,gato,moderado,Café,Escutar música
+10141567,11/28/2020,Feminino,3/4/1965,cachorro,quente,Cerveja,Escrever
+10141604,11/28/2020,Feminino,8/1/1954,gato,moderado,refrigerante,Escrever
+10141921,11/28/2020,Feminino,9/1/1966,cachorro,quente,Chá,Assistir TV
+10141976,11/28/2020,Feminino,9/14/1967,peixe,quente,Vinho,Escutar música
+10143388,11/28/2020,Feminino,4/17/1975,gato,moderado,Vinho,Dormir
+10143439,11/28/2020,Feminino,3/5/1987,tartaruga,frio,Café,Escutar música
+10143511,11/28/2020,Feminino,10/9/1983,gato,frio,Água,Praticar esporte
+10141764,11/29/2020,Masculino,6/11/1951,peixe,frio,Chá,Praticar esporte
+10141833,11/29/2020,Feminino,2/6/1963,gato,frio,Chá,Assistir TV
+10142165,11/29/2020,Masculino,6/9/1985,tartaruga,quente,Café,Dormir
+10142578,11/29/2020,Masculino,8/3/1991,gato,frio,Chá,Dormir
+10142658,11/29/2020,Masculino,8/2/1965,gato,frio,Chá,Pintar quadros
+10143306,11/29/2020,Feminino,4/22/1987,gato,quente,Chá,Ler livros
+10143395,11/29/2020,Masculino,9/25/1963,gato,frio,Vinho,Dormir
+10141698,11/30/2020,Masculino,4/25/1959,tartaruga,frio,refrigerante,Escutar música
+10141839,11/30/2020,Feminino,4/20/1994,gato,frio,refrigerante,Aprender algo novo
+10142210,11/30/2020,Masculino,1/21/1989,tartaruga,frio,Vinho,Ler livros
+10143363,11/30/2020,Masculino,12/28/1953,gato,frio,refrigerante,Escrever
+10143532,11/30/2020,Masculino,6/13/1997,gato,moderado,Água,Escutar música
+10141742,12/1/2020,Masculino,6/6/1983,gato,moderado,Cerveja,Aprender algo novo
+10143440,12/1/2020,Feminino,3/3/1990,gato,moderado,Café,Pintar quadros
+10141752,12/2/2020,Masculino,1/24/1950,peixe,quente,Vinho,Aprender algo novo
+10142208,12/2/2020,Masculino,5/3/1964,peixe,frio,Café,Aprender algo novo
+10142428,12/2/2020,Masculino,1/28/1976,gato,quente,Cerveja,Escutar música
+10142649,12/2/2020,Feminino,5/24/1987,tartaruga,moderado,Café,Escutar música
+10143266,12/2/2020,Masculino,12/9/1990,gato,frio,Água,Praticar esporte
+10143271,12/2/2020,Feminino,11/4/1986,tartaruga,quente,Café,Dormir
+10143367,12/2/2020,Masculino,4/4/1958,gato,moderado,Café,Aprender algo novo
+10143463,12/2/2020,Masculino,1/31/1988,gato,moderado,Vinho,Aprender algo novo
+10143529,12/2/2020,Masculino,4/23/1974,cachorro,quente,Vinho,Ler livros
+10143627,12/2/2020,Masculino,6/16/1963,peixe,moderado,Água,Ler livros
+10142119,12/3/2020,Feminino,8/27/1969,gato,quente,Vinho,Escutar música
+10142614,12/3/2020,Masculino,5/13/1953,peixe,quente,Água,Pintar quadros
+10142907,12/3/2020,Masculino,10/20/1971,gato,frio,Cerveja,Assistir TV
+10143437,12/3/2020,Feminino,1/2/1950,peixe,quente,Café,Escrever
+10143569,12/3/2020,Masculino,6/8/1955,gato,moderado,Vinho,Escrever
+10142412,12/4/2020,Masculino,8/1/1963,gato,moderado,Café,Pintar quadros
+10142999,12/4/2020,Masculino,10/25/1972,cachorro,frio,Vinho,Escrever
+10143121,12/4/2020,Masculino,1/19/1982,cachorro,frio,Café,Escrever
+10143161,12/4/2020,Feminino,8/20/1979,peixe,moderado,Vinho,Pintar quadros
+10143195,12/4/2020,Masculino,9/6/1991,peixe,frio,Café,Escrever
+10141737,12/5/2020,Feminino,5/21/1998,cachorro,quente,Cerveja,Pintar quadros
+10142098,12/5/2020,Feminino,6/27/1995,gato,quente,Chá,Escrever
+10143084,12/5/2020,Masculino,5/1/1988,gato,frio,refrigerante,Praticar esporte
+10143171,12/5/2020,Feminino,4/21/1974,tartaruga,frio,Café,Aprender algo novo
+10142154,12/6/2020,Masculino,6/3/1953,gato,frio,Água,Dormir
+10142313,12/6/2020,Masculino,9/19/1967,gato,moderado,Vinho,Escrever
+10142856,12/6/2020,Masculino,6/12/1969,gato,quente,Chá,Pintar quadros
+10142418,12/7/2020,Masculino,5/4/1995,tartaruga,quente,Água,Dormir
+10142435,12/7/2020,Masculino,10/28/1953,peixe,frio,Água,Pintar quadros
+10143420,12/7/2020,Masculino,12/17/1968,gato,moderado,refrigerante,Praticar esporte
+10141665,12/8/2020,Masculino,2/1/1970,cachorro,moderado,Água,Praticar esporte
+10142158,12/8/2020,Masculino,2/15/1954,gato,quente,Vinho,Escutar música
+10142223,12/8/2020,Masculino,2/24/1977,gato,moderado,Chá,Escrever
+10142492,12/8/2020,Masculino,5/25/1973,peixe,moderado,Chá,Ler livros
+10142708,12/8/2020,Masculino,9/17/1993,peixe,moderado,Vinho,Aprender algo novo
+10142762,12/8/2020,Masculino,9/21/1957,gato,quente,Café,Aprender algo novo
+10143047,12/8/2020,Masculino,12/14/1987,tartaruga,frio,Chá,Aprender algo novo
+10143188,12/8/2020,Masculino,7/2/1963,gato,frio,Cerveja,Pintar quadros
+10143370,12/8/2020,Masculino,11/25/1987,cachorro,frio,refrigerante,Ler livros
+10141553,12/9/2020,Feminino,2/15/1987,gato,frio,Vinho,Ler livros
+10142215,12/9/2020,Masculino,12/1/1953,gato,moderado,refrigerante,Assistir TV
+10143288,12/9/2020,Masculino,8/2/1986,gato,moderado,refrigerante,Ler livros
+10143577,12/9/2020,Masculino,11/16/1970,tartaruga,moderado,Vinho,Praticar esporte
+10141626,12/10/2020,Feminino,5/24/1998,gato,frio,Café,Dormir
+10141652,12/10/2020,Feminino,1/26/1954,cachorro,moderado,refrigerante,Pintar quadros
+10142058,12/10/2020,Masculino,10/29/1988,gato,quente,refrigerante,Assistir TV
+10143082,12/10/2020,Masculino,10/23/1980,peixe,quente,Cerveja,Pintar quadros
+10143626,12/10/2020,Masculino,9/8/1956,gato,quente,refrigerante,Ler livros
+10141672,12/11/2020,Feminino,1/20/1951,cachorro,moderado,Cerveja,Dormir
+10142294,12/11/2020,Masculino,12/1/1982,tartaruga,frio,Chá,Aprender algo novo
+10142630,12/11/2020,Feminino,10/21/1988,cachorro,frio,Cerveja,Escutar música
+10142997,12/11/2020,Masculino,9/18/1961,peixe,moderado,Café,Aprender algo novo
+10141768,12/12/2020,Feminino,5/18/1979,gato,frio,Cerveja,Ler livros
+10141898,12/12/2020,Masculino,4/3/1974,cachorro,frio,Café,Assistir TV
+10142265,12/12/2020,Masculino,2/11/1994,gato,quente,Água,Aprender algo novo
+10142759,12/12/2020,Masculino,8/31/1971,tartaruga,quente,Café,Aprender algo novo
+10142928,12/12/2020,Masculino,9/13/1986,gato,frio,Vinho,Ler livros
+10142989,12/12/2020,Masculino,5/5/1977,gato,frio,Água,Escutar música
+10143181,12/12/2020,Masculino,8/17/1997,tartaruga,quente,Vinho,Pintar quadros
+10143241,12/12/2020,Masculino,8/24/1952,tartaruga,frio,Cerveja,Aprender algo novo
+10141949,12/13/2020,Masculino,9/15/1993,peixe,quente,refrigerante,Assistir TV
+10142088,12/13/2020,Masculino,4/3/1985,gato,frio,Vinho,Ler livros
+10142299,12/13/2020,Masculino,11/8/1978,tartaruga,frio,Cerveja,Pintar quadros
+10142319,12/13/2020,Masculino,8/19/1988,gato,moderado,Água,Pintar quadros
+10142544,12/13/2020,Masculino,4/27/1993,peixe,frio,Chá,Escutar música
+10143064,12/13/2020,Masculino,4/14/1964,gato,moderado,Cerveja,Escutar música
+10143106,12/13/2020,Masculino,2/11/1965,peixe,moderado,refrigerante,Praticar esporte
+10143312,12/13/2020,Masculino,10/21/1993,tartaruga,quente,refrigerante,Ler livros
+10143333,12/13/2020,Feminino,2/15/1951,cachorro,quente,Café,Aprender algo novo
+10141578,12/14/2020,Feminino,4/28/1951,gato,moderado,Água,Pintar quadros
+10141749,12/14/2020,Masculino,11/6/1969,gato,moderado,Água,Assistir TV
+10142329,12/14/2020,Masculino,7/18/1950,gato,moderado,Chá,Escrever
+10142344,12/14/2020,Masculino,4/5/1998,cachorro,quente,Vinho,Assistir TV
+10142690,12/14/2020,Masculino,6/10/1974,gato,frio,Café,Pintar quadros
+10142699,12/14/2020,Masculino,3/19/1981,gato,frio,Água,Aprender algo novo
+10142715,12/14/2020,Masculino,7/15/1998,peixe,frio,refrigerante,Aprender algo novo
+10141588,12/15/2020,Feminino,1/8/1957,tartaruga,frio,Água,Pintar quadros
+10142745,12/15/2020,Masculino,12/30/1988,cachorro,moderado,refrigerante,Ler livros
+10142463,12/16/2020,Masculino,5/17/1989,peixe,frio,Cerveja,Praticar esporte
+10143145,12/16/2020,Masculino,7/16/1964,tartaruga,moderado,Água,Escrever
+10143246,12/16/2020,Masculino,3/14/1978,gato,quente,Cerveja,Pintar quadros
+10141928,12/17/2020,Feminino,8/7/1971,cachorro,moderado,refrigerante,Pintar quadros
+10142254,12/17/2020,Masculino,1/28/1986,gato,quente,Água,Dormir
+10142505,12/17/2020,Masculino,7/18/1999,gato,quente,Chá,Escutar música
+10141542,12/18/2020,Masculino,7/5/1972,gato,frio,Chá,Pintar quadros
+10141685,12/18/2020,Masculino,7/12/1999,peixe,quente,Café,Assistir TV
+10141726,12/18/2020,Feminino,9/25/1989,gato,frio,Café,Assistir TV
+10141759,12/18/2020,Masculino,5/5/1966,gato,moderado,Água,Escrever
+10142077,12/18/2020,Masculino,12/23/1993,cachorro,moderado,Água,Pintar quadros
+10142124,12/18/2020,Feminino,10/21/1977,cachorro,quente,Cerveja,Escrever
+10143353,12/18/2020,Masculino,9/19/1954,gato,frio,refrigerante,Aprender algo novo
+10141876,12/19/2020,Feminino,12/20/1972,gato,frio,Vinho,Aprender algo novo
+10141899,12/19/2020,Masculino,9/18/1969,gato,moderado,Chá,Pintar quadros
+10143110,12/19/2020,Masculino,7/25/1951,gato,moderado,refrigerante,Praticar esporte
+10143158,12/19/2020,Feminino,10/18/1988,gato,quente,refrigerante,Escutar música
+10143159,12/19/2020,Feminino,7/16/1956,peixe,quente,Café,Escutar música
+10141762,12/20/2020,Masculino,8/7/1970,gato,moderado,Chá,Dormir
+10142032,12/20/2020,Feminino,10/17/1991,gato,frio,Cerveja,Praticar esporte
+10142869,12/20/2020,Masculino,6/18/1960,tartaruga,moderado,Chá,Praticar esporte
+10142020,12/21/2020,Feminino,8/2/1973,gato,quente,refrigerante,Dormir
+10142211,12/21/2020,Masculino,12/16/1995,peixe,frio,Água,Assistir TV
+10142252,12/21/2020,Masculino,10/25/1990,gato,moderado,Água,Ler livros
+10142277,12/21/2020,Masculino,9/13/1961,tartaruga,quente,refrigerante,Dormir
+10142127,12/22/2020,Masculino,8/2/1998,cachorro,frio,Chá,Ler livros
+10142161,12/22/2020,Masculino,9/21/1973,gato,frio,Cerveja,Aprender algo novo
+10142893,12/22/2020,Masculino,8/1/1955,tartaruga,quente,Chá,Praticar esporte
+10142977,12/22/2020,Masculino,12/28/1966,tartaruga,moderado,Cerveja,Dormir
+10143062,12/22/2020,Masculino,2/10/1993,gato,frio,Água,Pintar quadros
+10143142,12/22/2020,Feminino,9/4/1956,peixe,frio,Água,Praticar esporte
+10143227,12/22/2020,Masculino,2/21/1986,peixe,quente,Vinho,Aprender algo novo
+10141617,12/23/2020,Feminino,6/22/1950,gato,frio,refrigerante,Pintar quadros
+10142393,12/23/2020,Masculino,9/18/1970,peixe,moderado,Cerveja,Escutar música
+10142971,12/23/2020,Masculino,12/26/1951,gato,frio,refrigerante,Escrever
+10143012,12/23/2020,Masculino,5/17/1968,gato,quente,Água,Aprender algo novo
+10143624,12/23/2020,Masculino,4/1/1959,gato,moderado,Chá,Ler livros
+10141760,12/24/2020,Masculino,8/3/1978,gato,quente,Chá,Escrever
+10141806,12/24/2020,Feminino,4/22/1993,gato,frio,refrigerante,Dormir
+10141888,12/24/2020,Feminino,12/27/1983,gato,quente,refrigerante,Escrever
+10142181,12/24/2020,Masculino,7/29/1998,peixe,moderado,Chá,Praticar esporte
+10142352,12/24/2020,Masculino,6/15/1953,gato,quente,Água,Escrever
+10142863,12/24/2020,Masculino,8/11/1965,cachorro,quente,refrigerante,Pintar quadros
+10142981,12/24/2020,Masculino,9/4/1953,gato,moderado,Vinho,Praticar esporte
+10143114,12/24/2020,Masculino,12/24/1967,gato,quente,Cerveja,Praticar esporte
+10143535,12/24/2020,Masculino,1/24/1957,cachorro,moderado,Cerveja,Ler livros
+10142185,12/25/2020,Masculino,1/9/1991,tartaruga,moderado,Água,Escutar música
+10142227,12/25/2020,Masculino,3/29/1989,peixe,moderado,Vinho,Dormir
+10143558,12/25/2020,Masculino,5/11/1952,tartaruga,quente,Vinho,Escutar música
+10142601,12/26/2020,Masculino,9/19/1976,cachorro,quente,Chá,Assistir TV
+10142772,12/26/2020,Masculino,1/18/1997,gato,moderado,Chá,Escrever
+10143078,12/26/2020,Masculino,7/28/1990,gato,frio,Vinho,Dormir
+10143173,12/26/2020,Masculino,8/5/1953,tartaruga,moderado,refrigerante,Ler livros
+10143530,12/26/2020,Feminino,5/3/1983,peixe,frio,Vinho,Pintar quadros
+10141765,12/27/2020,Masculino,11/5/1971,cachorro,moderado,Água,Ler livros
+10141820,12/27/2020,Feminino,5/30/1988,gato,quente,Chá,Praticar esporte
+10142126,12/27/2020,Masculino,11/11/1965,tartaruga,quente,Cerveja,Assistir TV
+10142267,12/27/2020,Masculino,3/29/1962,gato,moderado,Café,Pintar quadros
+10142664,12/27/2020,Masculino,12/31/1971,cachorro,quente,refrigerante,Assistir TV
+10142727,12/27/2020,Masculino,12/14/1990,tartaruga,moderado,Vinho,Escrever
+10143345,12/27/2020,Feminino,10/17/1994,peixe,quente,Vinho,Aprender algo novo
+10143460,12/27/2020,Masculino,2/22/1993,gato,quente,Vinho,Assistir TV
+10141763,12/28/2020,Masculino,10/29/1961,gato,moderado,Água,Praticar esporte
+10142046,12/28/2020,Masculino,3/3/1999,gato,moderado,refrigerante,Escrever
+10142408,12/28/2020,Masculino,12/31/1964,cachorro,frio,refrigerante,Escrever
+10142576,12/28/2020,Masculino,9/24/1982,tartaruga,moderado,Água,Pintar quadros
+10142819,12/28/2020,Masculino,2/19/1951,peixe,moderado,Vinho,Ler livros
+10143087,12/28/2020,Masculino,9/5/1962,gato,quente,Cerveja,Aprender algo novo
+10143464,12/28/2020,Feminino,3/3/1960,tartaruga,frio,Chá,Ler livros
+10141538,12/29/2020,Feminino,7/19/1950,cachorro,quente,Café,Aprender algo novo
+10141656,12/29/2020,Feminino,12/27/1981,peixe,moderado,Água,Praticar esporte
+10141778,12/29/2020,Masculino,11/14/1967,tartaruga,quente,Cerveja,Dormir
+10142003,12/29/2020,Feminino,5/4/1987,cachorro,quente,Cerveja,Escutar música
+10142040,12/29/2020,Feminino,9/11/1978,peixe,moderado,Água,Ler livros
+10142621,12/29/2020,Feminino,11/18/1981,cachorro,moderado,Vinho,Ler livros
+10142663,12/29/2020,Masculino,9/29/1960,gato,quente,Chá,Aprender algo novo
+10141560,12/30/2020,Feminino,6/5/1969,tartaruga,quente,Café,Ler livros
+10142072,12/30/2020,Masculino,2/29/1960,peixe,frio,refrigerante,Escrever
+10142286,12/30/2020,Masculino,8/31/1966,peixe,moderado,refrigerante,Aprender algo novo
+10142466,12/30/2020,Masculino,1/19/1969,cachorro,quente,Chá,Praticar esporte
+10143067,12/30/2020,Masculino,12/25/1961,peixe,quente,Cerveja,Escutar música
+10143595,12/30/2020,Masculino,1/22/1958,tartaruga,frio,Café,Pintar quadros
+10142416,12/31/2020,Masculino,5/7/1996,gato,frio,Cerveja,Pintar quadros
+10142475,12/31/2020,Masculino,5/30/1955,peixe,quente,Café,Praticar esporte
+10142522,12/31/2020,Masculino,12/22/1954,peixe,moderado,Cerveja,Praticar esporte
+10142881,12/31/2020,Masculino,7/30/1952,gato,frio,refrigerante,Assistir TV
+10143184,12/31/2020,Masculino,6/5/1984,tartaruga,quente,refrigerante,Pintar quadros
+10143307,12/31/2020,Masculino,8/29/1971,tartaruga,moderado,refrigerante,Pintar quadros
