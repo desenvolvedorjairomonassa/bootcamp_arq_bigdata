@@ -1,2 +1,2 @@
-# bootcamp_arquiteto_bigdata
+# bigdata
 Bootcamp de Arquiteto de bigdata da IGTI  
